@@ -1,0 +1,46 @@
+*** AcidAMP 2001 VER 1.0 ***
+
+AcidAMP 2001 is a new skin GUI for Winamp 1.8.
+
+
+* Version 1.0 *
+The first release.
+As with all my stuff, if you have any compliments, contributions, or recommendations, send them to
+"msacid@dial.pipex.com"
+Thanks.
+
+* Useage *
+Make sure you have winamp 1.8 or later for a start.  If your not sure, go to nullsofts site:
+Http://www.winamp.com
+and get it.
+Unzip the zip file to your skins directory, making sure that you have "use folder names" checked on your winzip (or whatever unzipper you use).
+This should create a directory within your skins directory called "AcidAMP 2001", with my skin files in there.
+Your directory structure should look like this:
+
+Winamp
+   |-Skins
+   |   |-AcidAMP 2001
+   |-Plugins
+
+Then, load up winamp.  hold down the left "alt" key and press "s" at the same time.  This will bring up the skins menu, where you can select AcidAMP 2001 form the menu.
+Click ok, and the GUI should have changed.
+
+* Credits: *
+-=[ AciD ]=- : GUI
+Http://www.Geocities.com/TimesSquare/Lair/7785/
+
+Nullsoft : Winamp 1.81
+Http://www.Winamp.com/
+
+
+* Recommended links / plugins: *
+Nullsoft Windowshade Docker:
+http://www.winamp.com/
+
+Cthugha-4-Winamp:
+http://islands.zesoi.fer.hr/~kpisacic/cthugha (the best non 3DFX winamp plugin EVER!!!)
+
+Auto convert (A small file that I made to automatically convert old 1.73 or earlier winamp GUI's to the new 1.8 type)
+Http://www.Geocities.com/TimesSquare/Lair/7785/AUTOCONV.ZIP
+
+-*- Dedicated to Mel -*-
