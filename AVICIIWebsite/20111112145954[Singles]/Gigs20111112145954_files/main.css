@@ -1,0 +1,768 @@
+body{
+	background-color: #E4E4E4;
+	color: #000;
+	font-family: Helvetica, Arial;
+}
+a{
+	color :#000;
+	text-decoration: none;
+}
+@font-face {
+    font-family: "Tungsten";
+    src: url("/web/20130115163838im_/http://www.avicii.com/lib/style/fonts/Tungsten-Medium.otf");
+}
+strong,b{font-weight: bold;}
+em, i{font-style: italic;}
+.clearer{
+	clear: both;
+}
+.shadow{
+	border: 1px solid #DBDBDB;
+	-moz-box-shadow: 0 2px 10px #888;
+	-webkit-box-shadow: 0 2px 10px#888;
+	box-shadow: 0 2px 10px #888;
+}
+.mini-shadow{
+	-moz-box-shadow: 0 2px 10px #888;
+	-webkit-box-shadow: 0 2px 10px #888;
+	box-shadow: 0 2px 10px #888;
+	behavior: url(/web/20130115163838im_/http://www.avicii.com/lib/style/pie.htc);
+}
+.rounded{
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	behavior: url(/web/20130115163838im_/http://www.avicii.com/lib/style/pie.htc);
+}
+.opacity-plate{
+	background: rgb(234,6,140);
+	/* RGBa with 0.6 opacity */
+	background: rgba(234,6,140, 0.8);
+	/* For IE 5.5 - 7*/
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCea068c, endColorstr=#CCea068c);
+	/* For IE 8*/
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCea068c, endColorstr=#CCea068c)";
+	behavior: url(/web/20130115163838im_/http://www.avicii.com/lib/style/pie.htc);
+}
+body #footer{
+	width: 960px;
+	margin: -20px auto 0;
+	text-align: right;
+}
+body.index #footer{
+	margin: 0 auto 0 !important;
+}
+body.shadowed #page-wrapper{
+	width: 960px;
+	-moz-box-shadow: 0 2px 10px #888;
+	-webkit-box-shadow: 0 2px 10px #888;
+	box-shadow: 0 2px 10px #888;
+	border: 1px solid #DBDBDB;
+	margin: 40px auto;
+	background-color: #fff;
+	behavior: url(/web/20130115163838im_/http://www.avicii.com/lib/style/pie.htc);
+}
+	 #header-wrapper {
+		background-color: #FFFFFF;
+		margin: 40px auto 0;
+		padding: 20px 0px;
+		position: relative;
+		width: 960px;
+		height: 140px;
+	}
+	body.shadowed #header-wrapper{
+		margin-top: 0px !important;
+	}
+		#header-wrapper #facebook-wrapper{
+			position: absolute;
+			right: 0px;
+			top: -33px;
+		}
+		 #header-wrapper #logo-wrapper{
+			background-repeat: no-repeat;
+			width: 378px;
+		    left: 40px;
+		    position: absolute;
+		    top: 23px;
+		}
+		 #header-wrapper #twitter-wrapper{
+			background-image: url(/web/20130115163838im_/http://www.avicii.com/images/twitter_logo.png);
+			background-position: left bottom;
+			background-repeat: no-repeat;
+			padding-left: 90px;
+			height: 66px;
+			width: 187px;
+			position: absolute;
+		    right: 40px;
+			font-size: 14px;
+			top: 18px;
+		}
+			#header-wrapper #twitter-wrapper a{
+				text-decoration: underline;
+			}
+			#header-wrapper #twitter-wrapper .meta a{
+				color: #888;
+				display: block;
+				font-size: 12px;
+				margin-top: 6px;
+			}
+		 #header-wrapper ul#main-menu{
+			margin-top: 20px;
+			height: 19px;
+			text-align: center;
+			background-color: #ebebeb;
+			padding-top: 8px;
+			padding-bottom: 11px;
+			position: absolute;
+			bottom: 0px;
+		    width: 100%;
+		}
+			#header-wrapper ul li a{
+				color: #32C3FB;
+				font-family:"Tungsten", "Georgia";
+				font-size: 36px;
+				line-height: 36px;
+			}
+			 #header-wrapper ul#main-menu li.main:first-child{
+				padding: 0 20px 0 0;
+			}
+			 #header-wrapper ul#main-menu li.main{
+				padding: 0 20px;
+				font-family: Helvetica;
+				text-transform: uppercase;
+				font-size: 18px;
+				display: inline-block;
+			}
+				#header-wrapper ul#main-menu li.main a{
+					text-indent: -10000px;					
+					display: block;
+				}
+				
+				#header-wrapper ul#main-menu li.main #start{
+					background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_home.png);
+					width: 45px;
+					height: 23px;
+				}
+				/*		
+				#header-wrapper ul#main-menu li.main #start:hover{
+					background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_start_hover.png);
+				}
+				*/
+				#header-wrapper ul#main-menu li.main #music{
+					background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_music.png);
+					width: 52px;
+					height: 23px;
+				}
+					/*
+					#header-wrapper ul#main-menu li.main #music:hover{
+						background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_music_hover.png);
+					}
+					*/
+				#header-wrapper ul#main-menu li.main #gigs{
+					background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_gigs.png);
+					width: 37px;
+					height: 23px;
+				}
+					/*
+					#header-wrapper ul#main-menu li.main #gigs:hover{
+						background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_gigs_hover.png);
+					}
+					*/
+				#header-wrapper ul#main-menu li.main #avicii-tv{
+					background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_videos.png);
+					width: 58px;
+					height: 23px;
+				}
+					/*
+					#header-wrapper ul#main-menu li.main #avicii-tv:hover{
+						background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_avicii_tv_hover.png);
+					}
+					*/
+				#header-wrapper ul#main-menu li.main #photos{
+					background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_photos.png);
+					width: 63px;
+					height: 23px;
+				}
+					/*
+					#header-wrapper ul#main-menu li.main #photos:hover{
+						background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_photos_hover.png);
+					}
+					*/
+				#header-wrapper ul#main-menu li.main #avicii{
+					background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_about.png);
+					width: 54px;
+					height: 23px;
+				}
+					/*
+					#header-wrapper ul#main-menu li.main #avicii:hover{
+						background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_avicii_hover.png);
+					}
+					*/
+				#header-wrapper ul#main-menu li.main #store{
+					background-image: url(/web/20130115163838im_/http://www.avicii.com/images/menu_shop.png);
+					width: 42px;
+					height: 23px;
+				}
+			 #header-wrapper ul#main-menu li ul.sub-menu{
+				display: none;
+				padding: 20px 20px 20px 20px;
+				z-index: 2;
+				position: absolute;
+				margin-left: -20px;
+				background-color: #fff;
+			}
+				 #header-wrapper ul#main-menu li ul.sub-menu li{
+					float: none;
+				}
+.inner-content{
+	margin-top: 24px;
+}			
+	#content-wrapper{
+		width: 880px;
+		padding: 40px;
+		margin-top: 24px;
+	}
+	body.shadowed #content-wrapper{
+		padding-top: 0px;
+	}
+	body.shadowed #content-wrapper h1.page-title{
+		font-family: Helvetica, Arial;
+		font-size: 30px;
+	    font-weight: bold;
+	    margin-top: 10px;
+	    text-transform: uppercase;
+	}
+	body.index #content-wrapper{
+		width: auto;
+		margin: 0;
+		padding: 0;
+	}
+	body.index #main-carousel{
+		min-width: 970px;
+	    overflow: hidden;
+	    position: relative;
+	    width: 100%;
+	}
+		body.index #main-carousel #carousel-wrapper{
+			height: 460px;
+		    margin: 0 auto;
+		    position: relative;
+		    width: 960px;
+			background-color: #fff;
+		}
+			body.index #main-carousel #carousel-wrapper ul{
+				position: absolute;
+				top: 20px;
+			}
+				body.index #main-carousel #carousel-wrapper ul li{
+					float: left;
+					height: 400px;
+					padding: 0 40px;
+					width: 880px;
+				}
+					body.index #main-carousel #carousel-wrapper ul li div.shadow{
+						height: 400px;
+						width: 880px;
+						border: none !important;
+						display: block;
+						background-position: center center;
+						cursor: pointer;
+					}
+		body.index #main-carousel .large-arrow-bg,
+		body.index #main-carousel .large-arrow{
+			width: 53px;
+			height: 51px;
+			position: absolute;
+			top: 194px;
+			cursor: pointer;
+		}
+			body.index #main-carousel .large-arrow-bg.back{
+				background-image: url(/web/20130115163838im_/http://www.avicii.com/images/nav-arrow.png);
+				left: -26px;
+				background-position: 0 51px;
+			}
+			body.index #main-carousel .large-arrow-bg.forward{
+				background-image: url(/web/20130115163838im_/http://www.avicii.com/images/nav-arrow.png);				
+				right: -26px;
+				background-position: 0 0;
+			}
+			body.index #main-carousel .large-arrow.back{
+				left: -26px;
+			}
+			body.index #main-carousel .large-arrow.forward{
+				right: -26px;
+			}
+		
+		body.index #campaign-wrapper{
+			background-color: #fff;
+			width: 960px;
+			margin: 0 auto;
+			padding-top: 10px;
+			position: relative;
+		}
+			body.index #campaign-wrapper ul{
+				margin: 0 auto;
+				width: 880px;
+			}
+				body.index #campaign-wrapper ul li{
+					width: 280px;
+					height: 395px;
+					margin-bottom: 20px;
+					overflow: hidden;
+					margin-right: 20px;
+					float: left;
+				}
+				body.index #campaign-wrapper ul li:nth-child(3n){
+					margin-right: 0px;
+				}
+					body.index #campaign-wrapper ul li img{
+						width: 280px;
+						height: 395px;
+					}
+		body.index #ajax-wrapper{
+			background-color: #fff;
+			width: 880px;
+			margin: 0 auto;
+			font-family:Helvetica; Arial;
+			padding: 40px;
+			padding-top: 0px;
+			margin-bottom: 40px;
+		}
+			body.index #ajax-wrapper a{
+				font-weight: bold;
+				text-decoration: underline;
+			}
+		body.index #youtube-wrapper{
+			background-color: #fff;
+			width: 880px;
+			margin: 0 auto;
+			font-family:Helvetica; Arial;
+			padding: 40px;
+			padding-top: 0px;
+			margin-bottom: 20px;
+		}
+		body.index #gigs-wrapper{
+			background-color: #fff;
+			width: 960px;
+			margin: 0 auto;
+			font-family:Helvetica; Arial;
+			padding-top: 40px;
+			padding-bottom: 40px;
+			position: relative;
+		}
+			body.index #gigs-wrapper #gigs-placeholder{
+				width: 848px;
+				margin: 0 auto;
+				border: 1px solid #EBEBEB;
+				background-color: #EBEBEB;
+				padding: 15px;
+				position: relative;
+			}
+			body.index #gigs-wrapper #gigs-placeholder #label{
+				background-color: #EBEBEB;
+				border: 1px solid #EBEBEB;
+				position: absolute;
+				top: -22px;
+				left: -1px;
+				padding: 0 10px;
+				text-transform: uppercase;
+				font-size: 18px;
+				font-style: italic;
+				font-weight: bold;
+				color: #000;
+				line-height: 28px;
+			}
+				body.index #gigs-wrapper #gigs-content ul{
+					float: left;
+					margin-right: 20px;
+					width: 404px;
+				}
+				body.index #gigs-wrapper #gigs-content ul li{
+					font-weight: bold;
+					color: #000;
+				}
+				body.index #gigs-wrapper #gigs-content ul.last{
+					margin-right: 0px !important;
+				}
+					body.index #gigs-wrapper #gigs-content ul li span.date{
+						margin-right: 10px;
+					}
+		body.index #ajax-wrapper,
+		body.index #youtube-wrapper,
+		body.index #gigs-wrapper,
+		body.index #campaign-wrapper,
+		body.index #header-wrapper,
+		body.index #carousel-wrapper
+		{
+			border: 1px solid #DBDBDB;
+			-moz-box-shadow: 0 2px 10px #888;
+			-webkit-box-shadow: 0 2px 10px#888;
+			box-shadow: 0 2px 10px #888;
+		}
+		body.index #ajax-wrapper{
+			margin: -1px auto !important;			
+			display: none;
+		}
+			body.index #ajax-wrapper #background-wrapper{
+				background: #EBEBEB;
+				display: inline-block;
+				padding: 15px;
+			}
+		body.index #campaign-wrapper{
+			margin: -1px auto !important;			
+		}
+		body.index #gigs-wrapper
+		body.index #campaign-wrapper,
+		body.index #carousel-wrapper{
+			margin: -1px auto !important;
+		}
+		body.index #header-wrapper{
+			margin-bottom: -1px;
+		}
+		
+		body.index #youtube-wrapper{
+			margin-top: -1px;
+			position: relative;
+		}
+			body.index #youtube-wrapper ul li{
+				float: left;
+			}
+			body.index #youtube-wrapper ul li:first-child{
+				margin-right: 20px;
+			}
+			body.index #campaign-wrapper .ful-fixer,
+			body.index #youtube-wrapper .ful-fixer,
+			body.index #gigs-wrapper .ful-fixer{
+				width: 100%;
+				height: 16px;
+				position: absolute;
+				top: -16px;
+				left: 0px;
+				background-color: #fff;
+				
+			}
+			body.index #ajax-wrapper h3{
+				font-size: 24px;
+				font-weight: bold;
+				line-height: 26px;
+				margin-bottom: 12px;
+				text-transform: uppercase;
+			}
+			body.index #ajax-wrapper h3{
+				width: 480px;
+			}
+			body.index #ajax-wrapper #text-wrapper{
+				width: 476px;
+				margin-right: 24px;
+				float: left;
+			}
+				body.index #ajax-wrapper #text-wrapper p{
+					min-height: 203px;
+				}
+				body.index #ajax-wrapper #text-wrapper a.close,
+				body.index #ajax-wrapper #text-wrapper a.read-more{
+					float: right;
+					padding: 6px;
+					padding-bottom: 4px;
+					margin-top: 12px;
+					line-height: 14px;
+					text-decoration: none;
+					
+				}
+				body.index #ajax-wrapper #text-wrapper a.read-more{
+					background-color: #FF6EC7;
+				}
+				body.index #ajax-wrapper #text-wrapper a.close{
+					margin-right: 12px;
+					background-color: #ccc;
+				}
+			body.index #ajax-wrapper #media-wrapper{
+				float: left;
+				width: 350px;
+			}
+/*
+AVICII TV
+*/
+body.avicii-tv  .inner-content .clip-container:nth-child(3n){
+	margin-right: 0px;
+}
+body.avicii-tv .clip-container{
+	float: left;
+	width: 280px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	position: relative;
+	cursor: pointer;
+}
+body.avicii-tv .clip-container img.thumbnail{
+	width: 280px;
+}
+body.avicii-tv .clip-container h4.title{
+	padding: 10px;
+	padding-bottom: 6px;
+	top: 0px;
+	left: 0px;
+	width: 260px;
+	position: absolute;
+	display: none;
+}
+body.avicii-tv .clip-container .play{
+	background: url(/web/20130115163838im_/http://www.avicii.com/images/transparent-play.png);
+	background-repeat: no-repeat;
+	width: 75px;
+	height: 50px;
+	position: absolute;
+	top: 92px;
+	left: 102px;
+	display: none;
+}
+/* GIGS */
+body.gigs .carousel-container{
+	margin-top: 24px;
+}
+body.gigs .jcarousel-container-vertical{
+	width: 260px;
+	height: 590px;
+	padding: 40px 20px 40px 0;
+}
+body.gigs .carousel-container .jcarousel-prev{
+	position: absolute;
+	top: -5px;
+	left: 112px;
+	background-image: url(/web/20130115163838im_/http://www.avicii.com/images/arrow-sprite-new.png);
+	width: 36px;
+	height: 36px;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	cursor: pointer;
+}
+body.gigs .carousel-container jcarousel-next-disabled,
+body.gigs .carousel-container jcarousel-prev-disabled{
+	display: none;
+}
+body.gigs .carousel-container .jcarousel-next{
+	position: absolute;
+	bottom: 0px;
+	left: 112px;
+	background-image: url(/web/20130115163838im_/http://www.avicii.com/images/arrow-sprite-new.png);
+	width: 36px;
+	height: 36px;
+	background-repeat: no-repeat;
+	background-position: 0 -36px;
+	cursor: pointer;
+}
+body.gigs .carousel-container .jcarousel-clip-vertical{
+	width: 260px;
+	height: 590px;
+	overflow: hidden;
+}
+		body.gigs #gig-list li{
+			width: 260px;
+			height: 110px;
+			margin-bottom: 10px;
+			border-bottom: 1px solid #d3d3d3;
+		}
+		body.gigs #gig-list li:last-child{
+			border-bottom: none;
+		}
+			body.gigs #gig-list li a{
+				width: 240px;
+				height: 80px;
+				display: block;
+				padding: 10px;
+				margin-bottom: 10px;
+				background-color: #d3d3d3;
+				-moz-user-select: none;
+				-khtml-user-select: none;
+				user-select: none;
+				background-repeat: no-repeat;
+				position: relative;
+			}
+			body.gigs #gig-list li a.selected,
+			body.gigs #gig-list li a:hover{
+				background-color: #FF6EC7;
+				background-position: 226px 68px;
+				background-image: url(/web/20130115163838im_/http://www.avicii.com/images/arrow-hover-sprite.png);
+			}
+				body.gigs #gig-list li a h3{
+					margin-bottom: 3px;
+					font-weight: bold;
+				}
+				body.gigs #gig-list li a h4{
+					position: absolute;
+					bottom: 12px;
+					font-weight: bold;
+				}
+body.gigs .left-col{
+	width: 260px;
+	float: left;
+	padding-right: 20px;
+	border-right: 1px solid #d3d3d3;
+	margin-right: 20px;
+}
+body.gigs h1.page-title{
+	display: none;
+}
+body.gigs .right-col{
+	width: 579px;
+	float: left;
+}
+	body.gigs .right-col .gig-wrapper{
+		position: relative;
+	}
+		body.gigs .right-col .gig-wrapper .flag{
+			position: absolute;
+			right: 0px;
+			top: -10px;
+			width: 80px;
+			
+		}
+		body.gigs .right-col .gig-wrapper h1{
+			font-size: 36px;
+		}
+		body.gigs .right-col .gig-wrapper h2{
+			font-size: 24px;
+		}
+		body.gigs .right-col .gig-wrapper .info-wrapper{
+			height: 461px;
+			padding-bottom: 10px;
+			border-bottom: 1px solid #d3d3d3;
+			margin-bottom: 10px;
+			padding-top: 66px;
+			width: 100%;
+			overflow: hidden;
+		}
+			body.gigs .right-col .gig-wrapper .info-wrapper #info-content{
+				display: inline-block;
+			    margin-bottom: 24px;
+			    margin-top: 24px;
+			    width: 100%;
+			}
+			body.gigs .right-col .gig-wrapper .info-wrapper #map{
+				width: 300px;
+				height: 322px;
+				visibility: hidden;
+				float: right;
+			}
+		body.gigs .right-col .gig-wrapper .contact-wrapper{
+			float: right;
+			width: 170px;
+			height: 60px;
+			padding: 10px;
+			background-color: #d3d3d3;
+			margin-left: 20px;
+		}
+			body.gigs .right-col .gig-wrapper .contact-wrapper .ticket-site{
+				display: block;
+				background-image: url(/web/20130115163838im_/http://www.avicii.com/images/gigs-ticket.png);
+				background-repeat: no-repeat;
+				background-position: left top;
+				line-height: 28px;
+				padding-left: 32px;
+				width: 140px;
+			}
+			body.gigs .right-col .gig-wrapper .contact-wrapper .web-site{
+				display: block;
+				background-image: url(/web/20130115163838im_/http://www.avicii.com/images/gigs-website.png);
+				background-repeat: no-repeat;
+				background-position: left top;
+				line-height: 28px;
+				padding-left: 32px;
+				margin-bottom: 5px;
+				width: 140px;
+			}
+			body.gigs .right-col .gig-wrapper .contact-wrapper .web-site:hover,
+			body.gigs .right-col .gig-wrapper .contact-wrapper .ticket-site:hover{
+				text-decoration: underline;
+			}
+		body.gigs .right-col .gig-wrapper .share-wrapper{
+			background-color: #D3D3D3;
+		    float: right;
+		    height: 46px;
+		    margin-left: 20px;
+		    padding: 24px 10px 10px 24px;
+		    width: 156px;
+		}
+/* PHOTOS */
+	body.photos a.image{
+		display: block;
+		margin-right: 10px;
+		margin-bottom: 10px;
+		line-height: 75px;
+		float: left;
+		width: 75px;
+		height: 75px;
+	}
+	body.photos #photo-wrapper{
+		margin-left: 20px;
+	}
+/* ABOUT & NEWS */
+	body.news #left-col,
+	body.about #left-col{
+		float: left;
+		width: 155px;
+	}
+		body.news #left-col ul,
+		body.about #left-col ul{
+			margin-top: 66px;
+		}
+	body.about #right-col{
+		float: left;
+		width: 725px;
+	}
+	body.news #right-col{
+		float: left;
+		width: 880px;
+	}
+		body.news .news-container{
+			margin-top: 24px;
+			width: 850px;
+			padding: 15px;
+			background: #EBEBEB;
+		}
+		body.news #right-col h1.page-title
+		body.about #right-col h1.page-title{
+			font-size: 30px;
+			margin-bottom: 24px;
+		}
+	body.news #right-col h1{
+		margin-bottom: 24px;
+	}
+	body.news #right-col #text-wrapper{
+		width: 500px;
+		float: left;
+		margin-right: 40px;
+	}
+		body.news #right-col #text-wrapper #description-wrapper{
+			margin-bottom: 24px;
+		}
+	body.news #right-col #media-wrapper{
+		width: 340px;
+		float: left;
+	}
+body.about h1.page-title{
+	margin-bottom: 24px;
+	
+}
+			
+/*
+     FILE ARCHIVED ON 16:38:38 Jan 15, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:14:34 Jan 12, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 226.041
+  RedisCDXSource: 7.284
+  exclusion.robots.policy: 0.188
+  LoadShardBlock: 284.444 (3)
+  captures_list: 314.665
+  esindex: 0.013
+  CDXLines.iter: 19.734 (3)
+  PetaboxLoader3.datanode: 136.724 (4)
+  exclusion.robots: 0.202
+  PetaboxLoader3.resolve: 93.882
+*/

@@ -1,0 +1,36 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+/**/ instafeedCache92d872b01f1b7621.parse({"meta": {"code": 400, "error_type": "OAuthAccessTokenException", "error_message": "The access_token provided is invalid."}})
+
+}
+/*
+     FILE ARCHIVED ON 04:37:20 Jul 19, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:01:53 Jan 12, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 89.358
+  RedisCDXSource: 2.493
+  exclusion.robots.policy: 0.267
+  LoadShardBlock: 133.746 (3)
+  captures_list: 181.816
+  esindex: 0.017
+  CDXLines.iter: 40.261 (3)
+  PetaboxLoader3.datanode: 65.884 (4)
+  exclusion.robots: 0.296
+  PetaboxLoader3.resolve: 119.461 (3)
+*/

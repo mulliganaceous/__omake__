@@ -1,0 +1,1813 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 17, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 19, ../sass/screen.scss */
+img {
+  max-width: 100%;
+}
+
+/* line 25, ../sass/screen.scss */
+div.page,
+section.page {
+  *zoom: 1;
+  max-width: 118em;
+  _width: 118em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+/* line 38, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+div.page:after,
+section.page:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* line 29, ../sass/screen.scss */
+div.page .content,
+section.page .content {
+  max-width: 98em;
+  _width: 98em;
+  padding: 10em 0 0 0;
+  margin: 0 auto;
+}
+/* line 33, ../sass/screen.scss */
+div.page .content h1,
+section.page .content h1 {
+  font-size: 26px;
+  font-size: 2.6rem;
+}
+/* line 36, ../sass/screen.scss */
+div.page .content h2 + a,
+section.page .content h2 + a {
+  font-size: 14px;
+  font-size: 1.4rem;
+  margin-top: -3em;
+  float: right;
+  color: #000;
+}
+/* line 43, ../sass/screen.scss */
+div.page .content.text-page,
+section.page .content.text-page {
+  width: 83.05085%;
+  float: left;
+  margin-right: 1.69492%;
+  display: inline;
+  margin-right: -100%;
+  margin-left: 8.47458%;
+}
+@media (min-width: 48em) {
+  /* line 43, ../sass/screen.scss */
+  div.page .content.text-page,
+  section.page .content.text-page {
+    width: 66.10169%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+}
+/* line 51, ../sass/screen.scss */
+div.page .content.videos,
+section.page .content.videos {
+  padding: 2em 3em;
+  margin-top: 15em;
+  position: relative;
+  z-index: 1;
+  background: #fff;
+}
+/* line 57, ../sass/screen.scss */
+div.page .content.videos ul.videos,
+section.page .content.videos ul.videos {
+  *zoom: 1;
+}
+/* line 38, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+div.page .content.videos ul.videos:after,
+section.page .content.videos ul.videos:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@font-face {
+  font-family: 'Futura Std';
+  src: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/fonts/FuturaStd-Book.eot#iefix") format("embedded-opentype"), url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/fonts/FuturaStd-Book.svg") format("svg"), url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/fonts/FuturaStd-Book.otf") format("opentype"), url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/fonts/FuturaStd-Book.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Futura Std';
+  font-weight: bold;
+  src: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/fonts/FuturaStd-Heavy.eot#iefix") format("embedded-opentype"), url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/fonts/FuturaStd-Heavy.svg") format("svg"), url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/fonts/FuturaStd-Heavy.otf") format("opentype"), url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/fonts/FuturaStd-Heavy.ttf") format("truetype");
+}
+
+/* line 11, ../sass/components/typography.scss */
+html {
+  font-size: 10px;
+}
+
+/* line 14, ../sass/components/typography.scss */
+body {
+  font-family: "Futura Std";
+  line-height: 1.5;
+}
+
+/* line 19, ../sass/components/typography.scss */
+input,
+button {
+  font-family: "Futura Std";
+  font-size: 14px;
+  font-size: 1.4rem;
+}
+
+/* line 24, ../sass/components/typography.scss */
+p {
+  font-size: 14px;
+  font-size: 1.4rem;
+  margin-bottom: 1em;
+}
+
+/* line 30, ../sass/components/typography.scss */
+h1,
+h2 {
+  font-size: 18px;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-bottom: 1em;
+}
+/* line 35, ../sass/components/typography.scss */
+h1 span,
+h2 span {
+  font-weight: normal;
+}
+
+/* line 39, ../sass/components/typography.scss */
+h3 {
+  font-size: 18px;
+  font-size: 1.8rem;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/* line 2, ../sass/components/icons.scss */
+.fb,
+.twitter {
+  background: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/icons.png") no-repeat;
+  width: 33px;
+}
+
+/* line 6, ../sass/components/icons.scss */
+.fb {
+  background-position: 37.5% 5px;
+}
+
+/* line 9, ../sass/components/icons.scss */
+.twitter {
+  background-position: 62.5% -33px;
+}
+
+/* line 15, ../sass/components/icons.scss */
+#footer .fb,
+#footer .twitter {
+  width: auto;
+  height: 33px;
+  line-height: 33px;
+  padding-right: 50px;
+  color: #000;
+  text-decoration: none;
+}
+/* line 22, ../sass/components/icons.scss */
+#footer .fb:hover,
+#footer .twitter:hover {
+  text-decoration: underline;
+}
+/* line 26, ../sass/components/icons.scss */
+#footer .fb {
+  background-position: 95% 3px;
+}
+/* line 29, ../sass/components/icons.scss */
+#footer .twitter {
+  background-position: 95% -35px;
+}
+
+/* line 34, ../sass/components/icons.scss */
+.loader, #fancybox-loading div {
+  background: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/loader.png") center center no-repeat;
+  min-width: 35px;
+  min-height: 35px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  text-align: center;
+  text-indent: -900em;
+  opacity: 0.5;
+  -webkit-animation: rotation 2s infinite linear;
+  -moz-animation: rotation 2s infinite linear;
+  animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+  /* line 52, ../sass/components/icons.scss */
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+
+  /* line 53, ../sass/components/icons.scss */
+  to {
+    -webkit-transform: rotate(359deg);
+  }
+}
+
+@-moz-keyframes rotation {
+  /* line 56, ../sass/components/icons.scss */
+  from {
+    -moz-transform: rotate(0deg);
+  }
+
+  /* line 57, ../sass/components/icons.scss */
+  to {
+    -moz-transform: rotate(359deg);
+  }
+}
+
+@-keyframes rotation {
+  /* line 60, ../sass/components/icons.scss */
+  from {
+    transform: rotate(0deg);
+  }
+
+  /* line 61, ../sass/components/icons.scss */
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+/* line 2, ../sass/components/buttons.scss */
+#player .spotify-btn {
+  display: block;
+  color: #fff;
+  background-color: #191919;
+  text-decoration: none;
+  padding: 0.5em 1em;
+}
+/* line 9, ../sass/components/buttons.scss */
+#player .spotify-btn:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+/* line 12, ../sass/components/buttons.scss */
+#player .spotify-btn:before {
+  content: "+";
+  font-weight: bold;
+  font-size: 1.25em;
+  line-height: 14px;
+  padding-right: 0.5em;
+}
+
+/* line 1, ../sass/components/header.scss */
+#header {
+  background-color: #000;
+  padding: 10px 0 0 0;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 98em;
+  _width: 98em;
+  *zoom: 1;
+}
+/* line 38, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+#header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media (min-width: 48em) {
+  /* line 1, ../sass/components/header.scss */
+  #header {
+    padding: 0;
+    height: 6.3em;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 2;
+  }
+}
+
+/* line 20, ../sass/components/header.scss */
+#logo {
+  display: block;
+  height: 57px;
+  padding: 0;
+}
+/* line 25, ../sass/components/header.scss */
+#logo a {
+  display: block;
+  width: 161px;
+  height: 100%;
+  background: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/logo-white.png") center center no-repeat;
+  text-indent: -900em;
+  margin: 0 auto;
+}
+@media (min-width: 48em) {
+  /* line 20, ../sass/components/header.scss */
+  #logo {
+    float: left;
+    margin: 0 14px;
+    height: 100%;
+  }
+}
+@media (min-width: 57em) {
+  /* line 20, ../sass/components/header.scss */
+  #logo {
+    margin: 0 28px;
+  }
+}
+
+/* line 44, ../sass/components/header.scss */
+#navigation {
+  display: table;
+  margin: 0 auto;
+}
+@media (min-width: 48em) {
+  /* line 44, ../sass/components/header.scss */
+  #navigation {
+    display: block;
+  }
+}
+/* line 52, ../sass/components/header.scss */
+#navigation ul li {
+  float: left;
+}
+/* line 57, ../sass/components/header.scss */
+#navigation ul li.current_page_parent a, #navigation ul li.current-menu-item a, #navigation ul li.selected a,
+#navigation ul li a:hover {
+  background-color: #fff;
+  color: #000;
+}
+/* line 61, ../sass/components/header.scss */
+#navigation ul li a {
+  font-size: 1.8em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  line-height: 2.6em;
+  padding: 0 0.5em;
+}
+@media (min-width: 48em) {
+  /* line 61, ../sass/components/header.scss */
+  #navigation ul li a {
+    padding: 0 1em;
+    line-height: 3.5em;
+  }
+}
+
+/* line 78, ../sass/components/header.scss */
+#player {
+  display: none;
+  max-width: 18em;
+  _width: 18em;
+  position: absolute;
+  right: 0;
+  margin: 1.75em 0 0 0;
+}
+@media (min-width: 57em) {
+  /* line 78, ../sass/components/header.scss */
+  #player {
+    display: block;
+  }
+  /* line 88, ../sass/components/header.scss */
+  #player a {
+    font-size: 12px;
+    font-size: 1.2rem;
+  }
+}
+@media (min-width: 60em) {
+  /* line 78, ../sass/components/header.scss */
+  #player {
+    margin-right: 2em;
+  }
+  /* line 94, ../sass/components/header.scss */
+  #player a {
+    font-size: 14px;
+    font-size: 1.4rem;
+  }
+}
+@media (min-width: 48em) {
+  /* line 78, ../sass/components/header.scss */
+  #player {
+    top: auto;
+  }
+}
+
+/* line 1, ../sass/components/content-box.scss */
+.content-box {
+  position: relative;
+  background-size: 100%;
+}
+@media (min-width: 48em) {
+  /* line 1, ../sass/components/content-box.scss */
+  .content-box {
+    padding: 25% 0;
+  }
+}
+/* line 11, ../sass/components/content-box.scss */
+.content-box.half, .content-box.quarter {
+  width: 100%;
+}
+@media (min-width: 48em) {
+  /* line 11, ../sass/components/content-box.scss */
+  .content-box.half, .content-box.quarter {
+    padding: 50% 0;
+  }
+}
+@media (min-width: 48em) {
+  /* line 18, ../sass/components/content-box.scss */
+  .content-box.half {
+    width: 50%;
+    padding: 24.99% 0;
+    float: left;
+  }
+}
+/* line 24, ../sass/components/content-box.scss */
+.content-box.half .inner .content {
+  width: 63%;
+  margin-left: 16.333333%;
+}
+@media (min-width: 48em) {
+  /* line 29, ../sass/components/content-box.scss */
+  .content-box.quarter {
+    width: 25%;
+    padding: 12.5% 0;
+    float: left;
+  }
+}
+/* line 35, ../sass/components/content-box.scss */
+.content-box.quarter .inner .content {
+  width: 63%;
+  margin-left: 51%;
+}
+/* line 40, ../sass/components/content-box.scss */
+.content-box img {
+  top: 0;
+  width: 100%;
+}
+@media (min-width: 48em) {
+  /* line 40, ../sass/components/content-box.scss */
+  .content-box img {
+    position: absolute;
+    width: auto;
+    max-width: 100%;
+  }
+}
+/* line 51, ../sass/components/content-box.scss */
+.content-box .inner {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+/* line 55, ../sass/components/content-box.scss */
+.content-box .inner:before {
+  content: "";
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+@media (min-width: 48em) {
+  /* line 64, ../sass/components/content-box.scss */
+  .content-box .inner .content, .content-box .inner.left .content {
+    margin-left: 9.16666667%;
+  }
+  /* line 67, ../sass/components/content-box.scss */
+  .content-box .inner.right .content {
+    margin-left: 59.16666667%;
+  }
+}
+/* line 71, ../sass/components/content-box.scss */
+.content-box .inner .content {
+  padding: 0;
+  background-color: #fff;
+  width: 80%;
+  margin-left: 10%;
+  display: inline-block;
+  vertical-align: middle;
+}
+@media (min-width: 48em) {
+  /* line 71, ../sass/components/content-box.scss */
+  .content-box .inner .content {
+    width: 31.66666667%;
+  }
+}
+/* line 81, ../sass/components/content-box.scss */
+.content-box .inner .content h1, .content-box .inner .content h2 {
+  text-align: center;
+  padding-top: 1em;
+}
+/* line 85, ../sass/components/content-box.scss */
+.content-box .inner .content a {
+  color: #000;
+  text-decoration: none;
+}
+/* line 89, ../sass/components/content-box.scss */
+.content-box .inner .content p, .content-box .inner .content ul {
+  padding: 0 6% 1.5em 6%;
+}
+/* line 93, ../sass/components/content-box.scss */
+.content-box .inner .content.link a {
+  display: block;
+  font-size: 18px;
+  font-size: 1.8rem;
+  padding: 0.77778em 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+/* line 100, ../sass/components/content-box.scss */
+.content-box .inner .content.link a:hover {
+  background-color: #000;
+  color: #fff;
+}
+/* line 105, ../sass/components/content-box.scss */
+.content-box .inner .content.link a span,
+.content-box .inner .content.link a time {
+  font-weight: normal;
+}
+/* line 112, ../sass/components/content-box.scss */
+.content-box a.inner {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+/* line 116, ../sass/components/content-box.scss */
+.content-box a.inner:hover {
+  color: #000;
+}
+
+/* line 126, ../sass/components/content-box.scss */
+#upcoming-gigs h2 a {
+  display: block;
+}
+@media (min-width: 48em) {
+  /* line 126, ../sass/components/content-box.scss */
+  #upcoming-gigs h2 a {
+    display: inline;
+  }
+}
+/* line 133, ../sass/components/content-box.scss */
+#upcoming-gigs .upcoming-gigs-list {
+  display: none;
+}
+@media (min-width: 48em) {
+  /* line 133, ../sass/components/content-box.scss */
+  #upcoming-gigs .upcoming-gigs-list {
+    display: block;
+  }
+}
+/* line 138, ../sass/components/content-box.scss */
+#upcoming-gigs .upcoming-gigs-list li {
+  font-size: 14px;
+  font-size: 1.4rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 0.25em;
+}
+/* line 146, ../sass/components/content-box.scss */
+#upcoming-gigs .view-all {
+  display: none;
+  font-size: 14px;
+  font-size: 1.4rem;
+  color: #000;
+  text-transform: uppercase;
+  float: right;
+  margin: 0 1.5em 1em 0;
+}
+@media (min-width: 48em) {
+  /* line 146, ../sass/components/content-box.scss */
+  #upcoming-gigs .view-all {
+    display: block;
+  }
+}
+/* line 156, ../sass/components/content-box.scss */
+#upcoming-gigs .view-all:after {
+  height: 0;
+  width: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px;
+  border-left-color: black;
+  content: "";
+  display: inline-block;
+  margin-left: 0.5em;
+}
+/* line 163, ../sass/components/content-box.scss */
+#upcoming-gigs .content {
+  position: relative;
+}
+/* line 166, ../sass/components/content-box.scss */
+#upcoming-gigs .loader, #upcoming-gigs #fancybox-loading div, #fancybox-loading #upcoming-gigs div {
+  display: none;
+}
+@media (min-width: 48em) {
+  /* line 166, ../sass/components/content-box.scss */
+  #upcoming-gigs .loader, #upcoming-gigs #fancybox-loading div, #fancybox-loading #upcoming-gigs div {
+    display: block;
+  }
+}
+
+/* line 175, ../sass/components/content-box.scss */
+.content-box.gigs {
+  background-image: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/gigs-bg.jpg");
+  color: #fff;
+}
+/* line 178, ../sass/components/content-box.scss */
+.content-box.gigs .inner {
+  padding-left: 10%;
+  position: relative;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+@media (min-width: 48em) {
+  /* line 178, ../sass/components/content-box.scss */
+  .content-box.gigs .inner {
+    position: absolute;
+    padding-top: 33%;
+  }
+}
+/* line 188, ../sass/components/content-box.scss */
+.content-box.gigs .inner:before {
+  display: none;
+}
+/* line 192, ../sass/components/content-box.scss */
+.content-box.gigs .date {
+  font-size: 12px;
+  font-size: 1.2rem;
+}
+/* line 195, ../sass/components/content-box.scss */
+.content-box.gigs .name {
+  font-size: 20px;
+  font-size: 2rem;
+  padding-bottom: 0;
+}
+/* line 199, ../sass/components/content-box.scss */
+.content-box.gigs .location {
+  font-weight: normal;
+}
+
+/* line 204, ../sass/components/content-box.scss */
+.content-box.gigs:nth-child(3n+2) {
+  background-image: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/gigs-bg-2.jpg");
+}
+
+/* line 207, ../sass/components/content-box.scss */
+.content-box.gigs:nth-child(3n+3) {
+  background-image: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/gigs-bg-3.jpg");
+}
+
+@media (min-width: 48em) {
+  /* line 213, ../sass/components/content-box.scss */
+  .start-page-boxes li:nth-child(2n+2) .content {
+    margin-left: 59.16666667%;
+  }
+}
+
+/* line 219, ../sass/components/content-box.scss */
+.start-page-boxes .inner,
+#upcoming-gigs .inner {
+  height: 20em;
+  position: static;
+}
+@media (min-width: 48em) {
+  /* line 219, ../sass/components/content-box.scss */
+  .start-page-boxes .inner,
+  #upcoming-gigs .inner {
+    height: auto;
+    position: absolute;
+  }
+}
+
+/* line 229, ../sass/components/content-box.scss */
+ul.photos .content-box {
+  margin-bottom: 2em;
+}
+@media (min-width: 48em) {
+  /* line 229, ../sass/components/content-box.scss */
+  ul.photos .content-box {
+    margin-bottom: 0;
+  }
+}
+/* line 235, ../sass/components/content-box.scss */
+ul.photos .content-box > a > img {
+  width: auto;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+/* line 1, ../sass/components/footer.scss */
+#footer {
+  padding-top: 30px;
+  clear: both;
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+  *zoom: 1;
+  max-width: 118em;
+  _width: 118em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  *zoom: 1;
+}
+/* line 38, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+#footer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* line 38, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+#footer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media (min-width: 48em) {
+  /* line 15, ../sass/components/footer.scss */
+  #footer .text-1,
+  #footer .text-2,
+  #footer .text-3 {
+    margin-bottom: 2em;
+  }
+  /* line 18, ../sass/components/footer.scss */
+  #footer .text-1 {
+    width: 48.97959%;
+    float: left;
+    margin-right: 2.04082%;
+  }
+  /* line 22, ../sass/components/footer.scss */
+  #footer .text-2,
+  #footer .text-3 {
+    width: 28.57143%;
+    float: left;
+    margin-right: 2.04082%;
+  }
+  /* line 24, ../sass/components/footer.scss */
+  #footer .text-2 a,
+  #footer .text-3 a {
+    color: #000;
+  }
+  /* line 28, ../sass/components/footer.scss */
+  #footer .text-3 {
+    width: 18.36735%;
+    float: right;
+    margin-right: 0;
+    float: right;
+    margin-right: 0;
+  }
+}
+/* line 33, ../sass/components/footer.scss */
+#footer .content {
+  max-width: 98em;
+  _width: 98em;
+  margin: 0 auto;
+}
+/* line 37, ../sass/components/footer.scss */
+#footer .social-activate {
+  *zoom: 1;
+  clear: both;
+  padding: 10px 0;
+  margin: 1em 0 0;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  font-size: 14px;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+}
+/* line 38, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+#footer .social-activate:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* line 46, ../sass/components/footer.scss */
+#footer .social-activate .logo {
+  float: left;
+  display: none;
+}
+@media (min-width: 48em) {
+  /* line 46, ../sass/components/footer.scss */
+  #footer .social-activate .logo {
+    display: block;
+    width: 16.46217%;
+  }
+}
+/* line 54, ../sass/components/footer.scss */
+#footer .social-activate ul {
+  float: right;
+  width: 79.59184%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -2em;
+  display: inline;
+}
+/* line 58, ../sass/components/footer.scss */
+#footer .social-activate ul li {
+  float: right;
+  padding: 5px 0;
+  margin-left: 1.7948%;
+}
+@media (min-width: 48em) {
+  /* line 58, ../sass/components/footer.scss */
+  #footer .social-activate ul li {
+    float: left;
+  }
+}
+/* line 66, ../sass/components/footer.scss */
+#footer .social-activate ul li a {
+  display: block;
+}
+/* line 70, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter {
+  margin-left: 0;
+  width: auto;
+}
+@media (min-width: 48em) {
+  /* line 70, ../sass/components/footer.scss */
+  #footer .social-activate ul li.newsletter {
+    width: 47%;
+  }
+}
+/* line 76, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter form {
+  width: 100%;
+}
+/* line 79, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter label {
+  display: none;
+}
+/* line 83, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter input {
+  border: none;
+  padding: 2px;
+  border: 1px solid transparent;
+  width: 32%;
+}
+/* line 88, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter input:focus {
+  border: 1px solid black;
+}
+/* line 92, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-size: 1.4rem;
+  padding: 5px 5px 4px;
+}
+/* line 99, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter button:hover {
+  cursor: pointer;
+  background: #fff;
+  color: #000;
+}
+/* line 108, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter .mc_custom_border_hdr,
+#footer .social-activate ul li.newsletter .mc_merge_var,
+#footer .social-activate ul li.newsletter .mc_signup_submit {
+  float: left;
+}
+/* line 111, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter .mc_custom_border_hdr {
+  padding-top: 5px;
+}
+/* line 114, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter .mc_merge_var {
+  width: 135px;
+}
+/* line 116, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter .mc_merge_var input {
+  width: 130px;
+  margin-top: 5px;
+}
+/* line 123, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter .mc_signup_submit input {
+  width: auto;
+}
+/* line 127, ../sass/components/footer.scss */
+#footer .social-activate ul li.newsletter #mc_message > span {
+  display: block;
+  clear: both;
+}
+
+/* line 136, ../sass/components/footer.scss */
+.footer-wrapper {
+  background-color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+/* line 142, ../sass/components/footer.scss */
+.tweets {
+  padding-right: 2em;
+}
+/* line 144, ../sass/components/footer.scss */
+.tweets li {
+  font-size: 14px;
+  font-size: 1.4rem;
+  margin-bottom: 1em;
+  border-top: 1px solid rgba(0, 0, 0, 0.25);
+  padding-top: 1em;
+}
+/* line 149, ../sass/components/footer.scss */
+.tweets li:first-child {
+  border-top: none;
+  padding-top: 0;
+}
+/* line 153, ../sass/components/footer.scss */
+.tweets li a {
+  color: #000;
+}
+
+/* line 158, ../sass/components/footer.scss */
+.footer-logos {
+  clear: both;
+  overflow: hidden;
+  border-bottom: 1px solid black;
+  margin-bottom: 1em;
+}
+/* line 163, ../sass/components/footer.scss */
+.footer-logos li {
+  float: right;
+  text-indent: -900em;
+  width: 52px;
+  height: 75px;
+  background: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/logos.png") center 0 no-repeat;
+  padding: 0 1em;
+  margin-left: 1em;
+}
+/* line 172, ../sass/components/footer.scss */
+.footer-logos li.prmd {
+  background-position: center -75px;
+}
+/* line 175, ../sass/components/footer.scss */
+.footer-logos li a {
+  display: block;
+  height: 100%;
+}
+
+/* line 4, ../sass/components/posts.scss */
+.posts li:first-child .post {
+  padding-top: 9em;
+}
+/* line 7, ../sass/components/posts.scss */
+.posts li .post {
+  padding-bottom: 4em;
+}
+/* line 9, ../sass/components/posts.scss */
+.posts li .post .post-main {
+  padding: 1em 2em 0;
+}
+@media (min-width: 48em) {
+  /* line 9, ../sass/components/posts.scss */
+  .posts li .post .post-main {
+    padding: 0;
+  }
+}
+/* line 18, ../sass/components/posts.scss */
+.posts li .post.single {
+  padding-bottom: 0;
+}
+/* line 20, ../sass/components/posts.scss */
+.posts li .post.single a[rel="prev"] {
+  float: left;
+}
+/* line 23, ../sass/components/posts.scss */
+.posts li .post.single a[rel="next"] {
+  float: right;
+}
+/* line 26, ../sass/components/posts.scss */
+.posts li .post.single .view-all-posts {
+  display: none;
+}
+
+/* line 31, ../sass/components/posts.scss */
+.post {
+  *zoom: 1;
+  background-color: #f5f5f5;
+  max-width: 98em;
+  _width: 98em;
+  margin: 0 auto;
+}
+/* line 38, ../../../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+.post:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media (min-width: 48em) {
+  /* line 39, ../sass/components/posts.scss */
+  .post .post-image,
+  .post .post-map {
+    width: 48.97959%;
+    float: left;
+    margin-right: 2.04082%;
+  }
+}
+/* line 44, ../sass/components/posts.scss */
+.post .post-image img {
+  display: block;
+}
+/* line 47, ../sass/components/posts.scss */
+.post .post-map {
+  min-height: 40em;
+}
+/* line 49, ../sass/components/posts.scss */
+.post .post-map img {
+  max-width: none;
+}
+@media (min-width: 48em) {
+  /* line 54, ../sass/components/posts.scss */
+  .post .post-main {
+    width: 48.97959%;
+    float: right;
+    margin-right: 0;
+    width: 44.9796%;
+    padding-right: 3%;
+  }
+}
+/* line 60, ../sass/components/posts.scss */
+.post .post-main .date {
+  margin: 0;
+  font-size: 14px;
+  font-size: 1.4rem;
+}
+/* line 65, ../sass/components/posts.scss */
+.post .post-main .title,
+.post .post-main .title > a {
+  font-size: 26px;
+  font-size: 2.6rem;
+  line-height: 1.33em;
+}
+/* line 69, ../sass/components/posts.scss */
+.post .post-main .title {
+  padding-bottom: 0.66em;
+}
+/* line 72, ../sass/components/posts.scss */
+.post .post-main .title > a {
+  text-decoration: none;
+  border-bottom: 2px solid black;
+}
+/* line 76, ../sass/components/posts.scss */
+.post .post-main a {
+  font-size: 14px;
+  font-size: 1.4rem;
+  color: #000;
+}
+/* line 80, ../sass/components/posts.scss */
+.post .post-main ul {
+  list-style: inside;
+  font-size: 14px;
+  font-size: 1.4rem;
+  margin-bottom: 1em;
+}
+/* line 85, ../sass/components/posts.scss */
+.post .post-main strong {
+  font-weight: bold;
+}
+/* line 88, ../sass/components/posts.scss */
+.post .post-main i {
+  font-style: italic;
+}
+/* line 92, ../sass/components/posts.scss */
+.post .social-bar {
+  height: 0.6em;
+  background-color: #000;
+  margin: 0 0 20px;
+}
+/* line 96, ../sass/components/posts.scss */
+.post .social-bar a {
+  display: inline-block;
+  float: right;
+  height: 33px;
+  line-height: 33px;
+  background-color: #F5F5F5;
+  margin-top: -15px;
+  color: #000;
+  font-size: 1.4em;
+  padding: 0 0.5em;
+  text-indent: -9000em;
+}
+/* line 107, ../sass/components/posts.scss */
+.post .social-bar a:first-child {
+  padding-right: 1em;
+}
+/* line 110, ../sass/components/posts.scss */
+.post .social-bar a:last-child {
+  padding-left: 1em;
+}
+
+/* line 116, ../sass/components/posts.scss */
+#news {
+  display: none;
+  padding-bottom: 3em;
+  position: relative;
+}
+/* line 120, ../sass/components/posts.scss */
+#news.active {
+  display: block;
+}
+/* line 123, ../sass/components/posts.scss */
+#news .social-bar {
+  display: none;
+}
+/* line 126, ../sass/components/posts.scss */
+#news .loader, #news #fancybox-loading div, #fancybox-loading #news div {
+  top: 2.5%;
+  left: 20%;
+}
+
+/* line 132, ../sass/components/posts.scss */
+.nav-bar {
+  height: 60px;
+  clear: both;
+}
+/* line 135, ../sass/components/posts.scss */
+.nav-bar a {
+  display: inline-block;
+  line-height: 60px;
+  text-transform: uppercase;
+  font-size: 1.4em;
+  color: #000;
+  text-decoration: none;
+  padding: 0 1em;
+}
+/* line 143, ../sass/components/posts.scss */
+.nav-bar a:hover {
+  color: #fff;
+  background-color: #000;
+}
+/* line 148, ../sass/components/posts.scss */
+.nav-bar .view-all-posts {
+  float: right;
+}
+/* line 153, ../sass/components/posts.scss */
+.nav-bar a[rel="prev"],
+.nav-bar a[rel="next"] {
+  position: relative;
+}
+/* line 155, ../sass/components/posts.scss */
+.nav-bar a[rel="prev"]:before,
+.nav-bar a[rel="next"]:before {
+  content: " ";
+  position: absolute;
+  top: 1.75em;
+}
+/* line 161, ../sass/components/posts.scss */
+.nav-bar a[rel="prev"] {
+  padding-left: 2em;
+}
+/* line 164, ../sass/components/posts.scss */
+.nav-bar a[rel="next"] {
+  padding-right: 2em;
+}
+/* line 167, ../sass/components/posts.scss */
+.nav-bar a[rel="prev"]:before {
+  height: 0;
+  width: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px;
+  border-right-color: black;
+  left: 0.5em;
+}
+/* line 171, ../sass/components/posts.scss */
+.nav-bar a[rel="prev"]:hover:before {
+  border-color: transparent white transparent transparent;
+}
+/* line 174, ../sass/components/posts.scss */
+.nav-bar a[rel="next"]:before {
+  height: 0;
+  width: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px;
+  border-left-color: black;
+  right: 0.5em;
+}
+/* line 178, ../sass/components/posts.scss */
+.nav-bar a[rel="next"]:hover:before {
+  border-color: transparent transparent transparent white;
+}
+
+/* line 183, ../sass/components/posts.scss */
+.toggle-link {
+  display: block;
+  font-size: 1.8em;
+  line-height: 3.388888888888889em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  position: relative;
+}
+/* line 194, ../sass/components/posts.scss */
+.toggle-link:hover {
+  color: #000;
+  background-color: #F5F5F5;
+}
+/* line 198, ../sass/components/posts.scss */
+.toggle-link:hover:after {
+  border-color: transparent transparent transparent black;
+}
+/* line 202, ../sass/components/posts.scss */
+.toggle-link:after {
+  height: 0;
+  width: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 6px;
+  border-left-color: white;
+  content: " ";
+  position: absolute;
+  top: 1.25em;
+  margin-left: 0.5em;
+}
+/* line 209, ../sass/components/posts.scss */
+.toggle-link.toggler-active:after {
+  height: 0;
+  width: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 6px;
+  border-top-color: white;
+  top: 1.5em;
+}
+/* line 213, ../sass/components/posts.scss */
+.toggle-link.toggler-active:hover:after {
+  border-color: black transparent transparent transparent;
+}
+
+/* line 218, ../sass/components/posts.scss */
+.gigs-single {
+  margin: 0 auto 0;
+  padding: 3em 0 4em;
+  position: relative;
+  z-index: 1;
+}
+@media (min-width: 48em) {
+  /* line 218, ../sass/components/posts.scss */
+  .gigs-single {
+    margin-top: 6.3em;
+  }
+}
+/* line 226, ../sass/components/posts.scss */
+.gigs-single:after {
+  background-color: #000000;
+  border-top: 4em solid whitesmoke;
+  content: " ";
+  display: block;
+  height: 6px;
+}
+/* line 235, ../sass/components/posts.scss */
+.gigs-single .date,
+.gigs-single .location {
+  display: inline;
+  font-size: 1.4em;
+}
+/* line 239, ../sass/components/posts.scss */
+.gigs-single .location {
+  font-weight: normal;
+}
+/* line 242, ../sass/components/posts.scss */
+.gigs-single .location:before {
+  content: " | ";
+}
+
+/* line 248, ../sass/components/posts.scss */
+.single-photos h1 span {
+  display: block;
+}
+
+/* fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
+/* line 12, ../sass/components/photos.scss */
+.fancybox-wrap,
+.fancybox-skin,
+.fancybox-outer,
+.fancybox-inner,
+.fancybox-image,
+.fancybox-wrap iframe,
+.fancybox-wrap object,
+.fancybox-nav,
+.fancybox-nav span,
+.fancybox-tmp {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: none;
+  vertical-align: top;
+}
+
+/* line 20, ../sass/components/photos.scss */
+.fancybox-wrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 8020;
+}
+
+/* line 27, ../sass/components/photos.scss */
+.fancybox-skin {
+  position: relative;
+  background: #000;
+  color: #444;
+  text-shadow: none;
+}
+
+/* line 34, ../sass/components/photos.scss */
+.fancybox-opened {
+  z-index: 8030;
+}
+
+/* line 38, ../sass/components/photos.scss */
+.fancybox-opened .fancybox-skin {
+  -webkit-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+
+/* line 44, ../sass/components/photos.scss */
+.fancybox-outer, .fancybox-inner {
+  position: relative;
+}
+
+/* line 48, ../sass/components/photos.scss */
+.fancybox-inner {
+  overflow: hidden;
+}
+
+/* line 52, ../sass/components/photos.scss */
+.fancybox-type-iframe .fancybox-inner {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* line 56, ../sass/components/photos.scss */
+.fancybox-error {
+  color: #444;
+  font: 14px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 15px;
+  white-space: nowrap;
+}
+
+/* line 64, ../sass/components/photos.scss */
+.fancybox-image, .fancybox-iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* line 70, ../sass/components/photos.scss */
+.fancybox-image {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/* line 75, ../sass/components/photos.scss */
+.fancybox-prev span, .fancybox-next span {
+  background-image: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/arrows.png");
+}
+
+/* line 79, ../sass/components/photos.scss */
+#fancybox-loading {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -22px;
+  margin-left: -22px;
+  background-position: 0 -108px;
+  opacity: 0.8;
+  cursor: pointer;
+  z-index: 8060;
+}
+
+/* line 91, ../sass/components/photos.scss */
+#fancybox-loading div {
+  position: static;
+}
+
+/* line 96, ../sass/components/photos.scss */
+.fancybox-close {
+  display: none;
+}
+
+/* line 107, ../sass/components/photos.scss */
+.fancybox-nav {
+  position: absolute;
+  top: 0;
+  width: 40%;
+  height: 100%;
+  cursor: pointer;
+  text-decoration: none;
+  background: transparent url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/fancybox/blank.gif");
+  /* helps IE */
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  z-index: 8040;
+}
+
+/* line 119, ../sass/components/photos.scss */
+.fancybox-prev {
+  left: 0;
+}
+
+/* line 123, ../sass/components/photos.scss */
+.fancybox-next {
+  right: 0;
+}
+
+/* line 127, ../sass/components/photos.scss */
+.fancybox-nav span {
+  position: absolute;
+  top: 50%;
+  width: 39px;
+  height: 51px;
+  margin-top: -18px;
+  cursor: pointer;
+  z-index: 8040;
+  visibility: hidden;
+}
+
+/* line 138, ../sass/components/photos.scss */
+.fancybox-prev span {
+  left: 0;
+  background-position: 0 -51px;
+}
+
+/* line 143, ../sass/components/photos.scss */
+.fancybox-next span {
+  right: 0;
+  background-position: 0 0;
+}
+
+/* line 148, ../sass/components/photos.scss */
+.fancybox-nav:hover span {
+  visibility: visible;
+}
+
+/* line 152, ../sass/components/photos.scss */
+.fancybox-tmp {
+  position: absolute;
+  top: -99999px;
+  left: -99999px;
+  max-width: 99999px;
+  max-height: 99999px;
+  overflow: visible !important;
+}
+
+/* Overlay helper */
+/* line 163, ../sass/components/photos.scss */
+.fancybox-lock {
+  overflow: hidden !important;
+  width: auto;
+}
+
+/* line 168, ../sass/components/photos.scss */
+.fancybox-lock body {
+  overflow: hidden !important;
+}
+
+/* line 172, ../sass/components/photos.scss */
+.fancybox-lock-test {
+  overflow-y: hidden !important;
+}
+
+/* line 176, ../sass/components/photos.scss */
+.fancybox-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  display: none;
+  z-index: 8010;
+  background: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/fancybox/fancybox_overlay.png");
+}
+
+/* line 186, ../sass/components/photos.scss */
+.fancybox-overlay-fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+/* line 192, ../sass/components/photos.scss */
+.fancybox-lock .fancybox-overlay {
+  overflow: auto;
+  overflow-y: scroll;
+}
+
+/* Title helper */
+/* line 199, ../sass/components/photos.scss */
+.fancybox-title {
+  visibility: hidden;
+  font: normal 13px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
+  text-shadow: none;
+  z-index: 8050;
+}
+
+/* line 207, ../sass/components/photos.scss */
+.fancybox-opened .fancybox-title {
+  visibility: visible;
+}
+
+/* line 211, ../sass/components/photos.scss */
+.fancybox-title-float-wrap {
+  position: absolute;
+  bottom: 0;
+  right: 50%;
+  margin-bottom: -35px;
+  z-index: 8050;
+  text-align: center;
+}
+
+/* line 220, ../sass/components/photos.scss */
+.fancybox-title-float-wrap .child {
+  display: inline-block;
+  margin-right: -100%;
+  padding: 2px 20px;
+  background: transparent;
+  /* Fallback for web browsers that doesn't support RGBa */
+  background: rgba(0, 0, 0, 0.8);
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  text-shadow: 0 1px 2px #222222;
+  color: #FFF;
+  font-weight: bold;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+/* line 236, ../sass/components/photos.scss */
+.fancybox-title-outside-wrap {
+  position: relative;
+  margin-top: 10px;
+  color: #fff;
+}
+
+/* line 242, ../sass/components/photos.scss */
+.fancybox-title-inside-wrap {
+  padding-top: 10px;
+}
+
+/* line 246, ../sass/components/photos.scss */
+.fancybox-title-over-wrap {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #fff;
+  padding: 10px;
+  background: #000;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/*Retina graphics!*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+  /* line 261, ../sass/components/photos.scss */
+  #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
+    background-image: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/fancybox/fancybox_sprite@2x.png");
+    background-size: 44px 152px;
+    /*The size of the normal image, half the size of the hi-res image*/
+  }
+
+  /* line 266, ../sass/components/photos.scss */
+  #fancybox-loading div {
+    background-image: url("/web/20131006005759im_/http://avicii.com/wp-content/themes/avicii/img/fancybox/fancybox_loading@2x.gif");
+    background-size: 24px 24px;
+    /*The size of the normal image, half the size of the hi-res image*/
+  }
+}
+/* line 1, ../sass/components/splash.scss */
+#splash {
+  display: none;
+  max-width: 100%;
+  overflow: hidden;
+  text-align: center;
+}
+/* line 6, ../sass/components/splash.scss */
+#splash img {
+  display: block;
+  margin: 0 auto;
+}
+@media (min-width: 48em) {
+  /* line 1, ../sass/components/splash.scss */
+  #splash {
+    display: block;
+  }
+}
+
+/* line 17, ../sass/components/splash.scss */
+#splash .sticky {
+  position: fixed;
+  left: 0;
+  right: 0;
+}
+/* line 23, ../sass/components/splash.scss */
+#splash .content {
+  position: relative;
+  height: 100%;
+}
+/* line 26, ../sass/components/splash.scss */
+#splash .content h1, #splash .content h2, #splash .content h3 {
+  color: #fff;
+}
+/* line 29, ../sass/components/splash.scss */
+#splash .content h1 {
+  font-size: 28px;
+  font-size: 2.8rem;
+}
+/* line 31, ../sass/components/splash.scss */
+#splash .content h1 span {
+  font-style: italic;
+}
+/* line 35, ../sass/components/splash.scss */
+#splash .content h2 {
+  font-size: 24px;
+  font-size: 2.4rem;
+}
+/* line 38, ../sass/components/splash.scss */
+#splash .content .plate {
+  display: inline-block;
+  background-color: #000;
+  color: #fff;
+  padding: 0.5em 1em;
+  margin: 0 0 1em 0;
+}
+/* line 44, ../sass/components/splash.scss */
+#splash .content .plate.inverted {
+  color: #000;
+  background-color: #fff;
+}
+
+/* line 2, ../sass/components/videos.scss */
+.videos li {
+  width: 100%;
+  margin-bottom: 2em;
+}
+@media (min-width: 48em) {
+  /* line 2, ../sass/components/videos.scss */
+  .videos li {
+    float: left;
+    width: 49%;
+  }
+}
+/* line 9, ../sass/components/videos.scss */
+.videos li:nth-child(2n+2) {
+  margin-left: 2%;
+}
+/* line 12, ../sass/components/videos.scss */
+.videos li iframe {
+  width: 100%;
+  height: 400px;
+}
+
+/* line 75, ../sass/screen.scss */
+.spotify-player {
+  margin-right: 2.85em;
+}
+/* line 77, ../sass/screen.scss */
+.spotify-player.last {
+  margin-right: 0;
+}
+
+/* line 83, ../sass/screen.scss */
+.page-wrapper {
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+/* line 88, ../sass/screen.scss */
+body.home div.page {
+  background-color: #fff;
+}
+
+/* line 94, ../sass/screen.scss */
+.gigs-bg,
+.videos-bg {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin-top: -6.3em;
+  display: none;
+}
+@media (min-width: 48em) {
+  /* line 94, ../sass/screen.scss */
+  .gigs-bg,
+  .videos-bg {
+    display: block;
+  }
+}
+/* line 103, ../sass/screen.scss */
+.gigs-bg img,
+.videos-bg img {
+  margin: 0 auto;
+  display: block;
+  height: auto;
+}
+
+/*
+     FILE ARCHIVED ON 00:57:59 Oct 06, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:29:13 Jan 12, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  CDXLines.iter: 23.7 (3)
+  PetaboxLoader3.datanode: 82.059 (4)
+  exclusion.robots.policy: 0.216
+  RedisCDXSource: 0.777
+  captures_list: 71.924
+  LoadShardBlock: 42.463 (3)
+  esindex: 0.014
+  PetaboxLoader3.resolve: 69.242
+  load_resource: 118.848
+  exclusion.robots: 0.233
+*/

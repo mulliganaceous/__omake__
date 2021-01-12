@@ -1,0 +1,178 @@
+*{padding: 0;margin: 0;}
+html,body{width: 100%;}
+
+body{
+background-color:  rgba(0,0,0,1);
+color:  rgba(255,255,255,1);
+font-family: 'Lato', sans-serif;
+font-size: 100%;
+line-height: normal;
+font-weight: normal;
+}
+
+a, .trans {-o-transition: all .3s;-ms-transition: all .3s;-moz-transition: all .3s;-webkit-transition: all .3s;transition: all .3s;}
+a{color:rgba(255,255,255,1); cursor: pointer; text-decoration: none;opacity: 1;}
+a:hover{opacity: 0.8;}
+.init a {text-decoration: underline;}
+input, a:hover, a:active, a:focus, input, *:focus {outline: medium none;}
+img{width: 100%;height: auto;float: left;}
+
+
+.nomarg,.last{margin: 0 !important;}
+ul {height: auto;list-style: outside none none;width: 100%;}
+section,footer{background-position: center center;background-repeat: no-repeat;background-size: cover;float: left;width: 100%;position: relative;box-sizing: border-box;}
+h1,h2,h3,h4,p{margin:0 0 25px;padding: 0 20px;font-weight: normal;}
+h1 {font-size: 23px;line-height: 35px;letter-spacing: 4px;}
+p {font-size: 17px;}
+strong{font-weight:700;}
+
+.column{float: left;}
+
+.c120 {width: 120%;}
+.c110 {width: 110%;}
+.c100{width: 100%;}
+.c90{width: 90%;}
+.c80{width: 80%;}
+.c70{width: 70%;}
+.c60{width: 60%;}
+.c50{width: 50%;}
+.c40{width: 40%;}
+.c30{width: 30%;}
+.c20{width: 20%;}
+.c10{width: 10%;}
+.c0{width: 0%;}
+
+/* ====================================================================================================================
+ * NAVIGATION
+ * ====================================================================================================================*/
+
+
+/* ====================================================================================================================
+ * SEKTIONER
+ * ====================================================================================================================*/
+
+#index {background-image: url(/web/20180427223642im_/http://www.avicii.com/assets/img/01_AvicibyAvicii.jpg);}
+
+.bg_press {
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+float: left;
+width: 100%;
+height: 100%;
+opacity: 0;
+}
+
+.content {width: 100%;max-width: 700px;margin: 0 auto;display: table;height: 100%;text-align: center;}
+.align_content{display: table-cell;vertical-align: middle;}
+.content p:last-child{margin:0;}
+
+.sticky {position: fixed;z-index:100;height: auto;float: left;}
+
+#symbol{width:auto;height:25px;top: 10%;left: 50%;	margin:-15px 0 0 -27px;}
+#logo{width:auto;height:25px;bottom: 10%;left: 50%;	margin:0 0 -15px -55px;}
+
+#pronounce{width:15px;top: 50%;right: 5%;			margin:-48.5px 0 0;}
+#number{width:15px;top: 50%;left: 5%;				margin:-18px 0 0;}
+
+.social{position: absolute;top: 10%;right: 5%;z-index:101;width: auto;margin:-10px 0 0 0;}
+.social li {float: left;margin: 0 10px;}
+.social i{font-size:20px;}
+.social img{width: auto;height: 20.5px;}
+
+.ssocial a img:hover{opacity: 0.8;}
+
+footer img {width: 75%;float: none;}
+ul#instafeed {
+    width: 80%;
+    margin: 0 auto;
+    display: table;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+#instafeed li img {opacity: 0;}
+#instafeed li {width: 14.28571428571429%;float: left;background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;}
+  #instafeed li:hover{opacity: 0.2;}
+/* ====================================================================================================================
+ * RESPONSIVE
+ * ====================================================================================================================*/
+
+li.shop_link{font-weight: bold;text-transform: uppercase;letter-spacing: 3px;font-size: 13px;margin: 3px 6px 0;}
+
+
+
+.desktop{display: block !important;}
+.handheld{display: none !important;}
+
+@media screen and (max-width: 1200px) {
+
+.desktop{display: none !important;}
+.handheld{display: block !important;}
+
+
+
+}
+@media screen and (max-width: 900px) {
+    li.shop_link{letter-spacing: 1px;font-size: 10px;margin: 7px 5px 0;}
+#message {height: auto !important;}
+#message .align_content {
+    display: inline-block;
+    vertical-align: middle;
+    float: left;
+    padding: 10%;
+}
+
+h1 {
+    font-size: 13px;
+    line-height: normal;
+    letter-spacing: 4px;
+}
+p {
+    font-size: 12px;
+}
+.social {
+    position: absolute;
+    top: 19%;
+    right: 50%;
+    z-index: 101;
+    width: auto;
+    margin: -10px -74px 0 0;
+    text-align: center;
+}
+.social i {
+    font-size: 9px;
+}
+.social li {
+    float: left;
+    margin: 0 4px;
+}
+.social img {
+    width: auto;
+    height: 10px;
+    margin: 8px 0 0;
+}
+}
+
+/*
+     FILE ARCHIVED ON 22:36:42 Apr 27, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:01:46 Jan 12, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 133.457
+  exclusion.robots: 0.097
+  exclusion.robots.policy: 0.089
+  RedisCDXSource: 9.058
+  esindex: 0.01
+  LoadShardBlock: 104.211 (3)
+  PetaboxLoader3.datanode: 137.806 (5)
+  CDXLines.iter: 17.286 (3)
+  load_resource: 228.072 (2)
+  PetaboxLoader3.resolve: 171.818 (2)
+*/
