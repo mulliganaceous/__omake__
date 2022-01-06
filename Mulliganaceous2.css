@@ -5,6 +5,12 @@
     marks: cross;
 }
 
+* {
+    margin: 0in;
+    font-family: "Noto Sans";
+    font-size: 12pt;
+}
+
 h1 {
     font-family: "Century Gothic";
     font-size: 20pt;
@@ -17,7 +23,7 @@ h1 {
     line-height: 1;
     box-sizing: border-box;
     height: 48pt;
-    width: 7.5in;
+    width: 100%;
     background-color: lightblue;
 }
 
@@ -26,25 +32,22 @@ st {
     font-size: 10pt;
     font-weight: bold;
     text-align: center;
-    width: 2in;
+    margin-top: 8pt;
+    display: block;
     border-collapse: collapse;
 }
 
 h2 {
+    background-color:lightgreen;
     font-family: "Century Gothic";
     font-size: 16pt;
-    text-decoration: underline;
+    border-bottom: 3px solid black;
 }
 
 h3 {
     background-color:#CCCCCC;
     font-weight: normal;
-}
-
-* {
-    margin: 0in;
-    font-family: "Noto Sans";
-    font-size: 12pt;
+    width: 75%;
 }
 
 p {
@@ -52,8 +55,13 @@ p {
     padding-bottom: 1em;
 }
 
+section {
+    padding-bottom: 12pt;
+    page-break-after: always
+}
+
 newpage {
-    page-break-before: right
+    page-break-before: always
 }
 
 eqn {
@@ -61,8 +69,27 @@ eqn {
 }
 
 code {
+    white-space: pre;
     font-family: "monospace";
     color: blue;
+}
+
+codeblock {
+    display:block;
+    white-space: pre;
+    line-height: 1;
+    padding: 0px;
+    margin-left: 0.5in;
+
+    font-size:10pt;
+    font-family: "monospace";
+    color: blue;
+    background-color: #EEEEEE;
+}
+
+codeblock > * {
+    font-size:10pt;
+    font-family: "monospace";
 }
 
 sup {
@@ -77,10 +104,41 @@ sub {
     vertical-align: sub;
 }
 
-err {
-    color: red;
+ou {
+    text-decoration: overline
 }
 
-.eqn {
-    color: blue;
+qt, qd, qn {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;   
+}
+
+qt {
+    display: inline-block;
+    text-align: center;    
+}
+
+qd {
+    border-top: 1px solid;
+    display: block; 
+}
+
+/* Proofreading */
+err {
+    background-color: lightcoral;
+}
+
+serr {
+    text-decoration: line-through red 3px;
+}
+
+comm {
+    color: green;
+}
+
+codeblock > comm {
+    color: green; 
+    font-size:10pt;
+    font-family: "monospace";
 }
