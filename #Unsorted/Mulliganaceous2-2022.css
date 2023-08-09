@@ -1,0 +1,144 @@
+@page {
+    size:8.5in 11in;
+    margin-left: 0.5in;
+    margin-right: 0.5in;
+    marks: cross;
+}
+
+* {
+    margin: 0in;
+    font-family: "Noto Sans";
+    font-size: 12pt;
+}
+
+h1 {
+    font-family: "Century Gothic";
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+    border-width: 3pt;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+    line-height: 1;
+    box-sizing: border-box;
+    height: 48pt;
+    width: 100%;
+    background-color: lightblue;
+}
+
+st {
+    font-family: "Century Gothic";
+    font-size: 10pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 8pt;
+    display: block;
+    border-collapse: collapse;
+}
+
+h2 {
+    background-color:lightgreen;
+    font-family: "Century Gothic";
+    font-size: 16pt;
+    border-bottom: 3px solid black;
+}
+
+h3 {
+    background-color:#CCCCCC;
+    font-weight: normal;
+    width: 75%;
+}
+
+p {
+    line-height: 1.5;
+    padding-bottom: 1em;
+}
+
+section {
+    padding-bottom: 12pt;
+    page-break-after: always
+}
+
+newpage {
+    page-break-before: always
+}
+
+eqn {
+    color: blue;
+}
+
+code {
+    white-space: pre;
+    font-family: "monospace";
+    color: blue;
+}
+
+codeblock {
+    display:block;
+    white-space: pre;
+    line-height: 1;
+    padding: 0px;
+    margin-left: 0.5in;
+
+    font-size:10pt;
+    font-family: "monospace";
+    color: blue;
+    background-color: #EEEEEE;
+}
+
+codeblock > * {
+    font-size:10pt;
+    font-family: "monospace";
+}
+
+sup {
+    line-height: 0;
+    font-size: 0.64em;
+    vertical-align: super;
+}
+
+sub {
+    line-height: 0;
+    font-size: 0.64em;
+    vertical-align: sub;
+}
+
+ou {
+    text-decoration: overline
+}
+
+qt, qd, qn {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;   
+}
+
+qt {
+    display: inline-block;
+    text-align: center;    
+}
+
+qd {
+    border-top: 1px solid;
+    display: block; 
+}
+
+/* Proofreading */
+err {
+    background-color: lightcoral;
+}
+
+serr {
+    text-decoration: line-through red 3px;
+}
+
+comm {
+    color: green;
+}
+
+codeblock > comm {
+    color: green; 
+    font-size:10pt;
+    font-family: "monospace";
+}
