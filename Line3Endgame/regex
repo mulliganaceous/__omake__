@@ -1,0 +1,2 @@
+<path class="fil10"(.*)\n(\s*)<path class="fil10"(.*)\n(\s*)</g>\n(\s*)<g>\n(\s*)<path class="fil12"(.*)\n(\s*)<path class="fil11
+<path class="fil98"$1\n$2<path class="fil10"$3\n$4</g>\n$5<g>\n$6<path class="fil12"$7\n$8<path class="fil11
