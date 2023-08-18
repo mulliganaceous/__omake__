@@ -1,0 +1,606 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" 
+ xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+
+<!--(==============================================================)-->
+<!--(Document created with RoboEditor. )============================-->
+<!--(==============================================================)-->
+
+<head>
+
+<title>How To Construct a Slider</title>
+
+<!--(Meta)==========================================================-->
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Originator content="Microsoft Word 9">
+<meta name=generator content="RoboHELP by eHelp Corporation - www.ehelp.com">
+<meta name=generator-major-version content=0.1>
+<meta name=generator-minor-version content=1>
+<meta name=filetype content=kadov>
+<meta name=filetype-version content=1>
+<meta name=page-count content=1>
+<meta name=layout-height content=926>
+<meta name=layout-width content=1168>
+<meta name=date content="02 12, 2004 4:43:44 PM">
+
+
+<!--(Links)=========================================================-->
+
+<link rel=File-List href="./HowToSlider_files/filelist.xml">
+<link rel=Edit-Time-Data href="./HowToSlider_files/editdata.mso">
+
+
+
+<!--(Style Sheet)===================================================-->
+
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>jbinker</o:Author>
+  <o:Template>GSP4_RefManTmplt</o:Template>
+  <o:LastAuthor>jbinker</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2001-09-14T00:47:00Z</o:Created>
+  <o:LastSaved>2001-09-14T00:47:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>208</o:Words>
+  <o:Characters>1186</o:Characters>
+  <o:Company>KCP Technologies</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1456</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:AttachedTemplate
+   HRef="C:\Documents and Settings\jbinker\My Documents\FinalPrep4Help\GSP4_RefManTmplt.dot"></w:AttachedTemplate>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+
+<!--
+
+/* Font Definitions */
+@font-face {
+	font-family: "MS Mincho";
+	panose-1: 0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt: "-3 ";
+	mso-font-charset: 128;
+	mso-generic-font-family: roman;
+	mso-font-format: other;
+	mso-font-pitch: fixed;
+	mso-font-signature: 1 134676480 16 0 131072 0;
+};
+
+@font-face {
+	font-family: "Arial Narrow";
+	panose-1: 2 11 5 6 2 2 2 3 2 4;
+	mso-font-charset: 0;
+	mso-generic-font-family: swiss;
+	mso-font-pitch: variable;
+	mso-font-signature: 647 0 0 0 159 0;
+};
+
+@font-face {
+	font-family: "\0040MS Mincho";
+	panose-1: 0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset: 128;
+	mso-generic-font-family: roman;
+	mso-font-format: other;
+	mso-font-pitch: fixed;
+	mso-font-signature: 1 134676480 16 0 131072 0;
+};
+
+@page Section1 {
+	x-size: 8.5in 11.0in;
+	margin: 120.0pt 1.25in 120.0pt 2.5in;
+	mso-header-margin: 120.0pt;
+	mso-footer-margin: 120.0pt;
+	mso-gutter-margin: .5in;
+	mso-title-page: yes;
+	mso-paper-source: 15;
+};
+
+@page Section2 {
+	x-size: 8.5in 11.0in;
+	margin: 1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin: .5in;
+	mso-footer-margin: .5in;
+	mso-paper-source: 0;
+};
+
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+	mso-style-parent: ;
+	margin: 0in;
+	margin-bottom: .0001pt;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+/* Style Definitions */
+LI.kadov-p-CMsoNormal {
+	mso-style-parent: ;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h3 {
+	mso-style-next: Normal;
+	margin-top: 12.0pt;
+	margin-right: 0in;
+	margin-bottom: 3.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	page-break-after: avoid;
+	mso-outline-level: 3;
+	font-size: 13.0pt;
+	font-family: Arial;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h3 {
+	mso-style-next: Normal;
+	mso-pagination: widow-orphan;
+	mso-outline-level: 3;
+	font-size: 13.0pt;
+	font-family: Arial;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoBodyText,
+li.MsoBodyText,
+div.MsoBodyText {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoBodyText {
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.Command {
+	mso-style-name: "Command\002ccmd";
+	mso-ansi-font-size: 11.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	font-weight: bold;
+}
+
+p.SideHint,
+li.SideHint,
+div.SideHint {
+	mso-style-name: "Side Hint\002csh";
+	margin-top: 2.0pt;
+	margin-right: .2in;
+	margin-bottom: 3.0pt;
+	margin-left: .2in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSideHint {
+	mso-style-name: "Side Hint\002csh";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.Howtohead,
+li.Howtohead,
+div.Howtohead {
+	mso-style-name: "How to head";
+	mso-style-parent: "Heading 3";
+	margin-top: 12.0pt;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: -1.25in;
+	text-indent: 4.3pt;
+	mso-pagination: widow-orphan;
+	page-break-after: avoid;
+	mso-outline-level: 3;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: "Arial Narrow";
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CHowtohead {
+	mso-style-name: "How to head";
+	mso-style-parent: "Heading 3";
+	text-indent: 4.3pt;
+	mso-pagination: widow-orphan;
+	mso-outline-level: 3;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: "Arial Narrow";
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.num,
+li.num,
+div.num {
+	mso-style-name: num;
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 3.0pt;
+	margin-left: .25in;
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	tab-stops: decimal 9.0pt left .25in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-Cnum {
+	mso-style-name: num;
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	tab-stops: decimal 9.0pt left .25in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.numcharacter {
+	mso-style-name: "num character\002cnc";
+	mso-ansi-font-size: 10.0pt;
+	font-weight: bold;
+}
+
+p.endHowTo,
+li.endHowTo,
+div.endHowTo {
+	mso-style-name: endHowTo;
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: -85.5pt;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "MS Mincho";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CendHowTo {
+	mso-style-name: endHowTo;
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "MS Mincho";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.cg2,
+li.cg2,
+div.cg2 {
+	mso-style-name: cg2;
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	text-align: center;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-Ccg2 {
+	mso-style-name: cg2;
+	text-align: center;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+div.Section1 {
+	page: Section1;
+}
+
+div.Section2 {
+	page: Section2;
+}
+
+-->
+</style>
+
+
+
+<script language="javascript" title="WebHelpInlineScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+//-->
+</script><style>
+<!--
+  div.WebHelpPopupMenu {position:absolute; left:0px; top:0px; z-index:4; visibility:hidden;}
+  p.WebHelpNavBar {text-align:right;}
+-->
+</style><script src="../../bsscnbar.js" language="JavaScript" title="WebHelpNavBarExtJs" ></script>
+</head>
+
+<!--(Body)==========================================================-->
+
+
+<body lang=EN-US style="tab-interval: .5in;">
+
+<SCRIPT language="JavaScript" title="WebHelpNavBar">
+<!--
+gbstrRelHomePageURL="../../SketchpadHelp.htm";
+if (parseInt(navigator.appVersion) >=3  && window.name.indexOf("BSSCPopup") == -1)
+{
+var strNvHome=""; var strNvBrowse=""; var strNvWebSearch="";
+if ((parseInt(navigator.appVersion) >= 3) && (typeof (BsscNavHasNavFrame) != "undefined") &&
+ (typeof(BsscNavIsList) == "undefined" || !BsscNavIsList())) 
+{
+  if (!BsscNavHasNavFrame()) {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavShow();return false;\">Show&nbsp;Contents</a>";
+  } else {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavHide();return false;\">Hide&nbsp;Contents</a>";
+  }
+}
+if ((strNvHome.length != 0) || (strNvBrowse.length != 0) || (strNvWebSearch.length != 0)) {
+  document.write("<p id='NavBar' align='right' class=WebHelpNavBar><nobr><font size=1>");
+  if (strNvHome.length != 0) document.write(strNvHome);
+  if (strNvBrowse.length != 0) document.write(strNvBrowse);
+  if (strNvWebSearch.length != 0) document.write(strNvWebSearch);
+  document.write("</font>&nbsp;&nbsp;&nbsp;</nobr></p>");
+  }
+}
+//-->
+</SCRIPT>
+<p class=NAVBAR
+	style="font-family: Arial, sans-serif;
+			font-style: italic;
+			font-size: 8pt;"><a href="../../Home.htm">Home</a>: <a href="../../MenuReference.htm">Menu 
+ Reference</a>: <a href="../MeasureMenu.htm">Measure Menu</a>: How to Construct 
+ a Slider</p>
+
+<p class=Howtohead
+	style="margin-left: 0in;">How to . . .<span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </span>Construct a Slider</p>
+
+<p class=MsoBodyText>Often it is useful to construct a <i style="mso-bidi-font-style: normal;">slider</i> 
+ for controlling a numeric value. For example, if you wanted to create 
+ a <a HREF="../GraphMenu.htm">graph</a> of the line <i style="mso-bidi-font-style: normal;">y&nbsp;=&nbsp;mx 
+ + b</i> in which you can slide a point back and forth to control the values 
+ of <i style="mso-bidi-font-style: normal;">m </i>and <i style="mso-bidi-font-style: normal;">b, 
+ </i>you might want to set up sliders for <i style="mso-bidi-font-style: normal;">m 
+ </i>and <i style="mso-bidi-font-style: normal;">b.</i> To make a slider 
+ for <i style="mso-bidi-font-style: normal;">m:</i></p>
+
+<p class=num><span class=numcharacter
+					style="font-size: 10.0pt; mso-fareast-font-family: 'MS Mincho';"><FONT SIZE=2 style="font-size:10pt;">1.&nbsp; 
+ </FONT></span><span style="mso-fareast-font-family: 'MS Mincho';"><a HREF="../ConstructMenu.htm">Construct</a> 
+ a <a HREF="../../ToolboxFldr/StraightedgeFldr/ConstructLine.htm">line</a> 
+ through two <a HREF="../../ToolboxFldr/PointTool.htm">points</a> <i style="mso-bidi-font-style: normal;">A</i> 
+ and <i style="mso-bidi-font-style: normal;">B</i>.</span></p>
+
+<p class=num><span class=numcharacter
+					style="font-size: 10.0pt; mso-fareast-font-family: 'MS Mincho';"><FONT SIZE=2 style="font-size:10pt;">2.&nbsp; 
+ </FONT></span><span style="mso-fareast-font-family: 'MS Mincho';">Use the </span><a HREF="../../ToolboxFldr/PointTool.htm"><span style="mso-fareast-font-family: 'MS Mincho'; font-weight: bold;"><B>Point</B></span><span 
+ style="mso-fareast-font-family: 'MS Mincho';"> tool</a> to construct a 
+ point <i style="mso-bidi-font-style: normal;">C</i> on the line.</span></p>
+
+<p class=num><span class=numcharacter
+					style="font-size: 10.0pt; mso-fareast-font-family: 'MS Mincho';"><FONT SIZE=2 style="font-size:10pt;">3.&nbsp; 
+ </FONT></span><span style="mso-fareast-font-family: 'MS Mincho';">Select <i style="mso-bidi-font-style: normal;">A,</i> 
+ <i style="mso-bidi-font-style: normal;">B,</i> and <i style="mso-bidi-font-style: normal;">C</i> 
+ in that order, and choose <a HREF="Ratio.htm" style="font-weight: bold;">Ratio</a> from 
+ the <a HREF="../MeasureMenu.htm">Measure menu</a>.</span></p>
+
+<p class=MsoBodyText
+	style="font-size: 10.0pt;
+			mso-fareast-font-family: 'MS Mincho';
+			text-align: center;"
+	align=center><span class=numcharacter><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../image259.gif' width='164' height='69' border='0'>");}
+else
+{ document.write("<img src='../../image259.gif' style='border: none; width: 164px; height: 69px;' width='164' height='69' border='0'>");}
+//--></SCRIPT></span></p>
+
+<p class=num><span class=numcharacter
+					style="font-size: 10.0pt; mso-fareast-font-family: 'MS Mincho';"><FONT SIZE=2 style="font-size:10pt;">4.&nbsp; 
+ </FONT></span><span style="mso-fareast-font-family: 'MS Mincho';"><a HREF="../../ToolboxFldr/SelectnArrTlFldr/SelectDeselect.htm">Select</a> 
+ and <a HREF="../DisplayMenuFldr/HideObjects.htm">hide</a> the line and 
+ point <i style="mso-bidi-font-style: normal;">B, </i>leaving only two 
+ points and the measured ratio.</span></p>
+
+<p class=num><span class=numcharacter
+					style="font-size: 10.0pt; mso-fareast-font-family: 'MS Mincho';"><FONT SIZE=2 style="font-size:10pt;">5.&nbsp; 
+ </FONT></span><span style="mso-fareast-font-family: 'MS Mincho';">Construct a 
+ <a HREF="../../ToolboxFldr/StraightedgeFldr/ConstructSegment.htm">segment</a> 
+ connecting <i style="mso-bidi-font-style: normal;">A</i> and <i style="mso-bidi-font-style: normal;">C</i>.</span></p>
+
+<p class=MsoBodyText
+	style="text-align: center;
+			font-size: 10.0pt;
+			mso-fareast-font-family: 'MS Mincho';"
+	align=center><span class=numcharacter><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../image260.gif' width='115' height='69' border='0'>");}
+else
+{ document.write("<img src='../../image260.gif' style='border: none; width: 115px; height: 69px;' width='115' height='69' border='0'>");}
+//--></SCRIPT></span></p>
+
+<p class=num><span class=numcharacter
+					style="font-size: 10.0pt; mso-fareast-font-family: 'MS Mincho';"><FONT SIZE=2 style="font-size:10pt;">6.&nbsp; 
+ </FONT></span><span style="mso-fareast-font-family: 'MS Mincho';">Double-click 
+ the measured ratio with the </span><a HREF="../../ToolboxFldr/TextTool.htm"><span 
+ style="mso-fareast-font-family: 'MS Mincho'; font-weight: bold;"><B>Text</B></span><span 
+ style="mso-fareast-font-family: 'MS Mincho';"> tool</a>, and set its label 
+ to <i style="mso-bidi-font-style: normal;">m</i>.</span></p>
+
+<p class=MsoBodyText
+	style="text-align: center; mso-fareast-font-family: 'MS Mincho';"
+	align=center><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../image261.gif' width='111' height='53' border='0'>");}
+else
+{ document.write("<img src='../../image261.gif' style='border: none; width: 111px; height: 53px;' width='111' height='53' border='0'>");}
+//--></SCRIPT></p>
+
+<p class=MsoBodyText><span style="mso-fareast-font-family: 'MS Mincho';">Your 
+ basic slider is complete. As you drag <i style="mso-bidi-font-style: normal;">C, 
+ </i>the value of <i style="mso-bidi-font-style: normal;">m</i> changes 
+ accordingly. If you want, you can improve on the slider by hiding <i style="mso-bidi-font-style: normal;">A, 
+ </i>by hiding the label of <i style="mso-bidi-font-style: normal;">C</i> 
+ or changing <i style="mso-bidi-font-style: normal;">C’</i>s label to something 
+ more meaningful, or by using </span><span class=Command><a HREF="Calculate.htm">Calculate</a></span><span 
+ style="mso-fareast-font-family: 'MS Mincho';"> to multiply <i style="mso-bidi-font-style: normal;">m</i> 
+ by a constant, creating a new value that spans a larger (or smaller) range 
+ than the original value of <i style="mso-bidi-font-style: normal;">m</i> 
+ as you drag <i style="mso-bidi-font-style: normal;">C</i>.</span></p>
+
+<p class=SideHint><span style="mso-fareast-font-family: 'MS Mincho';">Y</span>ou 
+ can also create a numeric value directly, using the <span class=Command
+															style="font-size: 8.0pt;"><FONT SIZE=1 style="font-size:8pt;"><a HREF="../GraphMenuFldr/NewParameter.htm">New Parameter</a></FONT></span><span 
+ style="font-size: 8.0pt;"> <FONT SIZE=1 style="font-size:8pt;"></FONT></span>command<span style="mso-spacerun: yes;">&nbsp;</span>from 
+ the Graph menu. The advantage of the slider described here is that sliding 
+ the control point back and forth provides a powerful, visual way to change 
+ the value.</p>
+
+<p class=MsoBodyText
+	style="font-size: 9pt;"><span style="font-style: italic;"><I>See also</I></span><a HREF="Ratio.htm"><br>
+Ratio</a><a HREF="../../ToolboxFldr/OverviewToolbox.htm"><br>
+Overview of the Toolbox</a><a HREF="../../ToolboxFldr/SelectnArrTlFldr/DraggingObjects.htm"><br>
+Dragging Objects</a><a HREF="../../ToolboxFldr/SelectnArrTlFldr/SelectDeselect.htm"><br>
+Selecting and Deselecting Objects</a><a HREF="../../ElementsFldr/ObjectsFldr/MeasuresCalculatns.htm"><br>
+Measurements, Calculations, and Parameters</a><a HREF="Calculate.htm"><br>
+Calculate</a><a HREF="../GraphMenuFldr/NewParameter.htm"><br>
+New Parameter</a><a HREF="../ConstructMenu.htm"><br>
+Construct Menu</a><a HREF="../MeasureMenu.htm"><br>
+Measure Menu</a></p>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if ((parseInt(navigator.appVersion) >= 3) && (typeof(onBsscAutoSync) != "undefined") && (window.name.indexOf("BSSCPopup") == -1))
+	onBsscAutoSync();
+//-->
+</SCRIPT>
+</body>
+
+</html>

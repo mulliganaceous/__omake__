@@ -1,0 +1,567 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" 
+ xmlns="http://www.w3.org/TR/REC-html40">
+
+<!--(==============================================================)-->
+<!--(Document created with RoboEditor. )============================-->
+<!--(==============================================================)-->
+
+<head>
+
+<title>Command-Line Flags for Sketchpad (Windows Version)</title>
+
+<!--(Meta)==========================================================-->
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Originator content="Microsoft Word 9">
+<meta name=generator content="RoboHELP by eHelp Corporation - www.ehelp.com">
+<meta name=generator-major-version content=0.1>
+<meta name=generator-minor-version content=1>
+<meta name=filetype content=kadov>
+<meta name=filetype-version content=1>
+<meta name=page-count content=1>
+<meta name=layout-height content=862>
+<meta name=layout-width content=751>
+<meta name=date content="12 11, 2002 4:12:16 PM">
+
+
+<!--(Links)=========================================================-->
+
+<link rel=File-List href="./CommandLineFlags_files/filelist.xml">
+
+
+
+<!--(Style Sheet)===================================================-->
+
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>jbinker</o:Author>
+  <o:Template>GSP4_RefManTmplt</o:Template>
+  <o:LastAuthor>jbinker</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2001-09-14T00:55:00Z</o:Created>
+  <o:LastSaved>2001-09-14T00:55:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>316</o:Words>
+  <o:Characters>1802</o:Characters>
+  <o:Company>KCP Technologies</o:Company>
+  <o:Lines>15</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>2212</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:AttachedTemplate
+   HRef="C:\Documents and Settings\jbinker\My Documents\FinalPrep4Help\GSP4_RefManTmplt.dot"></w:AttachedTemplate>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+
+<!--
+
+/* Font Definitions */
+@font-face {
+	font-family: "MS Mincho";
+	panose-1: 0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt: "-3 \000e\001d";
+	mso-font-charset: 128;
+	mso-generic-font-family: roman;
+	mso-font-format: other;
+	mso-font-pitch: fixed;
+	mso-font-signature: 1 134676480 16 0 131072 0;
+};
+
+@font-face {
+	font-family: "Arial Black";
+	panose-1: 2 11 10 4 2 1 2 2 2 4;
+	mso-font-charset: 0;
+	mso-generic-font-family: swiss;
+	mso-font-pitch: variable;
+	mso-font-signature: 647 0 0 0 159 0;
+};
+
+@font-face {
+	font-family: "\0040MS Mincho";
+	panose-1: 0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset: 128;
+	mso-generic-font-family: roman;
+	mso-font-format: other;
+	mso-font-pitch: fixed;
+	mso-font-signature: 1 134676480 16 0 131072 0;
+};
+
+@page Section1 {
+	x-size: 8.5in 11.0in;
+	margin: 120.25pt 1.25in 120.25pt 2.5in;
+	mso-header-margin: 120.25pt;
+	mso-footer-margin: 120.25pt;
+	mso-gutter-margin: .5in;
+	mso-title-page: yes;
+	mso-paper-source: 15;
+};
+
+@page Section2 {
+	x-size: 8.5in 11.0in;
+	margin: 1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin: .5in;
+	mso-footer-margin: .5in;
+	mso-paper-source: 0;
+};
+
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+	mso-style-parent: ;
+	margin: 0in;
+	margin-bottom: .0001pt;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+/* Style Definitions */
+LI.kadov-p-CMsoNormal {
+	mso-style-parent: ;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h1 {
+	mso-style-next: Normal;
+	margin-top: 12.0pt;
+	margin-right: 0in;
+	margin-bottom: 3.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	page-break-after: avoid;
+	mso-outline-level: 1;
+	font-size: 16.0pt;
+	font-family: Arial;
+	mso-font-kerning: 16.0pt;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h1 {
+	mso-style-next: Normal;
+	mso-pagination: widow-orphan;
+	mso-outline-level: 1;
+	font-size: 16.0pt;
+	font-family: Arial;
+	mso-font-kerning: 16.0pt;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h2 {
+	mso-style-parent: "Heading 1";
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	margin-top: 12.0pt;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan lines-together;
+	page-break-after: avoid;
+	mso-outline-level: 2;
+	font-size: 12.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: "Arial Black";
+	color: #000000;
+	mso-font-kerning: 14.0pt;
+	font-weight: normal;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h2 {
+	mso-style-parent: "Heading 1";
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan lines-together;
+	mso-outline-level: 2;
+	font-size: 12.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: "Arial Black";
+	color: #000000;
+	mso-font-kerning: 14.0pt;
+	font-weight: normal;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoBodyText,
+li.MsoBodyText,
+div.MsoBodyText {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoBodyText {
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.Command {
+	mso-style-name: "Command\002ccmd";
+	mso-ansi-font-size: 11.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	font-weight: bold;
+}
+
+p.PropertyList,
+li.PropertyList,
+div.PropertyList {
+	mso-style-name: PropertyList;
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: .25in;
+	line-height: 12.0pt;
+	mso-line-height-rule: exactly;
+	mso-pagination: widow-orphan;
+	font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CPropertyList {
+	mso-style-name: PropertyList;
+	line-height: 12.0pt;
+	mso-line-height-rule: exactly;
+	mso-pagination: widow-orphan;
+	font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.num,
+li.num,
+div.num {
+	mso-style-name: num;
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 3.0pt;
+	margin-left: .25in;
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	tab-stops: decimal 9.0pt left .25in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-Cnum {
+	mso-style-name: num;
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	tab-stops: decimal 9.0pt left .25in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.numcharacter {
+	mso-style-name: "num character\002cnc";
+	mso-ansi-font-size: 10.0pt;
+	font-weight: bold;
+}
+
+p.propertyDialog,
+li.propertyDialog,
+div.propertyDialog {
+	mso-style-name: "propertyDialog\002cpd";
+	mso-style-parent: PropertyList;
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: 40.5pt;
+	text-indent: -22.5pt;
+	line-height: 12.0pt;
+	mso-line-height-rule: exactly;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "MS Mincho";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CpropertyDialog {
+	mso-style-name: "propertyDialog\002cpd";
+	mso-style-parent: PropertyList;
+	text-indent: -22.5pt;
+	line-height: 12.0pt;
+	mso-line-height-rule: exactly;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "MS Mincho";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+div.Section1 {
+	page: Section1;
+}
+
+div.Section2 {
+	page: Section2;
+}
+
+-->
+</style>
+
+
+
+<script language="javascript" title="WebHelpInlineScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+//-->
+</script><style>
+<!--
+  div.WebHelpPopupMenu {position:absolute; left:0px; top:0px; z-index:4; visibility:hidden;}
+  p.WebHelpNavBar {text-align:right;}
+-->
+</style><script src="../../bsscnbar.js" language="JavaScript" title="WebHelpNavBarExtJs" ></script>
+</head>
+
+<!--(Body)==========================================================-->
+
+
+<body lang=EN-US style="tab-interval: .5in;">
+
+<SCRIPT language="JavaScript" title="WebHelpNavBar">
+<!--
+gbstrRelHomePageURL="../../SketchpadHelp.htm";
+if (parseInt(navigator.appVersion) >=3  && window.name.indexOf("BSSCPopup") == -1)
+{
+var strNvHome=""; var strNvBrowse=""; var strNvWebSearch="";
+if ((parseInt(navigator.appVersion) >= 3) && (typeof (BsscNavHasNavFrame) != "undefined") &&
+ (typeof(BsscNavIsList) == "undefined" || !BsscNavIsList())) 
+{
+  if (!BsscNavHasNavFrame()) {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavShow();return false;\">Show&nbsp;Contents</a>";
+  } else {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavHide();return false;\">Hide&nbsp;Contents</a>";
+  }
+}
+if ((strNvHome.length != 0) || (strNvBrowse.length != 0) || (strNvWebSearch.length != 0)) {
+  document.write("<p id='NavBar' align='right' class=WebHelpNavBar><nobr><font size=1>");
+  if (strNvHome.length != 0) document.write(strNvHome);
+  if (strNvBrowse.length != 0) document.write(strNvBrowse);
+  if (strNvWebSearch.length != 0) document.write(strNvWebSearch);
+  document.write("</font>&nbsp;&nbsp;&nbsp;</nobr></p>");
+  }
+}
+//-->
+</SCRIPT>
+<p class=NAVBAR
+	style="font-family: Arial, sans-serif;
+			font-style: italic;
+			font-size: 8pt;"><a href="../../Home.htm" style="font-family: Arial, sans-serif;
+										font-style: italic;
+										font-size: 8pt;">Home</a>: <a href="../../AdvancedTopics.htm">Advanced 
+ Topics</a>: <a href="../TipsForExperts.htm">Tips for Experts</a>: Command-Line 
+ Flags for Sketchpad (Windows Version)</p>
+
+<h2><span style="mso-fareast-font-family: 'MS Mincho';">Command-Line Flags</span> 
+ <span style="mso-spacerun: yes;">&nbsp;</span><span style="mso-fareast-font-family: 'MS Mincho';">for 
+ Sketchpad (Windows&nbsp;Version)</span></h2>
+
+<p class=MsoBodyText
+	style="mso-fareast-font-family: 'MS Mincho';">With the Windows version 
+ of Sketchpad you can set several command-line flags that determine Sketchpad’s 
+ start-up behavior. You can use command-line flags to maximize the Sketchpad 
+ application window, to maximize the frontmost document window, to specify 
+ a default document for Sketchpad to open, to determine the location of 
+ the Sketchpad Preferences file, to specify a folder to use as the <a HREF="../../ToolboxFldr/CustomToolsFldr/ToolFolder.htm">Tool 
+ Folder</a>, or to specify the folder Sketchpad will use when first opening 
+ or saving a file.</p>
+
+<p class=MsoBodyText><span style="mso-fareast-font-family: 'MS Mincho';">To 
+ set command-line flags, you must create a shortcut to the program itself. 
+ Windows automatically creates such a shortcut when you drag the Sketchpad 
+ icon to the Start button to install Sketchpad in the Start menu. You can 
+ also create such a shortcut on the desktop by right-clicking the Sketchpad 
+ icon and choosing <span class=Command>Send To | Desktop.</span> Consult 
+ your computer’s Windows manual or online help to determine other ways 
+ to create a shortcut. Once you have created a shortcut, follow these steps 
+ to set its command-line flags.</span></p>
+
+<p class=num><span class=numcharacter><span style="font-size: 10.0pt; mso-fareast-font-family: 'MS Mincho';"><FONT SIZE=2 style="font-size:10pt;">1.</FONT></span></span><span 
+ style="mso-fareast-font-family: 'MS Mincho';"><span style="mso-tab-count: 1;">&nbsp; 
+ </span>If the shortcut is on the desktop, right-click the shortcut and 
+ choose <span class=Command>Properties</span></span><span class=Command>.</span></p>
+
+<p class=num><span style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </span>If the shortcut is in the Start menu, activate the <span style="mso-fareast-font-family: 'MS Mincho';">Start</span> 
+ menu, right-click on Sketchpad, then choose <span class=Command><span 
+ style="mso-fareast-font-family: 'MS Mincho';">Properties</span>.</span></p>
+
+<p class=num><span class=numcharacter><span style="font-size: 10.0pt;"><FONT SIZE=2 style="font-size:10pt;">2.</FONT></span></span><span 
+ style="mso-tab-count: 1;">&nbsp; </span>On the Shortcut panel of the Properties 
+ dialog box, click in the Target edit box and type the desired command-line 
+ flags at the end of the existing target. <span style="mso-fareast-font-family: 'MS Mincho';">Here 
+ are examples of the command-line flags you can use.</span></p>
+
+<p class=propertyDialog><b style="font-weight: bold; mso-bidi-font-weight: normal;">-ma</b> 
+ Maximize the application window. The main Sketchpad window will fill your 
+ screen.</p>
+
+<p class=propertyDialog><b style="font-weight: bold; mso-bidi-font-weight: normal;">-md</b> 
+ Maximize the first document window. When you start Sketchpad, the document 
+ window will fill the application window.</p>
+
+<p class=propertyDialog><b style="font-weight: bold; mso-bidi-font-weight: normal;">&quot;Read 
+ Me.gsp&quot;</b> Open the sketch named <span class=Command>Read Me.gsp</span>. 
+ </p>
+
+<p class=propertyDialog><span style="font-weight: bold;"><B>-pref &quot;h:\Sketchpad\Modified 
+ Preferences.dat&quot;</B></span> Start Sketchpad using the preferences in 
+ the specified file. (Normally, Sketchpad uses the preferences in the file 
+ <span style="font-weight: bold;"><B>Sketchpad Preferences.dat </B></span>from 
+ the Windows folder.)</p>
+
+<p class=propertyDialog><span style="font-weight: bold;"><B>-f &quot;c:\Program 
+ Files\Sketchpad\Samples&quot;</B></span> Sketchpad will use the <span style="font-weight: bold;"><B>Samples</B></span> 
+ folder when it first opens or saves a sketch.</p>
+
+<p class=propertyDialog><b style="font-weight: bold; mso-bidi-font-weight: normal;">-t 
+ &quot;Triangle Tools&quot;</b> Start Sketchpad using the folder named 
+ <span class=Command>Triangle Tools</span> as the <a HREF="../../ToolboxFldr/CustomToolsFldr/ToolFolder.htm">Tool 
+ Folder</a>.<span style="font-size: 12.0pt;"> <FONT SIZE=3 style="font-size:12pt;"></FONT></span></p>
+
+<p class=num><span class=numcharacter><span style="font-size: 10.0pt;"><FONT SIZE=2 style="font-size:10pt;">3.</FONT></span></span><span 
+ style="mso-tab-count: 1;">&nbsp; </span>Click OK.</p>
+
+<p class=MsoBodyText>Your command-line flags will be in effect every time 
+ you run Sketchpad from the modified shortcut.</p>
+
+<p class=MsoBodyText><span style="mso-fareast-font-family: 'MS Mincho';">For 
+ example, if Sketchpad is installed in the folder <span class=Command>c:\Sketchpad</span>, 
+ the following target entry in the Shortcut Properties panel will start 
+ Sketchpad with the document maximized in the application window, using 
+ the folder named <span class=Command>My Tools</span> as the Tool Folder, 
+ and with the file named <span class=Command>Read Me.gsp</span> open:</span></p>
+
+<p class=PropertyList
+	style="margin-left: 0in;
+			mso-bidi-font-size: 10.0pt;
+			font-family: 'Courier New';
+			mso-fareast-font-family: 'MS Mincho';
+			font-size: 10pt;">&quot;c:\Sketchpad\GSP 4.0.exe&quot; -md 
+ &quot;Read Me.gsp&quot; –t &quot;My Tools&quot;</p>
+
+<p class=MsoBodyText>The following target entry in the Shortcut Properties 
+ panel will start Sketchpad with the file <span style="font-weight: bold;"><B>GSP 
+ Algebra Prefs.dat </B></span>as the preferences file:</p>
+
+<p class=PropertyList
+	style="margin-left: 0in;
+			mso-bidi-font-size: 10.0pt;
+			font-family: 'Courier New';
+			mso-fareast-font-family: 'MS Mincho';
+			font-size: 10pt;">&quot;c:\Sketchpad\GSP 4.0.exe&quot; -prefs 
+ &quot;GSP Algebra Prefs.dat&quot;</p>
+
+<p class=MsoBodyText>The following entry will start Sketchpad so that the 
+ first time the user chooses <span style="font-weight: bold;"><B><a href="../../MenuFldr/FileMenuFldr/Open.htm">File 
+ | Open</a></B></span> or <span style="font-weight: bold;"><B><a href="../../MenuFldr/FileMenuFldr/Save.htm">File 
+ | Save</a></B></span>, the dialog box will show the folder containing the 
+ Geometry sample sketches:</p>
+
+<p class=PropertyList
+	style="margin-left: 0in;
+			mso-bidi-font-size: 10.0pt;
+			font-family: 'Courier New';
+			mso-fareast-font-family: 'MS Mincho';
+			font-size: 10pt;">&quot;c:\Sketchpad\GSP 4.0.exe&quot; –f &quot;Samples\Sketches\Geometry&quot;</p>
+
+<p class=propertylist>&nbsp;</p>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if ((parseInt(navigator.appVersion) >= 3) && (typeof(onBsscAutoSync) != "undefined") && (window.name.indexOf("BSSCPopup") == -1))
+	onBsscAutoSync();
+//-->
+</SCRIPT>
+</body>
+
+</html>

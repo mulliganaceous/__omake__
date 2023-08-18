@@ -1,0 +1,331 @@
+/*=(===============================================================)*/
+
+/*=(===============================================================)*/
+/*=(Created with RoboEditor.)=======================================*/
+/*=(===============================================================)*/
+
+@page Section1 {
+	x-size: 8.5in 11.0in;
+	margin: 120.25pt 1.25in 120.25pt 2.5in;
+	mso-header-margin: 120.25pt;
+	mso-footer-margin: 120.25pt;
+	mso-gutter-margin: .5in;
+	mso-title-page: yes;
+	mso-paper-source: 15;
+};
+
+@page Section2 {
+	x-size: 8.5in 11.0in;
+	margin: 1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin: .5in;
+	mso-footer-margin: .5in;
+	mso-paper-source: 0;
+};
+
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+	mso-style-parent: ;
+	margin: 0in;
+	margin-bottom: .0001pt;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+/* Style Definitions */
+LI.kadov-p-CMsoNormal {
+	mso-style-parent: ;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h3 {
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	margin-top: 6.0pt;
+	margin-right: 0in;
+	margin-bottom: 3.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	page-break-after: avoid;
+	mso-outline-level: 3;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+	mso-bidi-font-weight: normal;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h3 {
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan;
+	mso-outline-level: 3;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+	mso-bidi-font-weight: normal;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoBodyText,
+li.MsoBodyText,
+div.MsoBodyText {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoBodyText {
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.RightGraphic,
+li.RightGraphic,
+div.RightGraphic {
+	mso-style-name: "Right Graphic\002crg";
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: 0in;
+	text-align: center;
+	mso-pagination: widow-orphan;
+	background: #ffffff;
+	mso-shading: white;
+	mso-pattern: solid white;
+	font-size: 8.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CRightGraphic {
+	mso-style-name: "Right Graphic\002crg";
+	text-align: center;
+	mso-pagination: widow-orphan;
+	mso-shading: white;
+	mso-pattern: solid white;
+	font-size: 8.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.SideHint,
+li.SideHint,
+div.SideHint {
+	mso-style-name: "Side Hint\002csh";
+	margin-top: 2.0pt;
+	margin-right: .2in;
+	margin-bottom: 3.0pt;
+	margin-left: .2in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSideHint {
+	mso-style-name: "Side Hint\002csh";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.SeeAlso,
+li.SeeAlso,
+div.SeeAlso {
+	mso-style-name: "See Also\002csa";
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	margin-top: 3.0pt;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSeeAlso {
+	mso-style-name: "See Also\002csa";
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.PropertyList,
+li.PropertyList,
+div.PropertyList {
+	mso-style-name: PropertyList;
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: .25in;
+	line-height: 12.0pt;
+	mso-line-height-rule: exactly;
+	mso-pagination: widow-orphan;
+	font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CPropertyList {
+	mso-style-name: PropertyList;
+	line-height: 12.0pt;
+	mso-line-height-rule: exactly;
+	mso-pagination: widow-orphan;
+	font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.cmds {
+	mso-style-name: cmds;
+	mso-ansi-font-size: 9.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	font-weight: bold;
+}
+
+div.Section1 {
+	page: Section1;
+}
+
+div.Section2 {
+	page: Section2;
+}
+
+p.PropListSideHint {
+	mso-style-name: "Side Hint\002csh";
+	margin-top: 2.0pt;
+	margin-bottom: 3.0pt;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+	margin-left: 48px;
+	margin-right: 47px;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CPropListSideHint {
+	mso-style-name: "Side Hint\002csh";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+H1 {
+	font-family: Arial, sans-serif;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-H1 {
+	font-family: Arial, sans-serif;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+
+/*=(===============================================================)*/

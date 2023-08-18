@@ -1,0 +1,522 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" 
+ xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+
+<!--(==============================================================)-->
+<!--(Document created with RoboEditor. )============================-->
+<!--(==============================================================)-->
+
+<head>
+
+<title>Creating a JavaSketchpad Web Page</title>
+
+<!--(Meta)==========================================================-->
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Originator content="Microsoft Word 9">
+<meta name=generator content="RoboHELP by eHelp Corporation - www.ehelp.com">
+<meta name=generator-major-version content=0.1>
+<meta name=generator-minor-version content=1>
+<meta name=filetype content=kadov>
+<meta name=filetype-version content=1>
+<meta name=page-count content=1>
+<meta name=layout-height content=930>
+<meta name=layout-width content=1168>
+<meta name=date content="03 10, 2003 2:12:17 PM">
+
+
+<!--(Links)=========================================================-->
+
+<link rel=File-List href="./CreateJava_files/filelist.xml">
+<link rel=Edit-Time-Data href="./CreateJava_files/editdata.mso">
+
+
+
+<!--(Style Sheet)===================================================-->
+
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>jbinker</o:Author>
+  <o:Template>GSP4_RefManTmplt</o:Template>
+  <o:LastAuthor>jbinker</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2001-09-14T00:59:00Z</o:Created>
+  <o:LastSaved>2001-09-14T00:59:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>290</o:Words>
+  <o:Characters>1658</o:Characters>
+  <o:Company>KCP Technologies</o:Company>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>2036</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:AttachedTemplate
+   HRef="C:\Documents and Settings\jbinker\My Documents\FinalPrep4Help\GSP4_RefManTmplt.dot"></w:AttachedTemplate>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+
+<!--
+
+/* Font Definitions */
+@font-face {
+	font-family: "Arial Black";
+	panose-1: 2 11 10 4 2 1 2 2 2 4;
+	mso-font-charset: 0;
+	mso-generic-font-family: swiss;
+	mso-font-pitch: variable;
+	mso-font-signature: 647 0 0 0 159 0;
+};
+
+@page Section1 {
+	x-size: 8.5in 11.0in;
+	margin: 120.25pt 1.25in 120.25pt 2.5in;
+	mso-header-margin: 120.25pt;
+	mso-footer-margin: 120.25pt;
+	mso-gutter-margin: .5in;
+	mso-title-page: yes;
+	mso-paper-source: 15;
+};
+
+@page Section2 {
+	x-size: 8.5in 11.0in;
+	margin: 1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin: .5in;
+	mso-footer-margin: .5in;
+	mso-paper-source: 0;
+};
+
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+	mso-style-parent: ;
+	margin: 0in;
+	margin-bottom: .0001pt;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+/* Style Definitions */
+LI.kadov-p-CMsoNormal {
+	mso-style-parent: ;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h1 {
+	mso-style-next: Normal;
+	margin-top: 12.0pt;
+	margin-right: 0in;
+	margin-bottom: 3.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	page-break-after: avoid;
+	mso-outline-level: 1;
+	font-size: 16.0pt;
+	font-family: Arial;
+	mso-font-kerning: 16.0pt;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h1 {
+	mso-style-next: Normal;
+	mso-pagination: widow-orphan;
+	mso-outline-level: 1;
+	font-size: 16.0pt;
+	font-family: Arial;
+	mso-font-kerning: 16.0pt;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h2 {
+	mso-style-parent: "Heading 1";
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	margin-top: 12.0pt;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan lines-together;
+	page-break-after: avoid;
+	mso-outline-level: 2;
+	font-size: 12.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: "Arial Black";
+	color: #000000;
+	mso-font-kerning: 14.0pt;
+	font-weight: normal;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h2 {
+	mso-style-parent: "Heading 1";
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan lines-together;
+	mso-outline-level: 2;
+	font-size: 12.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: "Arial Black";
+	color: #000000;
+	mso-font-kerning: 14.0pt;
+	font-weight: normal;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoBodyText,
+li.MsoBodyText,
+div.MsoBodyText {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoBodyText {
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.Command {
+	mso-style-name: "Command\002ccmd";
+	mso-ansi-font-size: 11.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	font-weight: bold;
+}
+
+p.SideHint,
+li.SideHint,
+div.SideHint {
+	mso-style-name: "Side Hint\002csh";
+	margin-top: 2.0pt;
+	margin-right: .2in;
+	margin-bottom: 3.0pt;
+	margin-left: .2in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSideHint {
+	mso-style-name: "Side Hint\002csh";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.num,
+li.num,
+div.num {
+	mso-style-name: num;
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 3.0pt;
+	margin-left: .25in;
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	tab-stops: decimal 9.0pt left .25in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-Cnum {
+	mso-style-name: num;
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	tab-stops: decimal 9.0pt left .25in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.numcharacter {
+	mso-style-name: "num character\002cnc";
+	mso-ansi-font-size: 10.0pt;
+	font-weight: bold;
+}
+
+p.cg2,
+li.cg2,
+div.cg2 {
+	mso-style-name: cg2;
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	text-align: center;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-Ccg2 {
+	mso-style-name: cg2;
+	text-align: center;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+div.Section1 {
+	page: Section1;
+}
+
+div.Section2 {
+	page: Section2;
+}
+
+-->
+</style>
+
+
+
+<script language="javascript" title="WebHelpInlineScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+//-->
+</script><style>
+<!--
+  div.WebHelpPopupMenu {position:absolute; left:0px; top:0px; z-index:4; visibility:hidden;}
+  p.WebHelpNavBar {text-align:right;}
+-->
+</style><script src="../../bsscnbar.js" language="JavaScript" title="WebHelpNavBarExtJs" ></script>
+</head>
+
+<!--(Body)==========================================================-->
+
+
+<body lang=EN-US style="tab-interval: .5in;">
+
+<SCRIPT language="JavaScript" title="WebHelpNavBar">
+<!--
+gbstrRelHomePageURL="../../SketchpadHelp.htm";
+if (parseInt(navigator.appVersion) >=3  && window.name.indexOf("BSSCPopup") == -1)
+{
+var strNvHome=""; var strNvBrowse=""; var strNvWebSearch="";
+if ((parseInt(navigator.appVersion) >= 3) && (typeof (BsscNavHasNavFrame) != "undefined") &&
+ (typeof(BsscNavIsList) == "undefined" || !BsscNavIsList())) 
+{
+  if (!BsscNavHasNavFrame()) {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavShow();return false;\">Show&nbsp;Contents</a>";
+  } else {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavHide();return false;\">Hide&nbsp;Contents</a>";
+  }
+}
+if ((strNvHome.length != 0) || (strNvBrowse.length != 0) || (strNvWebSearch.length != 0)) {
+  document.write("<p id='NavBar' align='right' class=WebHelpNavBar><nobr><font size=1>");
+  if (strNvHome.length != 0) document.write(strNvHome);
+  if (strNvBrowse.length != 0) document.write(strNvBrowse);
+  if (strNvWebSearch.length != 0) document.write(strNvWebSearch);
+  document.write("</font>&nbsp;&nbsp;&nbsp;</nobr></p>");
+  }
+}
+//-->
+</SCRIPT>
+<p class=NAVBAR
+	style="font-family: Arial, sans-serif;
+			font-style: italic;
+			font-size: 8pt;"><a href="../../Home.htm">Home</a>: <a href="../../AdvancedTopics.htm">Advanced 
+ Topics</a>: <a href="../JavaSketchpad.htm">JavaSketchpad and Web-Based 
+ Dynamic Geometry</a>: Creating a JavaSketchpad Web Page</p>
+
+<h2>Creating a JavaSketchpad Web Page</h2>
+
+<p class=MsoBodyText>Once you’ve located your <a HREF="JavaFolder.htm">JSP 
+ folder</a>, you’re ready to use The Geometer’s Sketchpad to create your 
+ first JavaSketchpad web page:</p>
+
+<p class=SideHint>If this is your first time creating a JavaSketchpad illustration, 
+ start with a simple construction like a triangle.</p>
+
+<p class=num><span class=numcharacter><span style="font-size: 10.0pt;"><FONT SIZE=2 style="font-size:10pt;">1.<span 
+ style="mso-tab-count: 1;">&nbsp; </span></FONT></span></span>Start Sketchpad.</p>
+
+<p class=num><span class=numcharacter><span style="font-size: 10.0pt;"><FONT SIZE=2 style="font-size:10pt;">2.<span 
+ style="mso-tab-count: 1;">&nbsp; </span></FONT></span></span>Create or open a 
+ sketch containing the construction you wish to show in a web page. </p>
+
+<p class=num><span style="font-size: 10.0pt; font-weight: bold;"><FONT SIZE=2 style="font-size:10pt;"><B>3.</B></FONT></span><span 
+ style="mso-tab-count: 1;">&nbsp; </span>Resize the sketch window to be 
+ the size of your intended illustration on your web page. Adjust your construction 
+ so that it appears as you’d like your visitors to first see it. </p>
+
+<p class=SideHint>The size of the illustration in your web page is the 
+ same as the size of your sketch window at the moment you saved the HTML 
+ file. Be sure to decrease the size of the window before saving unless 
+ you want very large web page illustrations!</p>
+
+<p class=num><span class=numcharacter
+					style="font-size: 10.0pt;"><FONT SIZE=2 style="font-size:10pt;">4.</FONT></span><span style="mso-tab-count: 1;">&nbsp; 
+ </span>Choose <span class=Command><a HREF="../../MenuFldr/FileMenuFldr/Save.htm">Save</a></span> 
+ from the File menu and save your document normally. This way you’ll have 
+ a saved copy of the sketch from which you’re about to create the web page.</p>
+
+<p class=num><span style="font-size: 10.0pt; font-weight: bold;"><FONT SIZE=2 style="font-size:10pt;"><B>5.</B></FONT></span><span 
+ style="mso-tab-count: 1;">&nbsp; </span>Choose <span class=Command><a HREF="../../MenuFldr/FileMenuFldr/SaveAs.htm">Save As</a></span> from 
+ the File menu. </p>
+
+<p class=SideHint>Shortcut: Hold down Shift while displaying the File menu 
+ to turn <span style="font-weight: bold;"><B>Save As</B></span> into <span style="font-weight: bold;"><B>Save 
+ As HTML</B></span>.</p>
+
+<p class=num><span style="font-size: 10.0pt; font-weight: bold;"><FONT SIZE=2 style="font-size:10pt;"><B>6.</B></FONT></span><span 
+ style="mso-tab-count: 1;">&nbsp; </span>In the Save As dialog box, change 
+ the file format or type to <span class=Command>HTML/JavaSketchpad Document</span>.</p>
+
+<p class=num><span style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </span>Before saving, be sure to navigate to the folder that <i style="mso-bidi-font-style: normal;">contains</i> 
+ your <a HREF="JavaFolder.htm">JSP directory</a>. When you’re in the right 
+ place, enter an appropriate filename and click Save.</p>
+
+<p class=MsoBodyText><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='CreateJava_files/image002.jpg' align='left' width='258' height='160' align='left' border='0'>");}
+else
+{ document.write("<img src='CreateJava_files/image002.jpg' align='left' style='width: 258px; height: 160px; margin-left: 0px; margin-top: 0px; margin-bottom: 4px; margin-right: 6px; float: left;' width='258' height='160' align='left' border='0'>");}
+//--></SCRIPT></p>
+
+<p class=num><span style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </span>Sketchpad creates a new web page—an HTML file—describing the Sketchpad 
+ illustration. </p>
+
+<p class=num><b style="font-weight: bold; mso-bidi-font-weight: normal;"><span 
+ style="mso-tab-count: 2;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><i 
+ style="mso-bidi-font-style: normal;">Note: </i>Sketchpad cannot open HTML 
+ documents, so saving your document as HTML does not save your document 
+ in a way that Sketchpad can reopen. This is the reason you did a normal 
+ save in step 4 above.</p>
+
+<p class=num><span class=numcharacter><span style="font-size: 10.0pt;"><FONT SIZE=2 style="font-size:10pt;">7.<span 
+ style="mso-tab-count: 1;">&nbsp; </span></FONT></span></span>Assuming all goes 
+ well, Sketchpad will ask if you want to preview the web page in your browser. 
+ Click Yes.</p>
+
+<p class=num><span class=numcharacter><span style="font-size: 10.0pt;"><FONT SIZE=2 style="font-size:10pt;">8.<span 
+ style="mso-tab-count: 1;">&nbsp; </span></FONT></span></span>Your browser opens 
+ and displays the web page. The first time your browser opens a page containing 
+ JavaSketchpad illustrations, it may take a few seconds to load.</p>
+
+<p class=num><span style="font-size: 10.0pt; font-weight: bold;"><FONT SIZE=2 style="font-size:10pt;"><B>9.</B></FONT></span><span 
+ style="mso-tab-count: 1;">&nbsp; </span>Once your illustration appears, 
+ drag its independent points to explore your construction. You’ve successfully 
+ created your first Dynamic Geometry web page!</p>
+
+<p class=num
+	style="font-size: 9pt;
+			text-indent: 0px;
+			margin-left: 0px;
+			margin-top: 12pt;"><span style="font-style: italic;"><I>See also</I></span><a HREF="WhatCanGoWrong.htm"><br>
+What Can Go Wrong</a><a HREF="WebOverview.htm"><br>
+Web Publishing Overview</a><a HREF="ModifyYourPages.htm"><br>
+Modifying and Publishing Your Pages</a><a HREF="JavaFolder.htm"><br>
+Essential JavaSketchpad Folder Structure</a></p>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if ((parseInt(navigator.appVersion) >= 3) && (typeof(onBsscAutoSync) != "undefined") && (window.name.indexOf("BSSCPopup") == -1))
+	onBsscAutoSync();
+//-->
+</SCRIPT>
+</body>
+
+</html>

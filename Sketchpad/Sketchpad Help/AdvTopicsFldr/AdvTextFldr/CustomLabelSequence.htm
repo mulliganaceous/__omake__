@@ -1,0 +1,152 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+<!--(==============================================================)-->
+<!--(Document created with RoboEditor. )============================-->
+<!--(==============================================================)-->
+
+<head>
+
+<title>Labeling Objects with a Custom Sequence</title>
+
+<!--(Meta)==========================================================-->
+
+<meta name=generator content="RoboHELP by eHelp Corporation - www.ehelp.com">
+<meta name=generator-major-version content=0.1>
+<meta name=generator-minor-version content=1>
+<meta name=filetype content=kadov>
+<meta name=filetype-version content=1>
+<meta name=page-count content=1>
+<meta name=layout-height content=930>
+<meta name=layout-width content=1168>
+<meta name=date content="03 10, 2003 1:26:56 PM">
+
+
+<!--(Links)=========================================================-->
+
+ <LINK rel='StyleSheet' href='../../gspHelp_ns.css'>
+<SCRIPT language="javascript" title="WebHelpSplitCss">
+<!--
+if (navigator.appName !="Netscape")
+{   document.write("<LINK rel='StyleSheet' href='../../gspHelp.css'>");}
+//-->
+</SCRIPT><style>
+<!--
+p.whs1 {font-size: 11pt;}
+p.whs2 {font-size: 11pt;}
+p.whs3 {font-size: 11pt;}
+p.whs4 {font-size: 9pt;}
+p.whs5 {font-size: 9pt;}
+
+--></style><script language="javascript" title="WebHelpInlineScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+//-->
+</script><style>
+<!--
+  div.WebHelpPopupMenu {position:absolute; left:0px; top:0px; z-index:4; visibility:hidden;}
+  p.WebHelpNavBar {text-align:right;}
+-->
+</style><script src="../../bsscnbar.js" language="JavaScript" title="WebHelpNavBarExtJs" ></script>
+</head>
+
+<!--(Body)==========================================================-->
+
+
+<body>
+
+<SCRIPT language="JavaScript" title="WebHelpNavBar">
+<!--
+gbstrRelHomePageURL="../../SketchpadHelp.htm";
+if (parseInt(navigator.appVersion) >=3  && window.name.indexOf("BSSCPopup") == -1)
+{
+var strNvHome=""; var strNvBrowse=""; var strNvWebSearch="";
+if ((parseInt(navigator.appVersion) >= 3) && (typeof (BsscNavHasNavFrame) != "undefined") &&
+ (typeof(BsscNavIsList) == "undefined" || !BsscNavIsList())) 
+{
+  if (!BsscNavHasNavFrame()) {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavShow();return false;\">Show&nbsp;Contents</a>";
+  } else {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavHide();return false;\">Hide&nbsp;Contents</a>";
+  }
+}
+if ((strNvHome.length != 0) || (strNvBrowse.length != 0) || (strNvWebSearch.length != 0)) {
+  document.write("<p id='NavBar' align='right' class=WebHelpNavBar><nobr><font size=1>");
+  if (strNvHome.length != 0) document.write(strNvHome);
+  if (strNvBrowse.length != 0) document.write(strNvBrowse);
+  if (strNvWebSearch.length != 0) document.write(strNvWebSearch);
+  document.write("</font>&nbsp;&nbsp;&nbsp;</nobr></p>");
+  }
+}
+//-->
+</SCRIPT>
+<p class=NAVBAR
+	style="font-family: Arial, sans-serif;
+			font-style: italic;
+			font-size: 9pt;"><a href="../../Home.htm" style="font-family: Arial, sans-serif;
+										font-style: italic;
+										font-size: 9pt;"><span style="font-size: 9pt;"><FONT SIZE=1 style="font-size:9pt;">Home</a>: 
+ <a href="../../AdvancedTopics.htm" style="font-size: 9pt;">Advanced Topics</a>: <a HREF="../AdvText.htm" style="font-size: 9pt;">Advanced 
+ Text Topics</a>: Labeling Objects with a Custom Sequence</FONT></span></p>
+
+<h2>Labeling Objects with a Custom Sequence</h2>
+
+<p class="whs1">When you use the <span class=cmds><a HREF="../../MenuFldr/DisplayMenuFldr/LabelObjects.htm">Label</a></span> 
+ command from the <a HREF="../../MenuFldr/DisplayMenu.htm">Display</a> 
+ menu to label several objects, Sketchpad normally generates a sequence 
+ of labels by changing only the ending of whatever you type as the first 
+ label. Thus if you type <span style="font-family: 'Courier New', monospace;">A1</span> 
+ as the first label, Sketchpad generates a sequence in which all the labels 
+ start with <span style="font-style: italic;"><I>A</I></span>, but with different 
+ numbers following the <span style="font-style: italic;"><I>A</I></span>: <span 
+ style="font-style: italic;"><I>A1, A2, A3,</I></span> and so forth. Similarly, 
+ if you type <span style="font-family: 'Courier New', monospace;">123a</span> 
+ as the first label, only the endings change: <span style="font-style: italic;"><I>123a, 
+ 123b, 123c,</I></span> and so forth.</p>
+
+<p class="whs2">To generate a sequence in which the changing 
+ portion is not at the end, select the objects to label and choose <span 
+ class=cmds><a HREF="../../MenuFldr/DisplayMenuFldr/LabelObjects.htm">Label 
+ Objects</a></span> from the Display menu. In the <a HREF="../../MenuFldr/DisplayMenuFldr/LabelObjects.htm">Label 
+ Multiple Objects</a> dialog box, define a custom sequence by entering 
+ a special first label. This special custom sequence label—similar to the 
+ <a HREF="MergeTxtCustTmplt.htm">custom template</a> used when merging 
+ text—must begin with an equal sign (“<span style="font-family: 'Courier New', monospace;">=</span>”), 
+ and contain “<span style="font-family: 'Courier New', monospace;">{...}</span>” 
+ immediately following the part of the label that should change over the 
+ sequence.</p>
+
+<p class="whs3">Thus you can type “<span style="font-family: 'Courier New', monospace;">=P{...}1</span>” 
+ to generate the sequence starting with <span style="font-style: italic;"><I>P1, 
+ Q1,</I></span> and <span style="font-style: italic;"><I>R1.</I></span> Similarly, 
+ type “<span style="font-family: 'Courier New', monospace;">=A{...}[x]</span>” 
+ to generate a sequence that begins with <span style="font-style: italic;"><I>A</I></span><span 
+ style="font-style: italic; vertical-align: Sub;"><I>x</I></span><span style="font-style: italic;"><I>, 
+ B</I></span><span style="font-style: italic; vertical-align: Sub;"><I>x</I></span><span 
+ style="font-style: italic;"><I>,</I></span> and <span style="font-style: italic;"><I>C</I></span><span 
+ style="font-style: italic; vertical-align: Sub;"><I>x</I></span>.</p>
+
+<p class="whs4">See also<span style="font-size: 9pt;"><FONT SIZE=1 style="font-size:9pt;"><a HREF="../../MenuFldr/DisplayMenuFldr/LabelObjects.htm"><br>
+Label command</a></FONT></span><span style="font-size: 9pt;"><FONT SIZE=1 style="font-size:9pt;"><a HREF="MergeTxtCustTmplt.htm"><br>
+Merging Text with a Custom Template</a></FONT></span></p>
+
+<p class="whs5">&nbsp;</p>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if ((parseInt(navigator.appVersion) >= 3) && (typeof(onBsscAutoSync) != "undefined") && (window.name.indexOf("BSSCPopup") == -1))
+	onBsscAutoSync();
+//-->
+</SCRIPT>
+</body>
+
+</html>
