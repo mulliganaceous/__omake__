@@ -1,0 +1,695 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" 
+ xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+
+<!--(==============================================================)-->
+<!--(Document created with RoboEditor. )============================-->
+<!--(==============================================================)-->
+
+<head>
+
+<title>Selecting and Deselecting Objects</title>
+
+<!--(Meta)==========================================================-->
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Originator content="Microsoft Word 9">
+<meta name=generator content="RoboHELP by eHelp Corporation - www.ehelp.com">
+<meta name=generator-major-version content=0.1>
+<meta name=generator-minor-version content=1>
+<meta name=filetype content=kadov>
+<meta name=filetype-version content=1>
+<meta name=page-count content=1>
+<meta name=layout-height content=1060>
+<meta name=layout-width content=1168>
+<meta name=date content="02 23, 2004 1:30:09 PM">
+
+
+<!--(Links)=========================================================-->
+
+<link rel=File-List href="./SelectDeselect_files/filelist.xml">
+<link rel=Edit-Time-Data href="./SelectDeselect_files/editdata.mso">
+<link rel=OLE-Object-Data href="./SelectDeselect_files/oledata.mso">
+
+
+
+<!--(Style Sheet)===================================================-->
+
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>jbinker</o:Author>
+  <o:Template>GSP4_RefManTmplt</o:Template>
+  <o:LastAuthor>jbinker</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2001-09-13T23:29:00Z</o:Created>
+  <o:LastSaved>2001-09-13T23:29:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>400</o:Words>
+  <o:Characters>2284</o:Characters>
+  <o:Company>KCP Technologies</o:Company>
+  <o:Lines>19</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2804</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:AttachedTemplate
+   HRef="C:\Documents and Settings\jbinker\My Documents\FinalPrep4Help\GSP4_RefManTmplt.dot"></w:AttachedTemplate>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+
+<!--
+
+/* Font Definitions */
+@font-face {
+	font-family: "Arial Black";
+	panose-1: 2 11 10 4 2 1 2 2 2 4;
+	mso-font-charset: 0;
+	mso-generic-font-family: swiss;
+	mso-font-pitch: variable;
+	mso-font-signature: 647 0 0 0 159 0;
+};
+
+@page Section1 {
+	x-size: 8.5in 11.0in;
+	margin: 120.25pt 1.25in 120.25pt 2.5in;
+	mso-header-margin: 120.25pt;
+	mso-footer-margin: 120.25pt;
+	mso-gutter-margin: .5in;
+	mso-title-page: yes;
+	mso-paper-source: 15;
+};
+
+@page Section2 {
+	x-size: 8.5in 11.0in;
+	margin: 1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin: .5in;
+	mso-footer-margin: .5in;
+	mso-paper-source: 0;
+};
+
+/* List Definitions */
+@list l0 {
+	mso-list-id: -119;
+	mso-list-type: simple;
+	mso-list-template-ids: 713474778;
+};
+
+@list l0\003alevel1 {
+	mso-level-number-format: bullet;
+	mso-level-text: \f0b7;
+	mso-level-tab-stop: .25in;
+	mso-level-number-position: left;
+	margin-left: .25in;
+	text-indent: -.25in;
+	font-family: Symbol;
+};
+
+@list l1 {
+	mso-list-id: 21976776;
+	mso-list-type: simple;
+	mso-list-template-ids: -1281181156;
+};
+
+@list l1\003alevel1 {
+	mso-level-number-format: bullet;
+	mso-level-style-link: "List Bullet";
+	mso-level-text: \f0b7;
+	mso-level-tab-stop: .25in;
+	mso-level-number-position: left;
+	margin-left: .25in;
+	text-indent: -.25in;
+	font-family: Symbol;
+};
+
+@list l2 {
+	mso-list-id: 1855723535;
+	mso-list-type: simple;
+	mso-list-template-ids: -1281181156;
+};
+
+@list l2\003alevel1 {
+	mso-level-number-format: bullet;
+	mso-level-text: \f0b7;
+	mso-level-tab-stop: .25in;
+	mso-level-number-position: left;
+	margin-left: .25in;
+	text-indent: -.25in;
+	font-family: Symbol;
+};
+
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+	mso-style-parent: ;
+	margin: 0in;
+	margin-bottom: .0001pt;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+/* Style Definitions */
+LI.kadov-p-CMsoNormal {
+	mso-style-parent: ;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h1 {
+	mso-style-next: Normal;
+	margin-top: 12.0pt;
+	margin-right: 0in;
+	margin-bottom: 3.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	page-break-after: avoid;
+	mso-outline-level: 1;
+	font-size: 16.0pt;
+	font-family: Arial;
+	mso-font-kerning: 16.0pt;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h1 {
+	mso-style-next: Normal;
+	mso-pagination: widow-orphan;
+	mso-outline-level: 1;
+	font-size: 16.0pt;
+	font-family: Arial;
+	mso-font-kerning: 16.0pt;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h2 {
+	mso-style-parent: "Heading 1";
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	margin-top: 12.0pt;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan lines-together;
+	page-break-after: avoid;
+	mso-outline-level: 2;
+	font-size: 12.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: "Arial Black";
+	color: #000000;
+	mso-font-kerning: 14.0pt;
+	font-weight: normal;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h2 {
+	mso-style-parent: "Heading 1";
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan lines-together;
+	mso-outline-level: 2;
+	font-size: 12.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: "Arial Black";
+	color: #000000;
+	mso-font-kerning: 14.0pt;
+	font-weight: normal;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoCaption,
+li.MsoCaption,
+div.MsoCaption {
+	mso-style-next: Normal;
+	margin-top: 3.0pt;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	text-align: center;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoCaption {
+	mso-style-next: Normal;
+	text-align: center;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoListBullet,
+li.MsoListBullet,
+div.MsoListBullet {
+	mso-style-update: auto;
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: .25in;
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	mso-list: l1 level1 lfo2;
+	tab-stops: list .25in left 1.5in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoListBullet {
+	mso-style-update: auto;
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	mso-list: l1 level1 lfo2;
+	tab-stops: list .25in left 1.5in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoBodyText,
+li.MsoBodyText,
+div.MsoBodyText {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoBodyText {
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.Command {
+	mso-style-name: "Command\002ccmd";
+	mso-ansi-font-size: 11.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	font-weight: bold;
+}
+
+p.SideHint,
+li.SideHint,
+div.SideHint {
+	mso-style-name: "Side Hint\002csh";
+	margin-top: 2.0pt;
+	margin-right: .2in;
+	margin-bottom: 3.0pt;
+	margin-left: .2in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSideHint {
+	mso-style-name: "Side Hint\002csh";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.SeeAlso,
+li.SeeAlso,
+div.SeeAlso {
+	mso-style-name: "See Also\002csa";
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	margin-top: 3.0pt;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSeeAlso {
+	mso-style-name: "See Also\002csa";
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.cmds {
+	mso-style-name: cmds;
+	mso-ansi-font-size: 9.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	font-weight: bold;
+}
+
+div.Section1 {
+	page: Section1;
+}
+
+div.Section2 {
+	page: Section2;
+}
+
+ol {
+	margin-bottom: 0in;
+}
+
+ul {
+	margin-bottom: 0in;
+}
+
+-->
+</style>
+
+
+
+<style>
+<!--
+table.whs1 {margin-left: 5.4pt; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt; x-border-left: 1px table-solid; x-border-top: 1px table-solid; x-border-right: 1px table-solid; x-border-bottom: 1px table-solid; border-collapse: separate; border-spacing: 0px;}
+td.whs2 {x-cell-content-align: top; width: 153.0pt; border: solid #000000 .5pt; border-right: none; padding: 0in 5.4pt 0in 5.4pt; padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;}
+td.whs3 {x-cell-content-align: top; width: 153.0pt; border: solid #000000 .5pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt; padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;}
+div.whs4 {mso-element: frame; mso-element-wrap: auto; mso-element-anchor-horizontal: column; mso-element-top: .05pt; mso-height-rule: exactly;}
+table.whs5 {border-spacing: 0px;}
+td.whs6 {x-cell-content-align: top; text-align: left; padding-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px;}
+
+--></style><script language="javascript" title="WebHelpInlineScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+//-->
+</script><style>
+<!--
+  div.WebHelpPopupMenu {position:absolute; left:0px; top:0px; z-index:4; visibility:hidden;}
+  p.WebHelpNavBar {text-align:right;}
+-->
+</style><script src="../../bsscnbar.js" language="JavaScript" title="WebHelpNavBarExtJs" ></script>
+</head>
+
+<!--(Body)==========================================================-->
+
+
+<body lang=EN-US style="tab-interval: .5in;">
+
+<SCRIPT language="JavaScript" title="WebHelpNavBar">
+<!--
+gbstrRelHomePageURL="../../SketchpadHelp.htm";
+if (parseInt(navigator.appVersion) >=3  && window.name.indexOf("BSSCPopup") == -1)
+{
+var strNvHome=""; var strNvBrowse=""; var strNvWebSearch="";
+if ((parseInt(navigator.appVersion) >= 3) && (typeof (BsscNavHasNavFrame) != "undefined") &&
+ (typeof(BsscNavIsList) == "undefined" || !BsscNavIsList())) 
+{
+  if (!BsscNavHasNavFrame()) {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavShow();return false;\">Show&nbsp;Contents</a>";
+  } else {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavHide();return false;\">Hide&nbsp;Contents</a>";
+  }
+}
+if ((strNvHome.length != 0) || (strNvBrowse.length != 0) || (strNvWebSearch.length != 0)) {
+  document.write("<p id='NavBar' align='right' class=WebHelpNavBar><nobr><font size=1>");
+  if (strNvHome.length != 0) document.write(strNvHome);
+  if (strNvBrowse.length != 0) document.write(strNvBrowse);
+  if (strNvWebSearch.length != 0) document.write(strNvWebSearch);
+  document.write("</font>&nbsp;&nbsp;&nbsp;</nobr></p>");
+  }
+}
+//-->
+</SCRIPT>
+<p class=NAVBAR
+	style="font-family: Arial, sans-serif;
+			font-style: italic;
+			font-size: 8pt;"><a href="../../Home.htm">Home</a>: <a href="../../ToolboxReference.htm">Toolbox 
+ Reference</a>: <a href="../SelectionArrowTls.htm">Selection Arrow Tools</a>: 
+ Selecting and Deselecting Objects</p>
+
+<h2>Selecting and Deselecting Objects</h2>
+
+<p class=MsoBodyText>You select objects in your sketch to <a HREF="DraggingObjects.htm">drag</a> 
+ them, to apply menu commands to them, or to manipulate or modify them 
+ with the <a HREF="../../ElementsFldr/MotionController.htm">Motion Controller</a> 
+ or the <a HREF="../../ElementsFldr/TextPalette.htm">Text Palette.</a> 
+ </p>
+
+<p class=MsoBodyText>At any point in time, your selections determine which 
+ menu commands are available at that point. For example, you can use the 
+ <span class=Command><a HREF="../../MenuFldr/ConstructMenuFldr/Midpoint.htm">Midpoint</a></span> 
+ command in the <a HREF="../../MenuFldr/ConstructMenu.htm">Construct</a> 
+ menu when you have a segment selected, but not when you have a circle, 
+ a point, a line, or a ray selected.</p>
+
+<p class=SideHint>When a command is not available, it appears gray in the 
+ menu and cannot be chosen. Often this means your current selection is 
+ not appropriate for that command.</p>
+
+<p class=MsoBodyText>Your selections also determine how dragging works. 
+ If you select and drag both endpoints of a segment, the entire segment 
+ moves as a unit, with no change in its length or direction. But if you 
+ select and drag only one endpoint, the other endpoint remains fixed and 
+ the segment’s length and slope change as you drag.</p>
+
+<p class=MsoBodyText>Selected objects appear outlined, or with special 
+ marks, as in the following illustrations.</p>
+
+<!--(Table)=========================================================-->
+<table x-use-null-cells cellspacing="0" class="whs1">
+
+<tr>
+<td valign="top" class="whs2">
+<p class=MsoCaption><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../image103.gif' width='154' height='115' border='0'>");}
+else
+{ document.write("<img src='../../image103.gif' style='border: none; width: 154px; height: 115px;' width='154' height='115' border='0'>");}
+//--></SCRIPT></p>
+<p class=MsoCaption>Unselected Objects</td>
+<td valign="top" class="whs3">
+<p class=MsoCaption><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../image104.gif' width='156' height='117' border='0'>");}
+else
+{ document.write("<img src='../../image104.gif' style='border: none; width: 156px; height: 117px;' width='156' height='117' border='0'>");}
+//--></SCRIPT></p>
+<p class=MsoCaption>Selected Objects</td></tr>
+</table>
+
+<p class=MsoBodyText
+	style="margin-top: 8.0pt;">To select or deselect objects using a <span 
+ class=Command>Selection Arrow</span> tool:</p>
+
+<p class=MsoListBullet
+	style="mso-list: l2 level1 lfo3;"><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>Select an unselected object by positioning the tip of 
+ the <span class=Command>Selection Arrow</span> <span style="mso-list: l2 level1 lfo3;">over 
+ the object and clicking it.</span></p>
+
+<p class=SideHint>The <span class=cmds>Arrow</span> flips horizontal when 
+ it’s pointing at an object.</p>
+
+<p class=MsoListBullet
+	style="mso-list: l2 level1 lfo3;"><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>Select additional objects by clicking each object in 
+ turn.</p>
+
+<p class=MsoListBullet
+	style="mso-list: l2 level1 lfo3;"><![if !supportLists]><span style="font-family: Symbol;">·<span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span></span><![endif]>Deselect a single selected object the same way, 
+ by positioning the tip of the <span class=Command>Selection Arrow</span> 
+ over the object and clicking on it. </p>
+
+<p class=MsoListBullet
+	style="mso-list: l2 level1 lfo3;"><![if !supportLists]><span style="font-family: Symbol;">·<span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span></span><![endif]>Deselect all objects by clicking in empty space 
+ in the sketch.</p>
+
+<p class=SideHint>You can also deselect all objects by pressing the Esc 
+ key one or more times.</p>
+
+<p class=MsoBodyText>In addition, you can:</p>
+
+<p class=MsoListBullet
+	style="mso-list: l2 level1 lfo3;"><![if !supportLists]><span style="font-family: Symbol;">·<span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span></span><![endif]>Select one of several overlapping or coincident 
+ objects by clicking repeatedly until the desired object is selected.</p>
+
+<p class=MsoListBullet
+	style="mso-list: l2 level1 lfo3;"><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>Select or deselect an action button by clicking its handle, 
+ not its body.</p>
+
+<p class=SideHint>Clicking the body of an action button doesn’t select 
+ it, but instead performs the action associated with the button.</p>
+
+<div class="whs4">
+<!--(Table)=========================================================-->
+<table hspace="0" vspace="0" x-use-null-cells cellspacing="0" class="whs5">
+
+<tr>
+<td align="left" valign="top" class="whs6">
+<p class=MsoBodyText><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../image286.gif' width='98' height='86' border='0'>");}
+else
+{ document.write("<img src='../../image286.gif' style='border: none; width: 98px; height: 86px;' width='98' height='86' border='0'>");}
+//--></SCRIPT></td></tr>
+</table>
+</div>
+
+<p class=MsoListBullet
+	style="mso-list: l2 level1 lfo3;"><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>Select multiple objects simultaneously by enclosing them 
+ in a <a HREF="SelectDeselectFldr/SelectionRectangle.htm">selection rectangle</a>.</p>
+
+<p class=MsoBodyText>You can also select objects by using <span class=Command><a HREF="../../MenuFldr/EditMenuFldr/SelectAll.htm">Select All</a></span><span 
+ class=Command>, <a HREF="../../MenuFldr/EditMenuFldr/SelectParents.htm">Select 
+ Parents</a>,</span> or <span class=Command><a HREF="../../MenuFldr/EditMenuFldr/SelectChildren.htm">Select 
+ Children</a></span> from the <a HREF="../../MenuFldr/EditMenu.htm">Edit</a> 
+ menu or by navigating to them using the <a HREF="../../MenuFldr/EditMenuFldr/PropertiesFldr/ObjectProperties.htm">Object 
+ Properties</a> dialog box. You can select moving points by choosing them 
+ from the <a HREF="../../ElementsFldr/MotionController.htm">Motion Controller’s</a> 
+ <a HREF="../../ElementsFldr/MotionControllerFldr/MotionControlParts.htm">Target</a> 
+ menu.</p>
+
+<p class=SeeAlso
+	style="mso-bidi-font-style: normal; font-style: italic;"><i style="font-style: italic;">Subtopics: 
+ </i><a HREF="SelectDeselectFldr/SelectionRectangle.htm"><span style="font-style: normal;"><br>
+Selecting Objects Using a Selection Rectangle</a><a HREF="SelectDeselectFldr/SelectOverlapping.htm" style="font-style: normal;"><br>
+Selecting Overlapping Objects</a></span></p>
+
+<p class=SeeAlso><i style="font-style: italic; mso-bidi-font-style: normal;">See 
+ also</i><a HREF="../../ElementsFldr/Objects.htm"><br>
+Objects</a><a HREF="../../ElementsFldr/ObjectsFldr/ActionButtons.htm"><br>
+Action Buttons</a><a HREF="../../MenuFldr/EditMenuFldr/SelectAll.htm"><br>
+Select All</a><a HREF="../../MenuFldr/EditMenuFldr/SelectParents.htm"><br>
+Select Parents</a><a HREF="../../MenuFldr/EditMenuFldr/SelectChildren.htm"><br>
+Select Children</a><a HREF="../../MenuFldr/EditMenuFldr/PropertiesFldr/ObjectProperties.htm"><br>
+Object Properties</a><a HREF="../../AdvTopicsFldr/TipsExpertsFldr/SelectionTechniques.htm"><br>
+Selection Techniques</a><a HREF="../../ElementsFldr/MotionController.htm"><br>
+Motion Controller</a><a HREF="../../KeyboardFldr/TheEscKey.htm"><br>
+Esc Key</a><a HREF="../../ElementsFldr/ObjectsFldr/ObjectRelations.htm"><br>
+Object Relationships: Parents and Children</a><a HREF="../../MenuFldr/DisplayMenuFldr/HideObjects.htm"><br>
+Hide Objects</a><a HREF="../../MenuFldr/EditMenuFldr/PreferencesFldr/ColorPreferences.htm"><br>
+Color Preferences</a></p>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if ((parseInt(navigator.appVersion) >= 3) && (typeof(onBsscAutoSync) != "undefined") && (window.name.indexOf("BSSCPopup") == -1))
+	onBsscAutoSync();
+//-->
+</SCRIPT>
+</body>
+
+</html>

@@ -1,0 +1,1272 @@
+***  Installation Started 05/21/2013 7:36  ***
+Title: The Geometer's Sketchpad
+Source: D:\Setup Sketchpad.exe
+Made Dir: C:\Program Files (x86)\Sketchpad
+File Copy: C:\Program Files (x86)\Sketchpad\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Sketchpad
+RegDB Val: Sketchpad
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Sketchpad
+RegDB Val: C:\PROGRA~2\SKETCH~1\UNWISE.EXE C:\PROGRA~2\SKETCH~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Sketchpad
+RegDB Val: Toshiba
+RegDB Name: RegCompany
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Sketchpad
+RegDB Val: Owner
+RegDB Name: RegOwner
+RegDB Root: 2
+File Copy: C:\Program Files (x86)\Sketchpad\GSP 4.061OE.exe
+File Copy: C:\Program Files (x86)\Sketchpad\Read Me.txt
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvancedTopics.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bsscdhtm.js
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bsscnbar.js
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctab0.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctab1.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctab2.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctab3.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctab4.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctab5.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctab6.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctoc1.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctoc2.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctoc3.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\bssctoc4.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\default.css
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\default_ns.css
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ehlpdht1.js
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ehlpdht2.js
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ehlpdhtm.js
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\Elements.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ftsbody.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ftsdhtml.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ftsform.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\gspHelp.css
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\gspHelp_ns.css
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hAdvancedTopics.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hAnimateProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hCalculator.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hColorPicker.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hColorPreferences.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hContents.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hDilate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hDocumentOptions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hEditingCaptions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hEditMacColorMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hEditParamVal.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hEditWinColorMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hElements.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hExportPrefs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hFontStyle.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hHideShowProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hHome.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hInsertStudentCD.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hIterate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hIterationProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hKeyboardRef.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hLabelProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hLinkProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hMoveProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hMultipleLabel.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hNewParameter.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hNoPreviewOffer.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hObjectProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\Home.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hParameterProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hPlotPoints.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hPlotProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hPlotTableData.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hPreferences.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hPresentProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hPrintPreview.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hReflect.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hRotate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hSamplingPrefs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hScrollProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hSystemPrefs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hTableProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hTables.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hTextPreferences.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\HtmlHelp.css
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hToolbox.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hTranslate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hTrivariateColor.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hUnitsPreferences.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hUnivariateColor.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hUnsupportedObjs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hValueProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\hWhatsNew.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\idxbody.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\idxdhtml.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\idxform.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\idxlist.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image1.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image1.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image10.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image103.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image104.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image106.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image108.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image109.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image11.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image110.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image111.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image112.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image113.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image114.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image115.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image116.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image117.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image118.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image119.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image12.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image120.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image121.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image122.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image123.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image124.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image126.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image127.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image128.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image129.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image13.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image130.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image131.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image132.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image133.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image134.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image135.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image136.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image137.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image138.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image139.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image141.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image142.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image143.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image144.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image145.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image146.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image147.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image148.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image149.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image150.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image151.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image153.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image154.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image155.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image156.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image157.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image158.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image159.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image160.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image161.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image162.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image163.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image164.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image165.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image166.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image167.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image168.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image169.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image17.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image170.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image171.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image172.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image173.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image174.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image175.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image176.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image177.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image178.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image179.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image18.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image180.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image181.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image182.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image183.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image184.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image185.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image186.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image187.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image188.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image189.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image190.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image191.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image192.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image193.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image194.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image198.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image199.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image2.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image20.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image200.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image201.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image202.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image204.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image205.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image206.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image207.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image208.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image209.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image21.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image210.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image211.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image212.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image214.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image215.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image216.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image217.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image218.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image219.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image22.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image220.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image221.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image222.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image223.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image224.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image225.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image226.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image227.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image229.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image23.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image230.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image232.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image233.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image234.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image235.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image236.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image237.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image238.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image239.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image240.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image241.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image242.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image243.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image244.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image245.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image246.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image247.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image248.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image249.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image25.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image250.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image251.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image252.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image253.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image254.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image255.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image256.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image257.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image258.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image259.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image26.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image260.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image261.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image262.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image263.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image265.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image266.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image267.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image268.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image27.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image272.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image273.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image275.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image276.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image277.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image279.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image28.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image280.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image281.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image282.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image283.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image284.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image285.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image286.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image287.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image29.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image3.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image30.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image31.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image32.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image33.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image34.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image36.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image37.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image38.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image43.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image44.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image48.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image49.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image5.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image52.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image53.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image55.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image57.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image58.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image6.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image64.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image65.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image66.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image67.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image68.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image69.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image70.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image71.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image74.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image75.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image77.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image78.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image79.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image8.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image81.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image82.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image83.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image84.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image85.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image86.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image87.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image88.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image89.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image9.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image9.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image90.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image94.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image95.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image96.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image97.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image98.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\image99.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\KeyboardReference.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuReference.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\Miscellaneous_Topics.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\NavBar.css
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\NavBar_ns.css
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\navframe.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\navpane1.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\navpane2.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\nsdnsfix.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\nsdnsfix.jar
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\PropListSideHint.css
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\PropListSideHint_ns.css
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\SketchpadHelp.ftp
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\SketchpadHelp.hhc
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\SketchpadHelp.hhc.zip
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\SketchpadHelp.hhk
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\SketchpadHelp.hhk.zip
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\SketchpadHelp.hhs
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\SketchpadHelp.hhs.zip
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\SketchpadHelp.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\SketchpadHelp_csh.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\tabframe.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\tocdhtml.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\toclist.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxReference.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\webhelp.cab
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\webhelp.jar
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\webhelp.res
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\webhelp.zip
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\webhelp0.cab
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\webhelp0.zip
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\webhelp4.js
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatNew.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\_blank.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvGraphicsExprt.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvText.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvToolTopics.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaSketchpad.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\SketchPadMath.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\TipsForExperts.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvGraphicsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvGraphicsFldr\CopyingGraphics.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvGraphicsFldr\Metafile_Export.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvGraphicsFldr\PostScriptEPS.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvGraphicsFldr\ScreenCaptures.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvGraphicsFldr\CopyGraphicsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvGraphicsFldr\CopyGraphicsFldr\Cropping.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvGraphicsFldr\CopyGraphicsFldr\UseExportPrefs.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvTextFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvTextFldr\AligningText.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvTextFldr\CustomLabelSequence.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvTextFldr\MergeTxtCustTmplt.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvTextFldr\MergeTxtToPt.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvToolFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvToolFldr\AlternateToolFolders.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvToolFldr\AutoMatchGiven.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\AdvToolFldr\SpecificLabels.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\CreateJava.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\JavaFolder.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\ModifyYourPages.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\WebOverview.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\WhatCanGoWrong.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\CreateJava_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\CreateJava_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\GoWrongFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\GoWrongFldr\AppearDiscrepancies.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\GoWrongFldr\JavaException.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\GoWrongFldr\NonJavaBrowsers.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\GoWrongFldr\NoPreviewOffered.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\GoWrongFldr\UnsupportedObjects.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\JavaFolder_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\JavaFolder_files\image003.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaFldr\JavaFolder_files\image005.gif
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaSketchpad_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\JavaSketchpad_files\image002.gif
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\TipsExpertsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\TipsExpertsFldr\CommandLineFlags.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\TipsExpertsFldr\ExpressionsDialogs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\TipsExpertsFldr\SelectionTechniques.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\TipsExpertsFldr\SketchpadMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\AdvTopicsFldr\TipsExpertsFldr\UsingShortcuts.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\Calculator.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ColorPicker.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\Documents.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionController.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\Objects.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptView.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPalette.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\HowToSignum.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\InsertingNewParam.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\InsertValues.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator_files\image002.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator_files\image004.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator_files\image006.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator_files\image008.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator_files\image010.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator_files\image012.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator_files\image014.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\CalculatorFldr\PartsCalculator_files\image016.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\Calculator_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\Calculator_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ColorPickerFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ColorPickerFldr\MacintoshColorPick.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ColorPickerFldr\WindowsColorPicker.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ColorPickerFldr\MacintoshColorPick_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ColorPickerFldr\MacintoshColorPick_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ColorPickerFldr\WindowsColorPicker_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ColorPickerFldr\WindowsColorPicker_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\DocumentsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\DocumentsFldr\DocPages.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\DocumentsFldr\DocTools.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\DocumentsFldr\DocWindows.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\DocumentsFldr\ScriptViewTool.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\MotionControlParts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\PrinciplesAnimation.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\UseMotionControl.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\MotionControlParts_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\MotionControlParts_files\image002.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\MotionControlParts_files\image004.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\MotionControlParts_files\image006.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\MotionControlParts_files\image008.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\MotionControlParts_files\image010.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\MotionControlParts_files\image012.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\PrinciplesAnimatFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\PrinciplesAnimatFldr\AnimatIndependentPt.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\PrinciplesAnimatFldr\AnimatParameter.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\PrinciplesAnimatFldr\AnimatPointPath.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\PrinciplesAnimatFldr\MotionDirection.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\PrinciplesAnimatFldr\MotionSpeed.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionControllerFldr\PrinciplesAnimatFldr\OnceOnlyMotion.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionController_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\MotionController_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\ActionButtons.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\Captions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CirclesAndArcs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CoordSystemsAxes.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\FunctionsFnctnPlots.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\Iterations.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\Loci.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\MeasuresCalculatns.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\ObjectAttribute.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\ObjectRelations.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PathObjects.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\Pictures.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\Points.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PolygonsInteriors.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\Segments.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\Tables.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\ActionButtons_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\ActionButtons_files\image004.gif
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CaptionsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CaptionsFldr\CompositeCaptions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CaptionsFldr\WorkWithCaptions.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CirclesArcsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CirclesArcsFldr\ConstructArcs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CirclesArcsFldr\ConstructCircles.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CirclesArcsFldr\MeasuringCircles.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CirclesArcsFldr\UseCircles.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CoordSystemsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CoordSystemsFldr\HowToGeoboard.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CoordSystemsFldr\ModifyCoordinate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CoordSystemsFldr\MultipleCoordinate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\CoordSystemsFldr\UseCoordinateSyst.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\FunctionsPlotsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\FunctionsPlotsFldr\FunctionPlots.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\FunctionsPlotsFldr\Functions.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\IterationsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\IterationsFldr\CreateIterations.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\IterationsFldr\WorkWithIterations.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\LociFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\LociFldr\ConstructLocus.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\LociFldr\ModifyingLocus.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\MeasCalcParamFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\MeasCalcParamFldr\Calculations.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\MeasCalcParamFldr\Measurements.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\MeasCalcParamFldr\Parameters.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\MeasCalcParamFldr\UsingValues.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PointsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PointsFldr\ConstructPts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PointsFldr\MeasuringPts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PointsFldr\MovingPoints.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PointsFldr\SplitMergePts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PointsFldr\UsePtsTransformatns.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PolygonsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PolygonsFldr\ConstructInteriors.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PolygonsFldr\MeasuringInteriors.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\PolygonsFldr\UsingInteriors.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\SegRayLineFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\SegRayLineFldr\ConstructStraights.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\SegRayLineFldr\MeasurStraights.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\SegRayLineFldr\UsingStraights.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\Tables_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ObjectsFldr\Tables_files\OBJECTS_TABLE.GIF
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ApplyScriptViewStep.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ObjectList.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\PrintScriptView.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ToolComment.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\UseCustomScriptView.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ApplyScriptViewStep_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ApplyScriptViewStep_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ObjectListFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ObjectListFldr\GivenObjects.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ObjectListFldr\Steps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ObjectListFldr\WorkObjectList.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ObjectList_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ObjectList_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ToolComment_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\ScriptViewFldr\ToolComment_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\ShowMoveTextPal.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPal.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPaletteFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPaletteFldr\TextPalEditCaption.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPal_files
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPal_files\TextPalEditCaption_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPal_files\TextPalEditCaption_files\image002.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPal_files\TextPalEditCaption_files\image004.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPal_files\TextPalEditCaption_files\image008.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPal_files\TextPalEditCaption_files\image012.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ElementsFldr\TextPaletteFldr\UseTextPal_files\TextPalEditCaption_files\image016.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\KeyboardFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\KeyboardFldr\OtherSpecialKeys.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\KeyboardFldr\Shortcuts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\KeyboardFldr\TheEscKey.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ContextMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\HelpMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\WindowMenu.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\AngleBisector.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\ArcOnCircle.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\ArcThruPts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\CircleByCenter.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\CircleCenterRadius.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\Interior.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\Intersection.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\Locus.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\Midpoint.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\ParallelLine.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\PerpendicularLine.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\PointOnObject.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\Segment.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\UseConstructMenu.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\InteriorFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\InteriorFldr\ArcSectorInterior.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\InteriorFldr\ArcSegInterior.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\InteriorFldr\CircleInterior.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenuFldr\InteriorFldr\PolygonInterior.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenu_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ConstructMenu_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ContextMenu_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\ContextMenu_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\Animate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\Color.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\EraseTraces.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\HideObjects.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\HowToShowJustOne.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\IncreaseSpeed.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\LabelObjects.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\LineWidth.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ShowAllHidden.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ShowHideLabelCmd.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ShowHideMotionCont.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ShowHideToolbox.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ShowHideTxtPal.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\StopAnimation.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\Text.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\Trace.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ColorFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ColorFldr\OtherColor.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ColorFldr\ParametricColor.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ColorFldr\ParametricColor_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ColorFldr\ParametricColor_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\LineWidth_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\LineWidth_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ShowHideMotionCont_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ShowHideMotionCont_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ShowHideTxtPal_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\DisplayMenuFldr\ShowHideTxtPal_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButton.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvancedPrefs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Clear.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Copy.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Cut.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\EditDefinition.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Paste.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Preferences.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Properties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Redo.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SelectAll.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SelectChildren.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SelectParents.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Split.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Undo.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButtonFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButtonFldr\AnimationButton.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButtonFldr\HideShowButton.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButtonFldr\LinkButton.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButtonFldr\MovementButton.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButtonFldr\PresentationButton.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButtonFldr\ScrollButton.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButton_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\ActionButton_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\EditColorMenuWin.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\ExportPrefs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\SamplingPrefs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\SystemPrefs.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\EditColorMenuWin_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\EditColorMenuWin_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\ExportPrefs_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\ExportPrefs_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\SamplingPrefs_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\AdvPrefsFldr\SamplingPrefs_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\ColorPreferences.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\TextPreferences.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\UnitsPreferences.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\UserTipAccuracy.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\TextPreferences_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\TextPreferences_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\UnitsPreferences_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\UnitsPreferences_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\UserTipAccuracy_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PreferencesFldr\UserTipAccuracy_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Preferences_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\Preferences_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\AnimateProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\HideShowProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\IterationProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\LabelProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\LinkProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\MoveProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ObjectProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ParameterProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PlotProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PresentProps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ScrollProperties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\Table_Properties.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ValueProperties.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\AnimateProps_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\AnimateProps_files\image002.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\AnimateProps_files\image004.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\HideShowProps_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\HideShowProps_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\IterationProps_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\IterationProps_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\LabelProperties_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\LabelProperties_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\LinkProperties_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\LinkProperties_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\MoveProperties_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\MoveProperties_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ObjectProperties_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ObjectProperties_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ParameterProps_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ParameterProps_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PlotProptsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PlotProptsFldr\PlotPropFunction.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PlotProptsFldr\PlotPropLocus.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PlotProptsFldr\PlotPropFunction_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PlotProptsFldr\PlotPropFunction_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PlotProptsFldr\PlotPropLocus_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PlotProptsFldr\PlotPropLocus_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PresentProps_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\PresentProps_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ScrollProperties_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ScrollProperties_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\TableProperties_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\TableProperties_files\PROP_TABLE.GIF
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ValueProperties_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\PropertiesFldr\ValueProperties_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SplitMergeFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SplitMergeFldr\HowToSplitMerge.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SplitMergeFldr\MergePtPath.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SplitMergeFldr\MergeTwoPts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SplitMergeFldr\MergingText.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SplitMergeFldr\SplitPtApart.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SplitMergeFldr\SplitPtParent.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenuFldr\SplitMergeFldr\SplittingMergedTxt.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenu_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\EditMenu_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\Close.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\DocumentOptions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\NewSketch.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\Open.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\PageSetup.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\Print.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\PrintPreview.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\Quit.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\Save.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\SaveAs.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\DocumentOptions_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\DocumentOptions_files\image002.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\DocumentOptions_files\image004.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\DocumentOptions_files\image006.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\Open_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenuFldr\Open_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenu_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\FileMenu_files\image003.gif
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\Add_Table_Data.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\DefineCoordSystem.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\Derivative.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\GridForm.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\MarkCoordSystem.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\NewFunction.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\NewParameter.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\PlotFunction.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\PlotPoints.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\Remove_Table_Data.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\ShowGrid.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\SnapPoints.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\Tabulate.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\Add_Table_Data_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\Add_Table_Data_files\ADDTABLEDATA.GIF
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\Derivative_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\Derivative_files\image004.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\GridForm_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\GridForm_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\NewParameter_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\NewParameter_files\image004.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\PlotPoints_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\PlotPoints_files\image002.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenuFldr\PlotPoints_files\Table_Data.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenu_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenu_files\image1.gif
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\GraphMenu_files\NewGraphMenu.gif
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\HelpMenu_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\HelpMenu_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Abscissa.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Angle.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\ArcLength.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Arc_Angle.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Area.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Calculate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Circumference.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\CoordDistance.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Coordinates.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Distance.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Equation.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\HowToSlider.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Length.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Ordinate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Perimeter.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Radius.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Ratio.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenuFldr\Slope.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenu_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\MeasureMenu_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\Dilate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\HowToAngleFixed.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\Iterate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkAngle.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkCenter.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkCommands.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkDistance.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkMirror.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkRatio.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkVector.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\Reflect.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\Rotate.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\Translate.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\DisplayOptions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\HowToSierpinski.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\IteratingExample.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\MultiIterationMaps.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\ParametricDepth.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\RandIteratedPts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\StructureOptions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\Tables_Iterated_Values.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\TerminalPoint.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\UseIterateDialog.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\RandIteratedPts_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\RandIteratedPts_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\Tables_Iterated_Values_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\Tables_Iterated_Values_files\ITER_TABLE.GIF
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\UseIterateDialog_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\IterateFldr\UseIterateDialog_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkRatioFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkRatioFldr\RationThreePts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkRatioFldr\RationTwoSegs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\MarkRatioFldr\ScaleFactorMeas.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\TranslateFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\TranslateFldr\HowToSegmentFixed.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\TranslateFldr\MarkedVector.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\TranslateFldr\PolarTranslation.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\TransformMenuFldr\TranslateFldr\RectangularVector.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\WindowMenu_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MenuFldr\WindowMenu_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MiscFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MiscFldr\Credits.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MiscFldr\License.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\MiscFldr\TechSupport.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CompassTool.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomTools.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\OverviewToolbox.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\PointTool.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectionArrowTls.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeTools.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextTool.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CompassTlFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CompassTlFldr\AttachCircle.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CompassTlFldr\ConstructCircle.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CompassTool_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CompassTool_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\CustomToolsMenu.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\MakingCustomTl.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\OverviewCustom.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\ToolFolder.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\UsingCustomTool.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\CustomToolsMenu_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\CustomToolsMenu_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\MakingCustomFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\MakingCustomFldr\HowToBisector.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\MakingCustomFldr\ManageCustom.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\MakingCustomFldr\ShowHideScript.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\MakingCustomFldr\SpecifyResults.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\ToolFolderFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\ToolFolderFldr\CreateToolFldr.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\ToolFolderFldr\StoreTool.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\UsingCustomFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\UsingCustomFldr\GivensResultsTool.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\UsingCustomFldr\MatchingGiven.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\UsingCustomTool_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomToolsFldr\UsingCustomTool_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomTools_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\CustomTools_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\OverviewToolbox_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\OverviewToolbox_files\image004.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\PointTool_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\PointTool_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectionArrowTls_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectionArrowTls_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingObjects.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowActions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\SelectDeselect.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\DilateArrowTl.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\HowToZoom.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\RotateArrowTl.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\TransformDrag.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\TranslateArrowTl.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\DilateArrowTl_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\DilateArrowTl_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\RotateArrowTl_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\RotateArrowTl_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\TransformDrag_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\TransformDrag_files\image003.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\TranslateArrowTl_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\DraggingFldr\TranslateArrowTl_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowFldr\ArrowDoubleClick.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowFldr\ArrowTextShortcuts.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowFldr\ChangingAxis.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowFldr\ChangingTableRows.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowFldr\ConstructPtIntersect.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowFldr\PressActionButtons.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowFldr\ResizeFunctionLoci.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\OtherArrowFldr\ResizingPictures.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\SelectDeselectFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\SelectDeselectFldr\SelectionRectangle.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\SelectnArrTlFldr\SelectDeselectFldr\SelectOverlapping.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeFldr\AttachStraight.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeFldr\ConstructLine.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeFldr\ConstructRay.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeFldr\ConstructSegment.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeFldr\ConstructStraightAtAngle.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeTools_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeTools_files\image002.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeTools_files\image004.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeTools_files\image006.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\StraightedgeTools_files\image008.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\CreatingCaptions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\EditingCaptions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\PositionLabels.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\ResizingCaptions.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\ShowHideLabels.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\UseTextTool.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\CreatingCaptions_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\CreatingCaptions_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\EditingCaptions_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\EditingCaptions_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\PositionLabels_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\PositionLabels_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\ShowHideLabels_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\ShowHideLabels_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\UseTextTool_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\UseTextTool_files\image002.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\UseTextTool_files\image004.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\UseTextTool_files\image006.jpg
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextToolFldr\UseTextTool_files\image008.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextTool_files
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\ToolboxFldr\TextTool_files\image002.jpg
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr\ChangesAfterRefMan.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr\ForUsersOfV3.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr\SampleDocs.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr\Since4.00.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr\V3UsersFldr
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr\V3UsersFldr\ChangesSinceV3.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr\V3UsersFldr\CustomToolsTransform.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr\V3UsersFldr\NewFeaturesV4.htm
+File Copy: C:\Program Files (x86)\Sketchpad\Sketchpad Help\WhatsNewFldr\V3UsersFldr\ReusingV3Work.htm
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\About This Folder.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\Advanced Tools.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\Animation Tools.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\Appearance Tools.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\Conics.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\Fractions.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\Polygons.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\Sample Tools.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\Sliders.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Custom Tools\Triangle Centers.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\How To
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\How To\About This Folder.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\How To\HowTo_ConstructLocus.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\How To\HowTo_Iterate.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\How To\HowTo_UpgradeFromV3.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\How To\HowTo_UseParametricColor.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\About This Folder.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Advanced
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Advanced\Complete Graphs.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Advanced\Complex Numbers.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Advanced\Dynamical Systems.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Advanced\Riemann Sums.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Advanced\Taylor Sine.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Algebra
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Algebra\Advanced Algebra Tiles.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Algebra\Algebra Tiles.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Algebra\Coordinate System View.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Algebra\Dynagraphs.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Algebra\Iterating Functions.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Algebra\Least Squares.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Algebra\Parametric Functions.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Calculus
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Calculus\Box Volume.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Calculus\Exponential and Derivative.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Calculus\Falling Ladder.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Calculus\Integration.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Conics
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Conics\Dannys Ellipse.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Conics\Locus of Bisectors.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Conics\Unified Conics.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun\Billiards.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun\Bubble.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun\Centroid Crystal.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun\Cosmos.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun\Glide Reflect Tiling.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun\Half Head.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun\Headlights.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun\Lifes Highway.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Fun\Sheep Dog.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Area.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Dot Paper.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Example Theorems.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Fractal Gallery.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Pythagoras.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Thought Experiment.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Triangles.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Higher Dimensions
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Higher Dimensions\Hypercube.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Geometry\Higher Dimensions\Icosahedron.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Investigations
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Investigations\Diamond Group.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Investigations\Poincare Disk.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Investigations\Rainbow.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Investigations\Two Trees.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Investigations\Voronoi.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Trigonometry
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Trigonometry\Law of Cosines.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Trigonometry\Polar Graphing.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Sketches\Trigonometry\Trigonometry Tracers.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\About This Folder.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Add Integers.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Area2.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Distance.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Folded Circle.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Geometric Mean.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Line Up.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Rhombus.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Right Angle.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Shear Pythagoras.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Tangent Circles.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Tangents.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Varignon.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Velocity.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Vertex Form.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Teaching Mathematics\Walk The Dog.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Samples\Tours
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Tours\About This Folder.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Tours\Quadrilaterals.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Tours\String Art.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Tours\Tour1_StepByStep.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Tours\Tour2_StepByStep.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Tours\Tour5_StepByStep.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Tours\Tour6_StepByStep.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Tours\Tour7_StepByStep.gsp
+File Copy: C:\Program Files (x86)\Sketchpad\Samples\Tours\Tour8_StepByStep.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\Tool Folder
+File Copy: C:\Program Files (x86)\Sketchpad\Tool Folder\About This Folder.gsp
+Made Dir: C:\Program Files (x86)\Sketchpad\jsp
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\appletImageFetcher.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\EtchedFrame.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\GSP.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\imageFetcher.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\jsp4.jar
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\JSP_ExternIO.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\parsingSyntaxError.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\ScreenUpdateThread.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\Sketch.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\SketchpadRuntimePanel.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\SketchpadRuntimeServices.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\unknownItemListError.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\Util.class
+Made Dir: C:\Program Files (x86)\Sketchpad\jsp\com
+Made Dir: C:\Program Files (x86)\Sketchpad\jsp\com\keypress
+Made Dir: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\AffectedDescendents.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\AnimatedPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\animationAction.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Axis.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Axis3.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Axis4.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\BleachImageFilter.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\CircleCenterAndRadius.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\CircleCenterPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\CircleCircleIntersection.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\CircleInterior.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\ColorizedGrayscale.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\ColorizedHSV.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\ColorizedRGB.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\ColorizedSpectrum.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Colorizer.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\CompoundMeasure.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\computed3PtRatio.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\computedRadianAngle.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\ConcatText.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\CoordinatePair.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\CoordSysByAxes.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Dilater.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Dilation.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Dilation2S.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Dilation3R.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\DilationMR.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\doublePoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Draggable.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\DraggableUnitPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\DriverPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\equFormCompOp.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\exprToken.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\filledCircle.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\FixedAngleMarkedDistance.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\FixedPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\FixedText.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\FreePoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gAction.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gCircle.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gCoordSys.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gImage.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gImageBetweenPoints.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gImageOnPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gLocus.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gMeasure.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\GObject.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gPointLocus.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gPolygon.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gStraight.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gStraightLocus.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gStraightThrough2Points.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\gText.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\HideButton.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\LinearIntersection.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\LineCircleIntersection.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\LineThru2Points.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\MarkedAngleMarkedDistance.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\MarkedAngleRotation.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\MeasuredAngleFixDistance.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\MeasuredAngleRotation.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Midpoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\moveAction.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\MultiMeasure.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\myObservable.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\numericConstant.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\OriginUnitCoords.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Parallel.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Parameter.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\parseEvalFailure.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\parseList.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Path.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\pathWalk.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PeggedText.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PerimeteredGObj.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PeriodicActionButton.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\periodicActionThread.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Perpendicular.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PlotXY.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PointOnCircle.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PointOnCircleAnim.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PointOnObject.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PointOnPolygon.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PointOnPolygonAnim.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PointOnStraight.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PointOnStraightAnim.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PolygonalPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PolygonByVertices.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\PolygonPathWalk.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\predefFunc.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\RayThru2Points.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\RectangularUnitPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Reflection.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Reflector.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Rotater.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Rotation.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\SegmentThru2Points.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\ShowButton.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\SimpleLock.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\SimpleMeasure.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\SimpleUnitPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\SimultaneousButton.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Sort.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Sortable.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\SquareUnitPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\transformedCircle.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\transformedFilledCircle.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\transformedPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\transformedPolygon.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\transformedStraight.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Transformer.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Translation.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\Translator.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\UnitCircleCoords.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\UnitPoint.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\variableRef.class
+File Copy: C:\Program Files (x86)\Sketchpad\jsp\com\keypress\Gobjects\VectorTranslation.class
+RegDB Key: SOFTWARE\Key Curriculum Press
+RegDB Val: Owner
+RegDB Name: NAME
+RegDB Root: 2
+RegDB Key: SOFTWARE\Key Curriculum Press
+RegDB Val: Toshiba
+RegDB Name: COMPANY
+RegDB Root: 2
+Shell Link: C:\Users\Neuropolitical\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GSP 4.061OE.lnk
+RegDB Key: Sketchpad.Document
+RegDB Val: Sketchpad Document
+RegDB Old: Sketchpad Document
+RegDB Key: Sketchpad.Document\shell\open
+RegDB Val: 
+RegDB Key: Sketchpad.Document\shell\open\command
+RegDB Val: C:\PROGRA~2\SKETCH~1\GSP406~1.EXE /dde
+RegDB Old: D:\SKETCH~7\GSP406~2.EXE /dde
+RegDB Key: MIME\Database\Content Type\application/x-gsp
+RegDB Val: 
+RegDB Key: MIME\Database\Content Type\application/x-gsp
+RegDB Val: .gsp
+RegDB Name: Extension
+RegDB Key: Sketchpad.Document\DefaultIcon
+RegDB Val: C:\PROGRA~2\SKETCH~1\GSP 4.061OE.exe,1
+RegDB Old: D:\SKETCH~7\GSP406~2.EXE,1
+RegDB Key: .gsp
+RegDB Val: Sketchpad.Document
+RegDB Key: .gsp
+RegDB Val: application/x-gsp
+RegDB Name: Content Type
+RegDB Key: .gsx
+RegDB Val: Sketchpad.Document
+RegDB Key: .gsx
+RegDB Val: application/x-gsp
+RegDB Name: Content Type
+RegDB Key: Sketchpad.Document\shell\open\ddeexec
+RegDB Val: [open("%1")]
+RegDB Old: [open("%1")]
+RegDB Key: Sketchpad.Document\shell\print\command
+RegDB Val: C:\PROGRA~2\SKETCH~1\GSP406~1.EXE /dde
+RegDB Old: D:\SKETCH~7\GSP406~2.EXE /dde
+RegDB Key: Sketchpad.Document\shell\print\ddeexec
+RegDB Val: [print("%1")]
+RegDB Old: [print("%1")]
+RegDB Key: Sketchpad.Document\shell\printto
+RegDB Val: 
+RegDB Key: Sketchpad.Document\shell\printto\ddeexec
+RegDB Val: [printto("%1","%2","%3","%4")]
+RegDB Old: [printto("%1","%2","%3","%4")]
+RegDB Key: Sketchpad.Document\shell\printto\command
+RegDB Val: C:\PROGRA~2\SKETCH~1\GSP406~1.EXE /dde
+RegDB Old: D:\SKETCH~7\GSP406~2.EXE /dde
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Sketchpad
+RegDB Val: C:\PROGRA~2\SKETCH~1\GSP 4.061OE.exe,-0
+RegDB Name: DisplayIcon
+RegDB Root: 2
+User Rights: Admin

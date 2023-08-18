@@ -1,0 +1,526 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" 
+ xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+
+<!--(==============================================================)-->
+<!--(Document created with RoboEditor. )============================-->
+<!--(==============================================================)-->
+
+<head>
+
+<title>Iterating by Example</title>
+
+<!--(Meta)==========================================================-->
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Originator content="Microsoft Word 9">
+<meta name=generator content="RoboHELP by eHelp Corporation - www.ehelp.com">
+<meta name=generator-major-version content=0.1>
+<meta name=generator-minor-version content=1>
+<meta name=filetype content=kadov>
+<meta name=filetype-version content=1>
+<meta name=page-count content=1>
+<meta name=layout-height content=1422>
+<meta name=layout-width content=688>
+<meta name=date content="10 16, 2001 10:08:17 AM">
+
+
+<!--(Links)=========================================================-->
+
+<link rel=File-List href="./IteratingExample_files/filelist.xml">
+<link rel=Edit-Time-Data href="./IteratingExample_files/editdata.mso">
+
+
+
+<!--(Style Sheet)===================================================-->
+
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>jbinker</o:Author>
+  <o:Template>GSP4_RefManTmplt</o:Template>
+  <o:LastAuthor>jbinker</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2001-09-14T00:40:00Z</o:Created>
+  <o:LastSaved>2001-09-14T00:40:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>434</o:Words>
+  <o:Characters>2477</o:Characters>
+  <o:Company>KCP Technologies</o:Company>
+  <o:Lines>20</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>3041</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:AttachedTemplate
+   HRef="C:\Documents and Settings\jbinker\My Documents\FinalPrep4Help\GSP4_RefManTmplt.dot"></w:AttachedTemplate>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+
+<!--
+
+/* Font Definitions */
+@font-face {
+	font-family: Garamond;
+	panose-1: 2 2 4 4 3 3 1 1 8 3;
+	mso-font-charset: 0;
+	mso-generic-font-family: roman;
+	mso-font-pitch: variable;
+	mso-font-signature: 647 0 0 0 159 0;
+};
+
+@page Section1 {
+	x-size: 8.5in 11.0in;
+	margin: 120.25pt 1.25in 120.25pt 2.5in;
+	mso-header-margin: 120.25pt;
+	mso-footer-margin: 120.25pt;
+	mso-gutter-margin: .5in;
+	mso-title-page: yes;
+	mso-paper-source: 15;
+};
+
+@page Section2 {
+	x-size: 8.5in 11.0in;
+	margin: 1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin: .5in;
+	mso-footer-margin: .5in;
+	mso-paper-source: 0;
+};
+
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+	mso-style-parent: ;
+	margin: 0in;
+	margin-bottom: .0001pt;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+/* Style Definitions */
+LI.kadov-p-CMsoNormal {
+	mso-style-parent: ;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h3 {
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	margin-top: 6.0pt;
+	margin-right: 0in;
+	margin-bottom: 3.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	page-break-after: avoid;
+	mso-outline-level: 3;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+	mso-bidi-font-weight: normal;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h3 {
+	mso-style-next: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan;
+	mso-outline-level: 3;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+	mso-bidi-font-weight: normal;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoBodyText,
+li.MsoBodyText,
+div.MsoBodyText {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoBodyText {
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.Command {
+	mso-style-name: "Command\002ccmd";
+	mso-ansi-font-size: 11.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	font-weight: bold;
+}
+
+p.SideHint,
+li.SideHint,
+div.SideHint {
+	mso-style-name: "Side Hint\002csh";
+	margin-top: 2.0pt;
+	margin-right: .2in;
+	margin-bottom: 3.0pt;
+	margin-left: .2in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSideHint {
+	mso-style-name: "Side Hint\002csh";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.SeeAlso,
+li.SeeAlso,
+div.SeeAlso {
+	mso-style-name: "See Also\002csa";
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	margin-top: 3.0pt;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSeeAlso {
+	mso-style-name: "See Also\002csa";
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.btc {
+	mso-style-name: "btc\002cbody text character";
+	mso-ansi-font-size: 11.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	color: windowtext;
+	x-text-underline: off;
+	x-text-overline: off;
+	x-text-line-through: off;
+	text-line-through: none;
+	vertical-align: baseline;
+	vertical-align: baseline;
+	/*begin!kadov{{*/ text-decoration: none none none; /*}}end!kadov*/ 
+}
+
+span.cmds {
+	mso-style-name: cmds;
+	mso-ansi-font-size: 9.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	font-weight: bold;
+}
+
+p.indEquation,
+li.indEquation,
+div.indEquation {
+	mso-style-name: "indEquation\002cie";
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 45.0pt;
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CindEquation {
+	mso-style-name: "indEquation\002cie";
+	mso-style-parent: "Body Text\002cbt\002cbt1";
+	mso-pagination: widow-orphan;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: Arial;
+	mso-bidi-font-family: Arial;
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+div.Section1 {
+	page: Section1;
+}
+
+div.Section2 {
+	page: Section2;
+}
+
+-->
+</style>
+
+
+
+<script language="javascript" title="WebHelpInlineScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+//-->
+</script><style>
+<!--
+  div.WebHelpPopupMenu {position:absolute; left:0px; top:0px; z-index:4; visibility:hidden;}
+  p.WebHelpNavBar {text-align:right;}
+-->
+</style><script src="../../../bsscnbar.js" language="JavaScript" title="WebHelpNavBarExtJs" ></script>
+</head>
+
+<!--(Body)==========================================================-->
+
+
+<body lang=EN-US style="tab-interval: .5in;">
+
+<SCRIPT language="JavaScript" title="WebHelpNavBar">
+<!--
+gbstrRelHomePageURL="../../../SketchpadHelp.htm";
+if (parseInt(navigator.appVersion) >=3  && window.name.indexOf("BSSCPopup") == -1)
+{
+var strNvHome=""; var strNvBrowse=""; var strNvWebSearch="";
+if ((parseInt(navigator.appVersion) >= 3) && (typeof (BsscNavHasNavFrame) != "undefined") &&
+ (typeof(BsscNavIsList) == "undefined" || !BsscNavIsList())) 
+{
+  if (!BsscNavHasNavFrame()) {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavShow();return false;\">Show&nbsp;Contents</a>";
+  } else {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavHide();return false;\">Hide&nbsp;Contents</a>";
+  }
+}
+if ((strNvHome.length != 0) || (strNvBrowse.length != 0) || (strNvWebSearch.length != 0)) {
+  document.write("<p id='NavBar' align='right' class=WebHelpNavBar><nobr><font size=1>");
+  if (strNvHome.length != 0) document.write(strNvHome);
+  if (strNvBrowse.length != 0) document.write(strNvBrowse);
+  if (strNvWebSearch.length != 0) document.write(strNvWebSearch);
+  document.write("</font>&nbsp;&nbsp;&nbsp;</nobr></p>");
+  }
+}
+//-->
+</SCRIPT>
+<p class=NAVBAR
+	style="font-family: Arial, sans-serif;
+			font-style: italic;
+			font-size: 8pt;"><a href="../../../Home.htm">Home</a>: <a href="../../../MenuReference.htm">Menu 
+ Reference</a>: <a href="../../TransformMenu.htm">Transform Menu</a>: <a href="../Iterate.htm">Iterate</a>: Iterating by Example</p>
+
+<h3>Iterating by Example</h3>
+
+<p class=MsoBodyText>In Sketchpad, you define an iteration rule by example, 
+ creating <a HREF="../../../ElementsFldr/ObjectsFldr/Iterations.htm">both 
+ pre-image and image</a> and specifying how they correspond to each other. 
+ </p>
+
+<p class=MsoBodyText><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../../image246.gif' width='106' height='120' border='0'>");}
+else
+{ document.write("<img src='../../../image246.gif' style='border: none; width: 106px; height: 120px;' width='106' height='120' border='0'>");}
+//--></SCRIPT></p>
+
+<p class=MsoBodyText>For instance, the first figure starts with triangle 
+ <i style="mso-bidi-font-style: normal;">ABC</i>. Triangle <i style="mso-bidi-font-style: normal;">DEF</i> 
+ is the midpoint triangle, constructed using as its vertices the midpoints 
+ of the sides of triangle <i style="mso-bidi-font-style: normal;">ABC</i>.</p>
+
+<p class=MsoBodyText>To repeat this construction, you’d construct a new 
+ midpoint triangle using the midpoints of the sides of triangle <i style="mso-bidi-font-style: normal;">DEF,</i> 
+ and then another using the midpoints of the sides of that triangle, and 
+ so forth.</p>
+
+<p class=MsoBodyText><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../../image247.gif' width='107' height='119' border='0'>");}
+else
+{ document.write("<img src='../../../image247.gif' style='border: none; width: 107px; height: 119px;' width='107' height='119' border='0'>");}
+//--></SCRIPT></p>
+
+<p class=MsoBodyText>To specify this repetition as an iteration rule in 
+ Sketchpad, you define a map<span style="mso-spacerun: yes;">&nbsp;</span>that 
+ identifies the image for each pre-image:</p>
+
+<p class=MsoBodyText
+	style="margin-left: 40px;"><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../../image43.gif' width='59' height='78' border='0'>");}
+else
+{ document.write("<img src='../../../image43.gif' style='border: none; width: 59px; height: 78px;' width='59' height='78' border='0'>");}
+//--></SCRIPT></p>
+
+<p class=MsoBodyText>Even though the repeated construction includes the 
+ sides of the triangles as well as the vertices, you specify the rule using 
+ only points <i style="mso-bidi-font-style: normal;">A, B, C, D, E,</i> 
+ and <i style="mso-bidi-font-style: normal;">F</i>. Sketchpad figures out 
+ what other objects <a HREF="../../../ElementsFldr/ObjectsFldr/ObjectRelations.htm">depend 
+ on</a> the pre-image points and includes them in the iteration. In this 
+ example, Sketchpad will include the sides of the triangle in the iteration.</p>
+
+<p class=MsoBodyText>For best results, construct the entire pre-image but 
+ construct only the points of the image. Let Sketchpad construct the other 
+ parts of the image.</p>
+
+<p class=MsoBodyText>For example, to iterate the midpoint triangle, construct 
+ the pre-image (triangle <i style="mso-bidi-font-style: normal;">ABC</i>) 
+ and the image points (midpoints <i style="mso-bidi-font-style: normal;">D, 
+ E,</i> and <i style="mso-bidi-font-style: normal;">F</i>), but not the 
+ remaining image objects (the segments connecting <i style="mso-bidi-font-style: normal;">D, 
+ E, </i>and <i style="mso-bidi-font-style: normal;">F</i>). Once you’ve 
+ constructed these objects, select the independent points that define the 
+ pre-image (points <i style="mso-bidi-font-style: normal;">A, B, </i>and<i 
+ style="mso-bidi-font-style: normal;"> </i>C) and choose <span class=Command>Iterate</span> 
+ from the Transform menu.</p>
+
+<p class=MsoBodyText><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../../image8.jpg' width='163' height='188' border='0'>");}
+else
+{ document.write("<img src='../../../image8.jpg' style='border: none; width: 163px; height: 188px;' width='163' height='188' border='0'>");}
+//--></SCRIPT></p>
+
+<p class=MsoBodyText>Sketchpad displays the dialog box shown here, allowing 
+ you to define the corresponding image for each selected pre-image point. 
+ For each pre-image point in the triangle, click on the midpoint to which 
+ that pre-image should map. As you click each midpoint, Sketchpad displays 
+ the results of iterating the pre-image triangle towards your mapped images. 
+ Once you’ve mapped each of the three pre-image points to a unique midpoint, 
+ click Iterate to confirm the iteration rule and close the dialog box.</p>
+
+<p class=SideHint>You may need to drag the dialog box out of the way so 
+ that you can see your original triangle and its midpoints.</p>
+
+<p class=MsoBodyText><SCRIPT LANGUAGE="JavaScript"><!--
+if (navigator.appName=="Netscape")
+{ document.write("<img src='../../../image248.gif' width='112' height='117' border='0'>");}
+else
+{ document.write("<img src='../../../image248.gif' style='border: none; width: 112px; height: 117px;' width='112' height='117' border='0'>");}
+//--></SCRIPT></p>
+
+<p class=MsoBodyText>Sketchpad produces a set of iterated images for each 
+ object affected by your mapping. In this example there are six iterated 
+ images, one for each vertex and side of your original triangle. You can 
+ select and manipulate each iterated image separately. For example, you 
+ could hide or delete the three iterated images of your original triangle’s 
+ vertices, or you could color each of the three iterated images of your 
+ original triangle’s edges with a different color. You can also use <span 
+ class=Command><a HREF="../../EditMenuFldr/PropertiesFldr/IterationProps.htm">Iteration 
+ Properties</a></span> to change the number of iterations that Sketchpad 
+ displays.</p>
+
+<p class=SideHint>You can use <span class=cmds>Iterate</span> to create 
+ fractals by specifying more than one mapping of your pre-images to first 
+ images. See Multiple Iteration Map for more information.</p>
+
+<p class=SeeAlso><i style="font-style: italic; mso-bidi-font-style: normal;">See 
+ also</i><a HREF="../../../ElementsFldr/ObjectsFldr/Iterations.htm"><br>
+Iterations and Iterated Images</a><a HREF="../../EditMenuFldr/PropertiesFldr/IterationProps.htm"><br>
+Iteration Properties</a><a HREF="HowToSierpinski.htm"><br>
+How To Construct a Sierpinski Gasket</a><a HREF="MultiIterationMaps.htm"><br>
+Multiple Iteration Maps</a></p>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if ((parseInt(navigator.appVersion) >= 3) && (typeof(onBsscAutoSync) != "undefined") && (window.name.indexOf("BSSCPopup") == -1))
+	onBsscAutoSync();
+//-->
+</SCRIPT>
+</body>
+
+</html>

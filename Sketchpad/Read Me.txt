@@ -1,0 +1,127 @@
+Welcome to The Geometer's Sketchpad Version 4.0!
+Ontario Ministry of Education Licensed Edition
+
+A. Sketchpad Documentation
+--------------------------
+Your Ontario Sketchpad CD-ROM includes several books about Sketchpad, including a Learning Guide, the Complete Reference Manual, a Quick Reference Guide, and Teaching Mathematics with The Geometer's Sketchpad. Consult these books if you're new to Sketchpad, starting with the Learning Guide. All of these books are located in the "GSP Documentation (PDF)" folder on the CD-ROM, and can be opened with Adobe Acrobat or other PDF software. 
+
+NOTE: Sketchpad PDF books are NOT installed onto your computer by the Installer (since they take up lots of space). You can access them from the CD-ROM directly, or drag them from the CD-ROM to your hard disk like any other file. (The Installer >does< install "Sketchpad Help," an on-line version of the Reference Manual accessible from within the Sketchpad program.)
+
+B. Product Information
+---------------------
+Additional information about Sketchpad in Ontario is available from Spectrum at www.spectrumed.com. Information about Sketchpad worldwide is available from www.keypress.com/sketchpad.
+
+C. Recent Changes
+----------------
+Your new software may include changes after the documentation last went to press. Be sure to visit "What's New" in the Help menu for any late-breaking news.
+
+D. Sample Documents
+-------------------
+The Sketchpad installer places many sample documents in the folder called "Samples" next to your Sketchpad application.  Feel free to browse them at any time for example applications, Sketchpad tips and techniques, and miscellaneous mathematical inspiration!
+
+E. License Agreement Overview
+-----------------------------
+The license agreement below describes the terms you accept when installing your Sketchpad software. In summary, you are licensed to install Sketchpad on machines at Licensed Educational Institutions and on your home machine if you are a teacher or a student enrolled in an Ontario Licensed Educational Institution, as defined in the agreement below. If you are a student, you are not permitted to copy the program for use by other students. A student must receive the Sketchpad software from his or her school. In addition, your license for Sketchpad includes the use of JavaSketchpad on the Internet for noncommercial purposes. The purpose of the JavaSketchpad license is to allow you to post sketches to a Web site that you or your students have created using Sketchpad. The JavaSketchpad license is granted provided your site can be freely visited by anyone on the Internet (that is, it's not password-protected or available only to subscribers) and no direct or indirect profit is being made from people visiting your site. For more details, see the full agreement, below.
+
+F. Key Curriculum Press License Agreement
+-----------------------------------------
+
+WHEN YOU INSTALL THE SOFTWARE YOU ACCEPT THE TERMS OF THIS AGREEMENT.
+
+Key Curriculum Press, Inc.
+Software Licensing Agreement for the Ontario Sketchpad Version 4.0 License
+Terms and Conditions
+
+WHEREAS Her Majesty the Queen in Right of Ontario as represented by the Minister of Education of Ontario, Canada, ("Minister") and Key Curriculum Press, Inc. ("Key") have entered into a License Agreement with respect to the Software;
+
+AND WHEREAS the following Agreement constitutes a binding and enforceable agreement between you as a representative of the Minister of Education of Ontario, Canada, ("Licensed Ministry Representative") or as a student enrolled in an Ontario Licensed Educational public school or university ("Authorized Student User") and the Minister has signified its unqualified acceptance of the terms of the License Agreement, you hereby signify your unqualified acceptance of the terms of this Agreement upon installing the Software. For that reason, the License Agreement is set out below for your review. If you wish to obtain independent professional advice concerning this Agreement, you must do so before installing the Software;
+
+NOW, THEREFORE, you agree as follows:
+
+ARTICLE 1
+
+1.1 DEFINITIONS
+
+In this Agreement, the following terms shall have the following meanings:
+
+(a)	"Licensed Educational Institutions" means all public elementary and secondary schools throughout the Province of Ontario, Canada, operating under the Ontario educational curriculum as such curriculum may exist from time to time and further includes First Nation and native schools in Ontario, the Ontario Institute for Studies in Education, Ontario Colleges of Applied Arts and Technology, and Faculties of Education Teacher Training Institutes. For greater certainty the term "Licensed Educational Institutions" does not include private schools.
+
+(b)	"Licensed Ministry Representative" means any teacher, administrator, or other educational personnel employed by a Licensed Educational Institution.
+
+(c)	"Authorized Student User" means any student enrolled in a Licensed Educational Institution.
+
+(d)	"Print Materials" means all of the documentation relating to the Software Materials or otherwise including installation instructions in any form or format including, but not limited to, CD-ROM format and each part of any of the foregoing.
+
+(e)	"Software Materials" means the computer programs, excluding the Print Materials and including, but not limited to, file accessing and retrieval software, machine readable files, photographs, illustrations, images, graphics, and any software "bug" fixes or other modifications of the Version 4.0 of The Geometer's Sketchpad licensed hereunder, and includes such materials in any format, including without limitation printed or other copy, floppy disk (magnetic diskette) format, hard disk format, tape format, CD-ROM format or any other form or format and each part of any of the foregoing.
+
+(f)	"Sketchpad" means the English-language Windows and Macintosh Version 4.0 of The Geometer's Sketchpad Software Materials and Print Materials on CD-ROM and each part thereof and all documentation relating to  or otherwise, and each part of any of the foregoing.
+
+ARTICLE 2
+
+2.1 GRANT OF LICENSE
+
+Key grants to the Minister and Licensed Ministry Representative the following rights:
+
+(a)	The license to install and use Sketchpad at a Licensed Educational Institution on stand-alone computers or in networks with multiple concurrent users by students, teachers, and other educational personnel for the education, non-commercial purposes of such Licensed Educational Institution.
+
+(b)	The license to install and use Sketchpad on home computers of Licensed Ministry Representatives for professional purposes.
+
+(c)	The license to make copies of, and to authorize others on their behalf to make copies of, Sketchpad provided under this Agreement, but solely for the purposes hereinafter described.
+
+(d)	The license to distribute, and to authorize others to distribute Sketchpad on their behalf, to Licensed Educational Institutions, to Licensed Ministry Representatives, and to Authorized Student Users, for educational purposes on a cost-recovery basis only. It is agreed that each such Licensed Educational Institution shall have the right to make an unlimited number of copies of Sketchpad in any format including, but not limited to, CD-ROM and magnetic diskette. Such copies to be only for use by students, teachers and other educational personnel solely within such Licensed Educational Institution for the educational non-commercial purposes thereof. A copy may be borrowed by teachers for at-home lesson preparation or class-related activities and must not be copied or retained for personal or commercial use. You may distribute a copy to students enrolled in the Licensed Educational Institution for use on their home computer.
+
+(e)	It is agreed that each Licensed Educational Institution shall have the right to use Sketchpad solely at said Licensed Educational Institution on stand-alone computers or in networks with multiple concurrent users by students, teachers and other educational personnel for the educational, non-commercial purposes of such Licensed Educational Institution, and that a teacher may borrow a copy for home use for lesson preparation purposes only. It is further agreed that each Licensed Educational Institution shall have the right to distribute to students enrolled at said Licensed Educational Institution for those students' home use.
+
+(f)	The right to copy in any format any of the images, clip art, illustrations, graphics or text contained in Sketchpad and to distribute or transmit electronically the same non-commercially as part of user-created projects for educational, non-commercial purposes and to authorize others to do any of the foregoing.
+
+(g)	The right to translate any text contained in the Print Materials into any other computer or human language or version except for source or programming code and to make copies and distribute in any format the translated or other versions of the same to the Licensed Educational Institutions for educational, non-commercial purposes and to authorize others to do any of the foregoing, provided that no copies shall be made of the Print Materials in their entirety for such distribution.
+
+Key grants to an Authorized Student User the following rights:
+
+(a)	The license to install and use Sketchpad on your home computer.
+
+(b)	The right to use JavaSketchpad on the Internet for noncommercial purposes. This enables you to post sketches on a school-created or school-approved Web site that can be freely visited (a site cannot be password-protected, restricted to subscribers, or make direct or indirect profit from any visitor).
+
+(c)	The right to copy, in any format, any of the images, clip art, illustrations, graphics or text contained in Sketchpad and to distribute or transmit electronically the same non-commercially as part of user-created projects for educational, non-commercial purposes and to authorize others to do any of the foregoing.
+
+(d)	You are not permitted to lend or give Sketchpad to anyone else, including another student who is currently enrolled in an Ontario Licensed Educational Institution. If you do lend or give Sketchpad to someone not authorized to use it, you may be subject to disciplinary action by the Minister of Education of Ontario or by the school at which you are enrolled.
+
+(e)	When you cease to be enrolled in a Licensed Educational Institution, you are no longer an Authorized Student User. You must uninstall or otherwise remove Sketchpad from your home computer.
+
+Grant Restrictions: It is agreed that Sketchpad may not be modified, decompiled, reverse assembled or otherwise reverse engineered by you. You will not engage in the rental of the Sketchpad software or the Software Materials, nor will you authorize any other party to do so.
+
+Additional Use Grant: In addition to the Licensed Educational Institutions, the Minister may use and authorize others to use Sketchpad for the purposes of the Minister in any office of the Minister for the educational and policy development purposes of the Minister or in any institution which may be designated by the Minister as a software development assistance center for educational, not-for-profit purposes. 
+
+ARTICLE 3
+
+3.1 WARRANTIES
+
+Key represents and warrants that:
+
+(a)	It has the right and is free to enter into this Agreement and to perform fully its obligations hereunder.
+
+3.2 LIMITED WARRANTY
+
+(a)	Key warrants that it has the right to grant the license as set out in the License Agreement. Key further warrants that for a period of thirty (30) days following the initial delivery of the Software to the Minister that: the Software will perform in substantial conformity with the Documentation; the media provided by Key will be free of defects in workmanship; and the Software and the medium on which it was originally provided to the Minister are free from any virus.
+
+(b)	In the event of a breach of any warranty set out above, Key will, at its option and at no cost to the Minister: i) provide remedial services necessary to enable the Software to conform to the warranty; ii) replace any defective Software or media; or iii) refund amounts paid to Key in respect of the defective Software. (Key's warranty obligations will only extend to material errors that can be demonstrated to exist in an unmodified version of the Software.)
+
+(c)	The Minister must notify Key promptly of any breach of warranty and provide Key with reasonable opportunity to remedy any breach and provide reasonable assistance in identifying and remedying any defects.
+
+(d)	The remedies set out in the above section are the Minister's and Licensed Ministry Representative's sole remedies for breach of the above warranties.
+
+(e)	THESE WARRANTIES ARE IN LIEU OF ALL OTHER WARRANTIES, EXPRESS, IMPLIED OR STATUTORY INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTIBILITY, QUALITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+ARTICLE 4
+
+4.1 COPYRIGHT
+
+Key warrants that it has the right to grant the rights and licenses herein and that it owns all copyright and other intellectual property rights in Sketchpad, or to the extent Sketchpad includes any copyright owned by third parties, it has the right to grant the rights and licenses in respect of such works as part of Sketchpad. Unauthorized copying or other reproduction by written, electronic or any other means whatsoever without the prior written consent of Key is strictly prohibited. Copyright to Sketchpad is the property of Key and is protected by national and international intellectual property laws. No other rights are hereby granted to the Minister or Licensed Ministry Representative or implied. The Minister or Licensed Ministry Representative may not rent, lease, time-share, sub-license, lend, transfer, modify or use the Software in any manner other than a use that is consistent with the provisions of this license, nor may the Minister or Licensed Ministry Representative reverse engineer, decompile or disassemble the Software.
+
+ARTICLE 5
+
+5.1 GENERAL PROVISIONS
+
+(a)	Whole Agreement: This Agreement contains the whole understanding of the parties with respect to the subject matter hereof.
+
+(d) Interpretation: The parties hereto agree that this Agreement, including without limitation the license herein, shall be governed and construed in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein.

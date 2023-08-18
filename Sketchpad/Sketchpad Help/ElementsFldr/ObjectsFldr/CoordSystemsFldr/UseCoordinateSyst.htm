@@ -1,0 +1,479 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" 
+ xmlns="http://www.w3.org/TR/REC-html40">
+
+<!--(==============================================================)-->
+<!--(Document created with RoboEditor. )============================-->
+<!--(==============================================================)-->
+
+<head>
+
+<title>Using Coordinate Systems</title>
+
+<!--(Meta)==========================================================-->
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Originator content="Microsoft Word 9">
+<meta name=generator content="RoboHELP by eHelp Corporation - www.ehelp.com">
+<meta name=generator-major-version content=0.1>
+<meta name=generator-minor-version content=1>
+<meta name=filetype content=kadov>
+<meta name=filetype-version content=1>
+<meta name=page-count content=1>
+<meta name=layout-height content=436>
+<meta name=layout-width content=735>
+<meta name=date content="10 1, 2001 0:40:42 AM">
+
+
+<!--(Links)=========================================================-->
+
+<link rel=File-List href="./UseCoordinateSyst_files/filelist.xml">
+
+
+
+<!--(Style Sheet)===================================================-->
+
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>jbinker</o:Author>
+  <o:Template>GSP4_RefManTmplt</o:Template>
+  <o:LastAuthor>jbinker</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2001-09-13T23:05:00Z</o:Created>
+  <o:LastSaved>2001-09-13T23:05:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>191</o:Words>
+  <o:Characters>1094</o:Characters>
+  <o:Company>KCP Technologies</o:Company>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1343</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:AttachedTemplate
+   HRef="C:\Documents and Settings\jbinker\My Documents\FinalPrep4Help\GSP4_RefManTmplt.dot"></w:AttachedTemplate>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+
+<!--
+
+@page Section1 {
+	x-size: 8.5in 11.0in;
+	margin: 120.25pt 1.25in 120.25pt 2.5in;
+	mso-header-margin: 120.25pt;
+	mso-footer-margin: 120.25pt;
+	mso-gutter-margin: .5in;
+	mso-title-page: yes;
+	mso-paper-source: 15;
+};
+
+@page Section2 {
+	x-size: 8.5in 11.0in;
+	margin: 1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin: .5in;
+	mso-footer-margin: .5in;
+	mso-paper-source: 0;
+};
+
+/* List Definitions */
+@list l0 {
+	mso-list-id: -119;
+	mso-list-type: simple;
+	mso-list-template-ids: -56691226;
+};
+
+@list l0\003alevel1 {
+	mso-level-number-format: bullet;
+	mso-level-text: \f0b7;
+	mso-level-tab-stop: .25in;
+	mso-level-number-position: left;
+	margin-left: .25in;
+	text-indent: -.25in;
+	font-family: Symbol;
+};
+
+@list l1 {
+	mso-list-id: 21976776;
+	mso-list-type: simple;
+	mso-list-template-ids: -1281181156;
+};
+
+@list l1\003alevel1 {
+	mso-level-number-format: bullet;
+	mso-level-style-link: "List Bullet";
+	mso-level-text: \f0b7;
+	mso-level-tab-stop: .25in;
+	mso-level-number-position: left;
+	margin-left: .25in;
+	text-indent: -.25in;
+	font-family: Symbol;
+};
+
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+	mso-style-parent: ;
+	margin: 0in;
+	margin-bottom: .0001pt;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+/* Style Definitions */
+LI.kadov-p-CMsoNormal {
+	mso-style-parent: ;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+h4 {
+	mso-style-next: Normal;
+	margin-top: 9.0pt;
+	margin-right: 0in;
+	margin-bottom: 2.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	page-break-after: avoid;
+	mso-outline-level: 4;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+	mso-bidi-font-weight: normal;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-h4 {
+	mso-style-next: Normal;
+	mso-pagination: widow-orphan;
+	mso-outline-level: 4;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+	mso-bidi-font-weight: normal;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoListBullet,
+li.MsoListBullet,
+div.MsoListBullet {
+	mso-style-update: auto;
+	mso-style-parent: "Body Text";
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: .25in;
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	mso-list: l1 level1 lfo2;
+	tab-stops: list .25in left 1.5in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoListBullet {
+	mso-style-update: auto;
+	mso-style-parent: "Body Text";
+	text-indent: -.25in;
+	mso-pagination: widow-orphan;
+	mso-list: l1 level1 lfo2;
+	tab-stops: list .25in left 1.5in;
+	font-size: 11.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.MsoBodyText,
+li.MsoBodyText,
+div.MsoBodyText {
+	margin-top: 0in;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CMsoBodyText {
+	mso-pagination: widow-orphan;
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	mso-fareast-font-family: "Times New Roman";
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+span.Command {
+	mso-style-name: "Command\002ccmd";
+	mso-ansi-font-size: 11.0pt;
+	mso-ascii-font-family: Arial;
+	mso-hansi-font-family: Arial;
+	font-weight: bold;
+}
+
+p.SideHint,
+li.SideHint,
+div.SideHint {
+	mso-style-name: "Side Hint\002csh";
+	margin-top: 2.0pt;
+	margin-right: .2in;
+	margin-bottom: 3.0pt;
+	margin-left: .2in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSideHint {
+	mso-style-name: "Side Hint\002csh";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+p.SeeAlso,
+li.SeeAlso,
+div.SeeAlso {
+	mso-style-name: "See Also\002csa";
+	mso-style-parent: "Body Text";
+	margin-top: 3.0pt;
+	margin-right: 0in;
+	margin-bottom: 5.0pt;
+	margin-left: 0in;
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+
+/*=(Generated Code)=================================================*/
+/*=(WARNING: DO NOT EDIT OR DELETE THIS SECTION!)===================*/
+/*begin!kadov{{=====================================================*/ 
+LI.kadov-p-CSeeAlso {
+	mso-style-name: "See Also\002csa";
+	mso-style-parent: "Body Text";
+	mso-pagination: widow-orphan;
+	font-size: 9.0pt;
+	mso-bidi-font-size: 10.0pt;
+	font-family: Arial;
+	mso-fareast-font-family: "Times New Roman";
+	mso-bidi-font-family: "Times New Roman";
+	color: #000000;
+}
+/*}}end!kadov=======================================================*/ 
+
+
+
+div.Section1 {
+	page: Section1;
+}
+
+div.Section2 {
+	page: Section2;
+}
+
+ol {
+	margin-bottom: 0in;
+}
+
+ul {
+	margin-bottom: 0in;
+}
+
+-->
+</style>
+
+
+
+<script language="javascript" title="WebHelpInlineScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+//-->
+</script><style>
+<!--
+  div.WebHelpPopupMenu {position:absolute; left:0px; top:0px; z-index:4; visibility:hidden;}
+  p.WebHelpNavBar {text-align:right;}
+-->
+</style><script src="../../../bsscnbar.js" language="JavaScript" title="WebHelpNavBarExtJs" ></script>
+</head>
+
+<!--(Body)==========================================================-->
+
+
+<body lang=EN-US style="tab-interval: .5in;">
+
+<SCRIPT language="JavaScript" title="WebHelpNavBar">
+<!--
+gbstrRelHomePageURL="../../../SketchpadHelp.htm";
+if (parseInt(navigator.appVersion) >=3  && window.name.indexOf("BSSCPopup") == -1)
+{
+var strNvHome=""; var strNvBrowse=""; var strNvWebSearch="";
+if ((parseInt(navigator.appVersion) >= 3) && (typeof (BsscNavHasNavFrame) != "undefined") &&
+ (typeof(BsscNavIsList) == "undefined" || !BsscNavIsList())) 
+{
+  if (!BsscNavHasNavFrame()) {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavShow();return false;\">Show&nbsp;Contents</a>";
+  } else {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavHide();return false;\">Hide&nbsp;Contents</a>";
+  }
+}
+if ((strNvHome.length != 0) || (strNvBrowse.length != 0) || (strNvWebSearch.length != 0)) {
+  document.write("<p id='NavBar' align='right' class=WebHelpNavBar><nobr><font size=1>");
+  if (strNvHome.length != 0) document.write(strNvHome);
+  if (strNvBrowse.length != 0) document.write(strNvBrowse);
+  if (strNvWebSearch.length != 0) document.write(strNvWebSearch);
+  document.write("</font>&nbsp;&nbsp;&nbsp;</nobr></p>");
+  }
+}
+//-->
+</SCRIPT>
+<p class=NAVBAR
+	style="font-family: Arial, sans-serif;
+			font-style: italic;
+			font-size: 8pt;"><span style="font-family: Arial, sans-serif;
+											font-style: italic;
+											font-size: 8pt;"><FONT SIZE=1 style="font-size:8pt;"><I><a href="../../../Home.htm">Home</a>: 
+ <a href="../../../Elements.htm" style="font-size: 8pt;">Elements</a>: <a href="../../Objects.htm">Objects</a>: 
+ <a href="../CoordSystemsAxes.htm">Coordinate Systems and Axes</a>: Using 
+ a Coordinate System</I></FONT></span></p>
+
+<h4>Using a Coordinate System</h4>
+
+<p class=MsoListBullet><![if !supportLists]><span style="font-family: Symbol;">·<span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span></span><![endif]>To change the scale of a coordinate system, drag 
+ the unit point. Square coordinate systems have one unit point, and rectangular 
+ coordinate systems have two. </p>
+
+<p class=MsoListBullet><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>To change the scale of a coordinate system, press and 
+ drag any axis tick-mark label with the <span class=Command><a HREF="../../../ToolboxFldr/SelectionArrowTls.htm">Arrow</a></span> 
+ tool.</p>
+
+<p class=SideHint>The scale of a coordinate system may be defined by an 
+ object in the sketch; such a coordinate system doesn’t have a unit point 
+ and cannot be scaled by dragging axis tick-mark labels.</p>
+
+<p class=MsoListBullet><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>If you have more than one coordinate system, make one 
+ of them the active one by choosing <span class=Command><a HREF="../../../MenuFldr/GraphMenuFldr/MarkCoordSystem.htm">Mark 
+ Coordinate System</a></span><span 
+ class=Command>.</span></p>
+
+<p class=MsoListBullet><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>To plot a point on the coordinate system, choose 
+ <span class=Command><a HREF="../../../MenuFldr/GraphMenuFldr/PlotPoints.htm">Plot 
+ Points</a></span><span 
+ class=Command>.</span></p>
+
+<p class=MsoListBullet><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>To plot two measured values on the coordinate system, 
+ select them and choose <span class=Command><a HREF="../../../MenuFldr/GraphMenuFldr/PlotPoints.htm">Plot 
+ As (x, y)</a></span><span 
+ class=Command>.</span></p>
+
+<p class=MsoListBullet><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>To plot a new function on the coordinate system, choose 
+ <span class=Command><a HREF="../../../MenuFldr/GraphMenuFldr/PlotFunction.htm">Plot 
+ New Function</a></span><span 
+ class=Command>.</span></p>
+
+<p class=MsoListBullet><![if !supportLists]><span style="font-family: Symbol;">·</span><span 
+ style="font: 7.0pt 'Times New Roman';"><FONT SIZE=1 style="font-size:7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ </FONT></span><![endif]>To plot an existing function on the coordinate system, 
+ select the function and choose <span class=Command><a HREF="../../../MenuFldr/GraphMenuFldr/PlotFunction.htm">Plot 
+ Function</a></span><span 
+ class=Command>.</span></p>
+
+<p class=SeeAlso><i style="font-style: italic; mso-bidi-font-style: normal;">See 
+ also</i><a HREF="../../../MenuFldr/GraphMenu.htm"><br>
+Graph Menu</a><a HREF="../../../MenuFldr/GraphMenuFldr/MarkCoordSystem.htm"><br>
+Mark Coordinate System</a><a HREF="../../../MenuFldr/GraphMenuFldr/PlotPoints.htm"><br>
+Plot Points<br>
+Plot As (x, y)</a><a HREF="../../../MenuFldr/GraphMenuFldr/PlotFunction.htm"><br>
+Plot New Function</a><a HREF="../FunctionsPlotsFldr/Functions.htm"><br>
+Functions</a></p>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if ((parseInt(navigator.appVersion) >= 3) && (typeof(onBsscAutoSync) != "undefined") && (window.name.indexOf("BSSCPopup") == -1))
+	onBsscAutoSync();
+//-->
+</SCRIPT>
+</body>
+
+</html>

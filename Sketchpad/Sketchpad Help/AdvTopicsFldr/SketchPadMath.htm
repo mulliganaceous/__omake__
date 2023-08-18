@@ -1,0 +1,210 @@
+<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
+
+<html>
+
+<!--(==============================================================)-->
+<!--(Document created with RoboEditor. )============================-->
+<!--(==============================================================)-->
+
+<head>
+
+<title>Sketchpad's Internal Mathematics</title>
+
+<!--(Meta)==========================================================-->
+
+<meta HTTP-EQUIV=Content-Type CONTENT="text/html; charset=windows-1252">
+<meta NAME=Template CONTENT="C:\WINDOWS\Desktop\FinalPrep4Help\GSP4_RefManTmplt.dot">
+<meta name=generator content="RoboHELP by eHelp Corporation - www.ehelp.com">
+<meta name=generator-major-version content=0.1>
+<meta name=generator-minor-version content=1>
+<meta name=filetype content=kadov>
+<meta name=filetype-version content=1>
+<meta name=page-count content=1>
+<meta name=layout-height content=1141>
+<meta name=layout-width content=633>
+<meta name=date content="09 27, 2001 3:25:07 PM">
+
+
+
+<style>
+<!--
+p.whs1 {font-size: large; margin-left: 0px; font-family: Arial, sans-serif;}
+p.whs2 {font-size: 11pt; margin-left: 0px; font-family: Arial, sans-serif;}
+p.whs3 {font-family: Arial, sans-serif;}
+p.whs4 {margin-left: 0.25in; margin-right: 0.25in; margin-top: 12pt; margin-bottom: 12pt; font-family: Arial, sans-serif;}
+p.whs5 {margin-left: 0px; font-family: Arial, sans-serif; font-size: 11pt;}
+p.whs6 {font-size: 9pt; margin-left: 0px; font-family: Arial, sans-serif;}
+
+--></style><script>
+<!--
+if (navigator.appName == "Netscape")
+{
+  var strNSS = "<style>";
+  strNSS += "p.whs1 {margin-left:1; }";
+  strNSS += "p.whs2 {margin-left:1; }";
+  strNSS += "p.whs4 {margin-left:1;margin-right:1; }";
+  strNSS += "p.whs5 {margin-left:1; }";
+  strNSS += "p.whs6 {margin-left:1; }";
+  strNSS +="</style>";
+  document.write(strNSS);
+}
+//-->
+</script><script language="javascript" title="WebHelpInlineScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+	origWidth = innerWidth;
+	origHeight = innerHeight;
+	onresize = reDo;
+}
+//-->
+</script><style>
+<!--
+  div.WebHelpPopupMenu {position:absolute; left:0px; top:0px; z-index:4; visibility:hidden;}
+  p.WebHelpNavBar {text-align:right;}
+-->
+</style><script src="../bsscnbar.js" language="JavaScript" title="WebHelpNavBarExtJs" ></script>
+</head>
+
+<!--(Body)==========================================================-->
+
+
+<body>
+
+<SCRIPT language="JavaScript" title="WebHelpNavBar">
+<!--
+gbstrRelHomePageURL="../SketchpadHelp.htm";
+if (parseInt(navigator.appVersion) >=3  && window.name.indexOf("BSSCPopup") == -1)
+{
+var strNvHome=""; var strNvBrowse=""; var strNvWebSearch="";
+if ((parseInt(navigator.appVersion) >= 3) && (typeof (BsscNavHasNavFrame) != "undefined") &&
+ (typeof(BsscNavIsList) == "undefined" || !BsscNavIsList())) 
+{
+  if (!BsscNavHasNavFrame()) {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavShow();return false;\">Show&nbsp;Contents</a>";
+  } else {
+    strNvHome  = "<a href=\"javascript:void(0);\" onclick=\"onBsscNavHide();return false;\">Hide&nbsp;Contents</a>";
+  }
+}
+if ((strNvHome.length != 0) || (strNvBrowse.length != 0) || (strNvWebSearch.length != 0)) {
+  document.write("<p id='NavBar' align='right' class=WebHelpNavBar><nobr><font size=1>");
+  if (strNvHome.length != 0) document.write(strNvHome);
+  if (strNvBrowse.length != 0) document.write(strNvBrowse);
+  if (strNvWebSearch.length != 0) document.write(strNvWebSearch);
+  document.write("</font>&nbsp;&nbsp;&nbsp;</nobr></p>");
+  }
+}
+//-->
+</SCRIPT>
+<p class=NAVBAR
+	style="margin-left: 0px;
+			font-style: italic;
+			font-size: 8pt;
+			font-family: Arial, sans-serif;"><a href="../Home.htm" style="font-style: italic;
+														font-size: 8pt;
+														font-family: Arial, sans-serif;"><span 
+ style="font-family: Arial, sans-serif;">Home</a>: <a href="../AdvancedTopics.htm" style="font-family: Arial, sans-serif;">Advanced 
+ Topics</a>: Sketchpad's Internal Mathematics</span></p>
+
+<p class="whs1"><b>Sketchpad’s Internal Mathematics</b></p>
+
+<p class="whs2">Sketchpad’s internal mathematics 
+ determine how the program computes and represents numbers, geometric figures, 
+ functions, and other mathematical quantities. This in turn determines 
+ how these objects appear graphically, numerically, or symbolically.</p>
+
+<p class="whs3"><span style="font-size: 11pt;"><FONT SIZE=3 style="font-size:11pt;">At 
+ the numeric level, Sketchpad represents point coordinates and other quantities 
+ using <i style="font-size: 11pt;">64-bit</i> <i style="font-size: 11pt;">floating-point 
+ arithmetic</i>. This standard representation for scientific computation 
+ allows your computer to represent a value with 14 to 16 significant digits 
+ of decimal precision over a wide range of magnitudes (roughly, as large 
+ as ±10<sup style="font-size: 11pt;">300</sup> and as small as ±10<sup 
+ style="font-size: 11pt;">–300</sup>). While this is very precise, it is 
+ not <i style="font-size: 11pt;">exact</i> in a mathematical sense. (For 
+ example, &#960; cannot be represented exactly with only 15 significant 
+ digits.) Sketchpad uses tuned algorithms to attempt to represent numbers 
+ as close to their exact value as possible, and to minimize the inevitable 
+ error introduced by calculating with only a finite number of significant 
+ digits. Nonetheless, you may witness numerical error effects in the least 
+ significant digits of numbers in sketches involving a lot of internal 
+ calculation. Regrettably, no computer or computer program can represent 
+ every number exactly: there are an infinite number of numbers, of course, 
+ and—at least today!—computers have only a finite amount of memory. Thus, 
+ while Sketchpad’s numeric calculations are generally reliable and can 
+ serve as the basis of a convincing argument or conjecture, a Sketchpad 
+ result should never be mistaken for constituting a mathematical proof.</FONT></span> 
+ </p>
+
+<p class="whs4">D<span style="font-size: 9pt;"><FONT SIZE=1 style="font-size:9pt;">on’t 
+ confuse the <i style="font-size: 9pt;">displayed</i> precision of a value 
+ with its internal <a HREF="../MenuFldr/EditMenuFldr/PreferencesFldr/UserTipAccuracy.htm">precision 
+ or accuracy</a>. When you display a value (such as a measurement), it 
+ appears only to the number of decimal places you choose in <b style="font-size: 9pt;"><a HREF="../MenuFldr/EditMenuFldr/Preferences.htm">Preferences</a></b> or 
+ <b style="font-size: 9pt;"><a HREF="../MenuFldr/EditMenuFldr/Properties.htm">Properties</a></b>. 
+ Internally, that number is represented to much greater precision, as described 
+ here.</FONT></span></p>
+
+<span style="font-family: Arial, sans-serif; font-size: 11pt;"><FONT SIZE=3 style="font-size:11pt;">At the graphical 
+ level, Sketchpad transforms its internal numeric representations into 
+ the shapes and positions that appear in your sketch window. For objects 
+ such as circles, points, and segments, the resulting images are as accurate 
+ as can be displayed on your computer screen. (When you print to a printer 
+ with higher resolution than your screen, you’ll see the images are even 
+ more accurate than their on-screen representations.) </FONT></span>
+
+<!--begin!kadov{{--><br><!--}}end!kadov--><!--kadov_tag{{<implicit_p>}}--><span 
+ style="font-family: Arial, sans-serif; font-size: 11pt;"><FONT SIZE=3 style="font-size:11pt;">However, for 
+ plotted functions and loci, Sketchpad displays only a visual approximation 
+ of the curve’s ideal mathematical shape. Primarily to maintain responsiveness 
+ when you’re dragging objects, Sketchpad employs the same technique to 
+ plot these objects as a person might use if plotting them by hand: it 
+ evaluates the ideal curve at a number of different positions (called samples), 
+ then plots the curve by interpolating between these known samples. The 
+ samples themselves are very accurate, but the interpolations may or may 
+ not be, depending on the ideal shape of the mathematical object. The <a HREF="../MenuFldr/EditMenuFldr/PropertiesFldr/PlotProperties.htm">Plot 
+ Properties panel</a> gives you control over how many samples Sketchpad 
+ uses to plot a function or a locus, as well as whether it displays that 
+ plot only as the (discrete) collection of accurate samples or by including 
+ the (continuous) interpolations between samples. If you consistently prefer 
+ a higher number of samples than Sketchpad uses by default, you can increase 
+ the default on the <a HREF="../MenuFldr/EditMenuFldr/AdvPrefsFldr/SamplingPrefs.htm">Sampling 
+ Preferences</a> panel. Also, while Sketchpad uses approximate interpolations 
+ for display purposes, be aware that it never relies on them for mathematical 
+ purposes. Thus, if you construct a point on a function plot or on a locus 
+ (or use the Calculator to evaluate a function at given values), that point’s 
+ coordinates (or function’s values) are always based on the exact curve 
+ or function and not on its visual approximation.</FONT></span>
+
+<p class="whs5">Finally, at the symbolic level, Sketchpad 
+ performs simple computer algebra to differentiate functions when you use 
+ the <b><a HREF="../MenuFldr/GraphMenuFldr/Derivative.htm" style="font-family: Arial, sans-serif; font-size: 11pt;">Derivative</a></b> 
+ command from the Graph menu. While these computed derivatives are generally 
+ reliable for graphing and evaluation purposes, they may not be exact. 
+ In particular, when differentiating intricate functions, Sketchpad may 
+ fail to simplify the result fully, introducing point discontinuities in 
+ the derivative; and Sketchpad does not compute domain restrictions on 
+ the derivative function. Use <b><a HREF="../MenuFldr/GraphMenuFldr/Derivative.htm" style="font-family: Arial, sans-serif; font-size: 11pt;">Derivative</a></b> 
+ to compute the slope of a function at an arbitrary point for graphing 
+ purposes or for mathematical constructions, but be sure to verify the 
+ result before using it as the basis of a mathematical proof.</p>
+
+<p class="whs6"><i>See also</i><a href="../MenuFldr/EditMenuFldr/PreferencesFldr/UserTipAccuracy.htm" style="font-family: Arial, sans-serif;"><br>
+Accuracy vs. Precision</a><a HREF="../MenuFldr/EditMenuFldr/PropertiesFldr/PlotProperties.htm" style="font-family: Arial, sans-serif;"><br>
+Plot Properties</a><a HREF="../MenuFldr/EditMenuFldr/AdvPrefsFldr/SamplingPrefs.htm" style="font-family: Arial, sans-serif;"><br>
+Sampling Preferences</a><a HREF="../MenuFldr/GraphMenuFldr/Derivative.htm" style="font-family: Arial, sans-serif;"><br>
+Derivative</a><a HREF="../MenuFldr/EditMenuFldr/PreferencesFldr/UnitsPreferences.htm" style="font-family: Arial, sans-serif;"><br>
+Unit Preferences</a></p>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+if ((parseInt(navigator.appVersion) >= 3) && (typeof(onBsscAutoSync) != "undefined") && (window.name.indexOf("BSSCPopup") == -1))
+	onBsscAutoSync();
+//-->
+</SCRIPT>
+</body>
+
+</html>

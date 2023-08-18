@@ -1,0 +1,1763 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="FrameName" value="bsscright">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Home">
+    <param name="Local" value="Home.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Elements">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Elements">
+      <param name="Local" value="Elements.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Documents">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Documents">
+        <param name="Local" value="ElementsFldr/Documents.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Document Windows">
+        <param name="Local" value="ElementsFldr/DocumentsFldr/DocWindows.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Document Pages">
+        <param name="Local" value="ElementsFldr/DocumentsFldr/DocPages.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Document Tools">
+        <param name="Local" value="ElementsFldr/DocumentsFldr/DocTools.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Script View of a Tool">
+        <param name="Local" value="ElementsFldr/DocumentsFldr/ScriptViewTool.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Objects">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Objects">
+        <param name="Local" value="ElementsFldr/Objects.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Object Attributes">
+        <param name="Local" value="ElementsFldr/ObjectsFldr/ObjectAttribute.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Object Relationships: Parents and Children">
+        <param name="Local" value="ElementsFldr/ObjectsFldr/ObjectRelations.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Points">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Points">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/Points.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Moving and Animating Points">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/PointsFldr/MovingPoints.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Splitting and Merging Points">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/PointsFldr/SplitMergePts.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Constructing Points">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/PointsFldr/ConstructPts.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using Points in Transformations">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/PointsFldr/UsePtsTransformatns.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Measuring Points">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/PointsFldr/MeasuringPts.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Path Objects">
+        <param name="Local" value="ElementsFldr/ObjectsFldr/PathObjects.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Segments, Rays, and Lines">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Segments, Rays, and Lines">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/Segments.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Constructing Straight Objects">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/SegRayLineFldr/ConstructStraights.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using Straight Objects">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/SegRayLineFldr/UsingStraights.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Measuring Straight Objects">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/SegRayLineFldr/MeasurStraights.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Circles and Arcs">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Circles and Arcs">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CirclesAndArcs.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Constructing Circles">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CirclesArcsFldr/ConstructCircles.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Constructing Arcs">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CirclesArcsFldr/ConstructArcs.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using Circles and Arcs">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CirclesArcsFldr/UseCircles.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Measuring Circles and Arcs">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CirclesArcsFldr/MeasuringCircles.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Polygons and Other Interiors">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Polygons and Other Interiors">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/PolygonsInteriors.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Constructing Interiors">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/PolygonsFldr/ConstructInteriors.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using Interiors">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/PolygonsFldr/UsingInteriors.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Measuring Interiors">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/PolygonsFldr/MeasuringInteriors.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Measurements, Calculations, and Parameters">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Measurements, Calculations, and Parameters">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/MeasuresCalculatns.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Measurements">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/MeasCalcParamFldr/Measurements.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Calculations">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/MeasCalcParamFldr/Calculations.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Parameters">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/MeasCalcParamFldr/Parameters.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using Values">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/MeasCalcParamFldr/UsingValues.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Coordinate Systems and Axes">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Coordinate Systems and Axes">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CoordSystemsAxes.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Modifying a Coordinate System">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CoordSystemsFldr/ModifyCoordinate.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using Coordinate Systems">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CoordSystemsFldr/UseCoordinateSyst.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Multiple Coordinate Systems">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CoordSystemsFldr/MultipleCoordinate.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="How To Construct a Geoboard">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CoordSystemsFldr/HowToGeoboard.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Loci">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Loci">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/Loci.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Constructing a Locus">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/LociFldr/ConstructLocus.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Modifying a Locus">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/LociFldr/ModifyingLocus.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Functions and Function Plots">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Functions and Function Plots">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/FunctionsFnctnPlots.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Functions">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/FunctionsPlotsFldr/Functions.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Function Plots">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/FunctionsPlotsFldr/FunctionPlots.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Iterations and Iterated Images">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Iterations and Iterated Images">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/Iterations.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Creating Iterations">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/IterationsFldr/CreateIterations.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Working with Iterations">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/IterationsFldr/WorkWithIterations.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Tables">
+        <param name="Local" value="ElementsFldr/ObjectsFldr/Tables.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Captions">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Captions">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/Captions.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Working with Captions">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CaptionsFldr/WorkWithCaptions.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Composite Captions">
+          <param name="Local" value="ElementsFldr/ObjectsFldr/CaptionsFldr/CompositeCaptions.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Action Buttons">
+        <param name="Local" value="ElementsFldr/ObjectsFldr/ActionButtons.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Pictures">
+        <param name="Local" value="ElementsFldr/ObjectsFldr/Pictures.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Motion Controller">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Motion Controller">
+        <param name="Local" value="ElementsFldr/MotionController.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Motion Controller Elements">
+        <param name="Local" value="ElementsFldr/MotionControllerFldr/MotionControlParts.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Using the Motion Controller">
+        <param name="Local" value="ElementsFldr/MotionControllerFldr/UseMotionControl.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Principles of Animation">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Principles of Animation">
+          <param name="Local" value="ElementsFldr/MotionControllerFldr/PrinciplesAnimation.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Animation of an Independent Point">
+          <param name="Local" value="ElementsFldr/MotionControllerFldr/PrinciplesAnimatFldr/AnimatIndependentPt.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Animation of a Point on Path">
+          <param name="Local" value="ElementsFldr/MotionControllerFldr/PrinciplesAnimatFldr/AnimatPointPath.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Animation of a Parameter">
+          <param name="Local" value="ElementsFldr/MotionControllerFldr/PrinciplesAnimatFldr/AnimatParameter.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Motion Direction">
+          <param name="Local" value="ElementsFldr/MotionControllerFldr/PrinciplesAnimatFldr/MotionDirection.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Motion Speed">
+          <param name="Local" value="ElementsFldr/MotionControllerFldr/PrinciplesAnimatFldr/MotionSpeed.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Once-Only Motion">
+          <param name="Local" value="ElementsFldr/MotionControllerFldr/PrinciplesAnimatFldr/OnceOnlyMotion.htm">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Calculator">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Calculator">
+        <param name="Local" value="ElementsFldr/Calculator.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Parts of the Calculator">
+        <param name="Local" value="ElementsFldr/CalculatorFldr/PartsCalculator.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="How To Use Signum to Construct a Piecewise Function">
+        <param name="Local" value="ElementsFldr/CalculatorFldr/HowToSignum.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Inserting Values and Functions from the Sketch">
+        <param name="Local" value="ElementsFldr/CalculatorFldr/InsertValues.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Inserting a New Parameter">
+        <param name="Local" value="ElementsFldr/CalculatorFldr/InsertingNewParam.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Text Palette">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Text Palette">
+        <param name="Local" value="ElementsFldr/TextPalette.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Showing, Hiding, and Moving the Text Palette">
+        <param name="Local" value="ElementsFldr/TextPaletteFldr/ShowMoveTextPal.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Using the Text Palette">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using the Text Palette">
+          <param name="Local" value="ElementsFldr/TextPaletteFldr/UseTextPal.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using the Text Palette While Editing a Caption">
+          <param name="Local" value="ElementsFldr/TextPaletteFldr/UseTextPaletteFldr/TextPalEditCaption.htm">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Script View">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Script View">
+        <param name="Local" value="ElementsFldr/ScriptView.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Tool Comment">
+        <param name="Local" value="ElementsFldr/ScriptViewFldr/ToolComment.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Object List">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Object List">
+          <param name="Local" value="ElementsFldr/ScriptViewFldr/ObjectList.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Given Objects">
+          <param name="Local" value="ElementsFldr/ScriptViewFldr/ObjectListFldr/GivenObjects.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Steps">
+          <param name="Local" value="ElementsFldr/ScriptViewFldr/ObjectListFldr/Steps.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Working with the Object List">
+          <param name="Local" value="ElementsFldr/ScriptViewFldr/ObjectListFldr/WorkObjectList.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Using a Custom Tool with the Script View">
+        <param name="Local" value="ElementsFldr/ScriptViewFldr/UseCustomScriptView.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Applying the Script View Step-by-Step">
+        <param name="Local" value="ElementsFldr/ScriptViewFldr/ApplyScriptViewStep.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Printing a Script View Construction">
+        <param name="Local" value="ElementsFldr/ScriptViewFldr/PrintScriptView.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Color Picker">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Color Picker">
+        <param name="Local" value="ElementsFldr/ColorPicker.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Macintosh Color Picker">
+        <param name="Local" value="ElementsFldr/ColorPickerFldr/MacintoshColorPick.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Windows Color Picker">
+        <param name="Local" value="ElementsFldr/ColorPickerFldr/WindowsColorPicker.htm">
+      </object>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Toolbox Reference">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Toolbox Reference">
+      <param name="Local" value="ToolboxReference.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Overview of the Toolbox">
+      <param name="Local" value="ToolboxFldr/OverviewToolbox.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Selection Arrow Tools">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Selection Arrow Tools">
+        <param name="Local" value="ToolboxFldr/SelectionArrowTls.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Selecting and Deselecting Objects">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Selecting and Deselecting Objects">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/SelectDeselect.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Selecting Objects Using a Selection Rectangle">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/SelectDeselectFldr/SelectionRectangle.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Selecting Overlapping Objects">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/SelectDeselectFldr/SelectOverlapping.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Dragging Objects">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Dragging Objects">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/DraggingObjects.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Transformations and Dragging">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/DraggingFldr/TransformDrag.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Translate Arrow Tool">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/DraggingFldr/TranslateArrowTl.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Rotate Arrow Tool">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/DraggingFldr/RotateArrowTl.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Dilate Arrow Tool">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/DraggingFldr/DilateArrowTl.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="How To Zoom In and Out on a Sketch">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/DraggingFldr/HowToZoom.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Other Arrow Actions">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Other Arrow Actions">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/OtherArrowActions.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Arrow Tool Double-Click Shortcuts">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/OtherArrowFldr/ArrowDoubleClick.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Arrow Tool Text Shortcuts">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/OtherArrowFldr/ArrowTextShortcuts.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Constructing a Point of Intersection">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/OtherArrowFldr/ConstructPtIntersect.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Pressing Action Buttons">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/OtherArrowFldr/PressActionButtons.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Changing an Axis' Scale">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/OtherArrowFldr/ChangingAxis.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Resizing Pictures">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/OtherArrowFldr/ResizingPictures.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Resizing Function Plots and Loci">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/OtherArrowFldr/ResizeFunctionLoci.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Changing Table Rows">
+          <param name="Local" value="ToolboxFldr/SelectnArrTlFldr/OtherArrowFldr/ChangingTableRows.htm">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Point Tool">
+      <param name="Local" value="ToolboxFldr/PointTool.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Compass Tool">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Compass Tool">
+        <param name="Local" value="ToolboxFldr/CompassTool.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Constructing a Circle">
+        <param name="Local" value="ToolboxFldr/CompassTlFldr/ConstructCircle.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Attaching a Circle to an Existing Object">
+        <param name="Local" value="ToolboxFldr/CompassTlFldr/AttachCircle.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Straightedge Tools">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Straightedge Tools">
+        <param name="Local" value="ToolboxFldr/StraightedgeTools.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="To Construct a Segment">
+        <param name="Local" value="ToolboxFldr/StraightedgeFldr/ConstructSegment.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="To Construct a Ray">
+        <param name="Local" value="ToolboxFldr/StraightedgeFldr/ConstructRay.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="To Construct a Line">
+        <param name="Local" value="ToolboxFldr/StraightedgeFldr/ConstructLine.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Attaching a Straight Object to an Existing Object">
+        <param name="Local" value="ToolboxFldr/StraightedgeFldr/AttachStraight.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Constructing Straight Objects at Specific Angles">
+        <param name="Local" value="ToolboxFldr/StraightedgeFldr/ConstructStraightAtAngle.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Text Tool">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Text Tool">
+        <param name="Local" value="ToolboxFldr/TextTool.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Using the Text Tool">
+        <param name="Local" value="ToolboxFldr/TextToolFldr/UseTextTool.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Showing and Hiding Labels">
+        <param name="Local" value="ToolboxFldr/TextToolFldr/ShowHideLabels.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Positioning and Changing Labels">
+        <param name="Local" value="ToolboxFldr/TextToolFldr/PositionLabels.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Creating Captions">
+        <param name="Local" value="ToolboxFldr/TextToolFldr/CreatingCaptions.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Editing Captions">
+        <param name="Local" value="ToolboxFldr/TextToolFldr/EditingCaptions.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Resizing Captions">
+        <param name="Local" value="ToolboxFldr/TextToolFldr/ResizingCaptions.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Custom Tools">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Custom Tools">
+        <param name="Local" value="ToolboxFldr/CustomTools.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Overview of Custom Tools">
+        <param name="Local" value="ToolboxFldr/CustomToolsFldr/OverviewCustom.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Custom Tools Menu">
+        <param name="Local" value="ToolboxFldr/CustomToolsFldr/CustomToolsMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Using a Custom Tool">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using a Custom Tool">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/UsingCustomTool.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Givens and Results of a Tool">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/UsingCustomFldr/GivensResultsTool.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Matching Given Objects">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/UsingCustomFldr/MatchingGiven.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Making a Custom Tool">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Making a Custom Tool">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/MakingCustomTl.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Specifying the Results of a Tool">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/MakingCustomFldr/SpecifyResults.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Managing Custom Tools">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/MakingCustomFldr/ManageCustom.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Showing or Hiding the Script View">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/MakingCustomFldr/ShowHideScript.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="How To Make a Perpendicular Bisector Tool">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/MakingCustomFldr/HowToBisector.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Tool Folder">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Tool Folder">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/ToolFolder.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Creating a Tool Folder">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/ToolFolderFldr/CreateToolFldr.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Storing a Tool in the Tool Folder">
+          <param name="Local" value="ToolboxFldr/CustomToolsFldr/ToolFolderFldr/StoreTool.htm">
+        </object>
+        </ul>
+      </ul>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Menu Reference">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Menu Reference">
+      <param name="Local" value="MenuReference.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="File Menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="File Menu">
+        <param name="Local" value="MenuFldr/FileMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="New Sketch">
+        <param name="Local" value="MenuFldr/FileMenuFldr/NewSketch.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Open">
+        <param name="Local" value="MenuFldr/FileMenuFldr/Open.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Save">
+        <param name="Local" value="MenuFldr/FileMenuFldr/Save.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Save As">
+        <param name="Local" value="MenuFldr/FileMenuFldr/SaveAs.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Close">
+        <param name="Local" value="MenuFldr/FileMenuFldr/Close.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Document Options">
+        <param name="Local" value="MenuFldr/FileMenuFldr/DocumentOptions.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Page Setup">
+        <param name="Local" value="MenuFldr/FileMenuFldr/PageSetup.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Print Preview">
+        <param name="Local" value="MenuFldr/FileMenuFldr/PrintPreview.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Print">
+        <param name="Local" value="MenuFldr/FileMenuFldr/Print.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Quit">
+        <param name="Local" value="MenuFldr/FileMenuFldr/Quit.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Edit Menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Edit Menu">
+        <param name="Local" value="MenuFldr/EditMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Undo">
+        <param name="Local" value="MenuFldr/EditMenuFldr/Undo.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Redo">
+        <param name="Local" value="MenuFldr/EditMenuFldr/Redo.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Cut">
+        <param name="Local" value="MenuFldr/EditMenuFldr/Cut.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Copy">
+        <param name="Local" value="MenuFldr/EditMenuFldr/Copy.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Paste">
+        <param name="Local" value="MenuFldr/EditMenuFldr/Paste.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Clear">
+        <param name="Local" value="MenuFldr/EditMenuFldr/Clear.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Action Buttons">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Action Buttons">
+          <param name="Local" value="MenuFldr/EditMenuFldr/ActionButton.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Hide/Show Button">
+          <param name="Local" value="MenuFldr/EditMenuFldr/ActionButtonFldr/HideShowButton.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Animation Button">
+          <param name="Local" value="MenuFldr/EditMenuFldr/ActionButtonFldr/AnimationButton.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Movement Button">
+          <param name="Local" value="MenuFldr/EditMenuFldr/ActionButtonFldr/MovementButton.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Presentation Button">
+          <param name="Local" value="MenuFldr/EditMenuFldr/ActionButtonFldr/PresentationButton.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Link Button">
+          <param name="Local" value="MenuFldr/EditMenuFldr/ActionButtonFldr/LinkButton.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Scroll Button">
+          <param name="Local" value="MenuFldr/EditMenuFldr/ActionButtonFldr/ScrollButton.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Select All">
+        <param name="Local" value="MenuFldr/EditMenuFldr/SelectAll.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Select Parents">
+        <param name="Local" value="MenuFldr/EditMenuFldr/SelectParents.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Select Children">
+        <param name="Local" value="MenuFldr/EditMenuFldr/SelectChildren.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Split/Merge">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Split/Merge">
+          <param name="Local" value="MenuFldr/EditMenuFldr/Split.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Splitting a Point from Its Parent">
+          <param name="Local" value="MenuFldr/EditMenuFldr/SplitMergeFldr/SplitPtParent.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Splitting a Point Apart">
+          <param name="Local" value="MenuFldr/EditMenuFldr/SplitMergeFldr/SplitPtApart.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Merging Two Points">
+          <param name="Local" value="MenuFldr/EditMenuFldr/SplitMergeFldr/MergeTwoPts.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Merging a Point to a Path">
+          <param name="Local" value="MenuFldr/EditMenuFldr/SplitMergeFldr/MergePtPath.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Merging Text">
+          <param name="Local" value="MenuFldr/EditMenuFldr/SplitMergeFldr/MergingText.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Splitting Merged Text">
+          <param name="Local" value="MenuFldr/EditMenuFldr/SplitMergeFldr/SplittingMergedTxt.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="How To Use Split and Merge to Explore Constructions">
+          <param name="Local" value="MenuFldr/EditMenuFldr/SplitMergeFldr/HowToSplitMerge.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Edit Definition">
+        <param name="Local" value="MenuFldr/EditMenuFldr/EditDefinition.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Properties">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/Properties.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Object Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/ObjectProperties.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Label Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/LabelProperties.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Value Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/ValueProperties.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Plot Properties">
+        </object>
+        <ul>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Plot Properties">
+            <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/PlotProperties.htm">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Plot Properties for a Locus">
+            <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/PlotProptsFldr/PlotPropLocus.htm">
+          </object>
+          <li><object type="text/sitemap">
+            <param name="Name" value="Plot Properties for a Function Plot">
+            <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/PlotProptsFldr/PlotPropFunction.htm">
+          </object>
+          </ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Parameter Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/ParameterProps.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Table Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/Table_Properties.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Hide/Show Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/HideShowProps.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Animate Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/AnimateProps.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Move Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/MoveProperties.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Presentation Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/PresentProps.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Link Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/LinkProperties.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Scroll Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/ScrollProperties.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Iteration Properties">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PropertiesFldr/IterationProps.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Preferences">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Preferences">
+          <param name="Local" value="MenuFldr/EditMenuFldr/Preferences.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Units Preferences">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PreferencesFldr/UnitsPreferences.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="User Tip: Accuracy vs. Precision">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PreferencesFldr/UserTipAccuracy.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Color Preferences">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PreferencesFldr/ColorPreferences.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Text Preferences">
+          <param name="Local" value="MenuFldr/EditMenuFldr/PreferencesFldr/TextPreferences.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Advanced Preferences">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Advanced Preferences">
+          <param name="Local" value="MenuFldr/EditMenuFldr/AdvancedPrefs.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Export Preferences">
+          <param name="Local" value="MenuFldr/EditMenuFldr/AdvPrefsFldr/ExportPrefs.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sampling Preferences">
+          <param name="Local" value="MenuFldr/EditMenuFldr/AdvPrefsFldr/SamplingPrefs.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="System Preferences">
+          <param name="Local" value="MenuFldr/EditMenuFldr/AdvPrefsFldr/SystemPrefs.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Editing the Color Menu in Windows">
+          <param name="Local" value="MenuFldr/EditMenuFldr/AdvPrefsFldr/EditColorMenuWin.htm">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Display Menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Display Menu">
+        <param name="Local" value="MenuFldr/DisplayMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Line Width">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/LineWidth.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Color">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Color">
+          <param name="Local" value="MenuFldr/DisplayMenuFldr/Color.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Parametric Color">
+          <param name="Local" value="MenuFldr/DisplayMenuFldr/ColorFldr/ParametricColor.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Other Color">
+          <param name="Local" value="MenuFldr/DisplayMenuFldr/ColorFldr/OtherColor.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Text">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/Text.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Hide Objects">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/HideObjects.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show All Hidden">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/ShowAllHidden.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="How To Show Just One Hidden Object">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/HowToShowJustOne.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show/Hide Labels">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/ShowHideLabelCmd.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Label Objects">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/LabelObjects.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Trace">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/Trace.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Erase Traces">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/EraseTraces.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Animate">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/Animate.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Increase Speed/Decrease Speed">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/IncreaseSpeed.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Stop Animation">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/StopAnimation.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show/Hide Text Palette">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/ShowHideTxtPal.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show/Hide Motion Controller">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/ShowHideMotionCont.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show/Hide Toolbox">
+        <param name="Local" value="MenuFldr/DisplayMenuFldr/ShowHideToolbox.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Construct Menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Construct Menu">
+        <param name="Local" value="MenuFldr/ConstructMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Using the Construct Menu">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/UseConstructMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Point On Object">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/PointOnObject.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Midpoint">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/Midpoint.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Intersection">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/Intersection.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Segment, Ray, and Line">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/Segment.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Parallel Line">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/ParallelLine.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Perpendicular Line">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/PerpendicularLine.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Angle Bisector">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/AngleBisector.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Circle By Center+Point">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/CircleByCenter.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Circle By Center+Radius">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/CircleCenterRadius.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Arc On Circle">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/ArcOnCircle.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Arc Through 3 Points">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/ArcThruPts.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Interior">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Interior">
+          <param name="Local" value="MenuFldr/ConstructMenuFldr/Interior.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Polygon Interior">
+          <param name="Local" value="MenuFldr/ConstructMenuFldr/InteriorFldr/PolygonInterior.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Circle Interior">
+          <param name="Local" value="MenuFldr/ConstructMenuFldr/InteriorFldr/CircleInterior.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Arc Sector Interior">
+          <param name="Local" value="MenuFldr/ConstructMenuFldr/InteriorFldr/ArcSectorInterior.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Arc Segment Interior">
+          <param name="Local" value="MenuFldr/ConstructMenuFldr/InteriorFldr/ArcSegInterior.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Locus">
+        <param name="Local" value="MenuFldr/ConstructMenuFldr/Locus.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Transform Menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Transform Menu">
+        <param name="Local" value="MenuFldr/TransformMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mark Commands">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/MarkCommands.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mark Center">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/MarkCenter.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mark Mirror">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/MarkMirror.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mark Angle">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/MarkAngle.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mark Ratio/Mark Segment Ratio/Mark Scale Factor">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Mark Ratio/Mark Segment Ratio/Mark Scale Factor">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/MarkRatio.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Marking a Ratio Using Two Segments">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/MarkRatioFldr/RationTwoSegs.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Marking a Scale Factor Using a Measurement, Parameter, or Calculation">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/MarkRatioFldr/RationThreePts.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Marking a Ratio Using Three Collinear Points">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/MarkRatioFldr/ScaleFactorMeas.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mark Vector">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/MarkVector.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mark Distance">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/MarkDistance.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Translate">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Translate">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/Translate.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Polar Translation Vector">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/TranslateFldr/PolarTranslation.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Rectangular Translation Vector">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/TranslateFldr/RectangularVector.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Marked Translation Vector">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/TranslateFldr/MarkedVector.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="How To Construct a Segment of Fixed Length">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/TranslateFldr/HowToSegmentFixed.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Rotate">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/Rotate.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="How To Construct an Angle of Fixed Measure">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/HowToAngleFixed.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Dilate">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/Dilate.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reflect">
+        <param name="Local" value="MenuFldr/TransformMenuFldr/Reflect.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Iterate">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Iterate">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/Iterate.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Iterating by Example">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/IteratingExample.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using the Iterate Dialog Box">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/UseIterateDialog.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Display Options">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/DisplayOptions.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Structure Options">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/StructureOptions.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Multiple Iteration Maps">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/MultiIterationMaps.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="How To Construct a Sierpinski Gasket">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/HowToSierpinski.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Tables of Iterated Values">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/Tables_Iterated_Values.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Random Iterated Points">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/RandIteratedPts.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Parametric Depth">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/ParametricDepth.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Terminal Point">
+          <param name="Local" value="MenuFldr/TransformMenuFldr/IterateFldr/TerminalPoint.htm">
+        </object>
+        </ul>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Measure Menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Measure Menu">
+        <param name="Local" value="MenuFldr/MeasureMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Length">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Length.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Distance">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Distance.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Perimeter">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Perimeter.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Circumference">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Circumference.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Angle">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Angle.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Area">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Area.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Arc Angle">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Arc_Angle.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Arc Length">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/ArcLength.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Radius">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Radius.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ratio">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Ratio.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="How To Construct a Slider">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/HowToSlider.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Calculate">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Calculate.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Coordinates">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Coordinates.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Abscissa (x)">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Abscissa.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Ordinate (y)">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Ordinate.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Coordinate Distance">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/CoordDistance.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Slope">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Slope.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Equation">
+        <param name="Local" value="MenuFldr/MeasureMenuFldr/Equation.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Graph Menu">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Graph Menu">
+        <param name="Local" value="MenuFldr/GraphMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Define Coordinate System">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/DefineCoordSystem.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Mark Coordinate System">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/MarkCoordSystem.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Grid Form">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/GridForm.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Show Grid">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/ShowGrid.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Snap Points">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/SnapPoints.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Plot Points/Plot Table Data/Plot As (x, y)/Plot As (r, theta)">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/PlotPoints.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="New Parameter">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/NewParameter.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="New Function">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/NewFunction.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Plot Function/Plot New Function">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/PlotFunction.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Derivative">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/Derivative.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Tabulate">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/Tabulate.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Add Table Data">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/Add_Table_Data.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Remove Table Data">
+        <param name="Local" value="MenuFldr/GraphMenuFldr/Remove_Table_Data.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Context Menu">
+      <param name="Local" value="MenuFldr/ContextMenu.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Help Menu">
+      <param name="Local" value="MenuFldr/HelpMenu.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Window Menu">
+      <param name="Local" value="MenuFldr/WindowMenu.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Keyboard Reference">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Keyboard Reference">
+      <param name="Local" value="KeyboardReference.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Keyboard Menu Command Shortcuts">
+      <param name="Local" value="KeyboardFldr/Shortcuts.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="The Esc Key">
+      <param name="Local" value="KeyboardFldr/TheEscKey.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Other Special Keys">
+      <param name="Local" value="KeyboardFldr/OtherSpecialKeys.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Advanced Topics">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Advanced Topics">
+      <param name="Local" value="AdvancedTopics.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Tips for Experts">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Tips for Experts">
+        <param name="Local" value="AdvTopicsFldr/TipsForExperts.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="About Sketchpad's Menu Structure">
+        <param name="Local" value="AdvTopicsFldr/TipsExpertsFldr/SketchpadMenu.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Selection Techniques">
+        <param name="Local" value="AdvTopicsFldr/TipsExpertsFldr/SelectionTechniques.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Using Shortcuts">
+        <param name="Local" value="AdvTopicsFldr/TipsExpertsFldr/UsingShortcuts.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Expressions in Dialog Boxes">
+        <param name="Local" value="AdvTopicsFldr/TipsExpertsFldr/ExpressionsDialogs.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Command-Line Flags for Sketchpad (Windows Version)">
+        <param name="Local" value="AdvTopicsFldr/TipsExpertsFldr/CommandLineFlags.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Advanced Tool Topics">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Advanced Tool Topics">
+        <param name="Local" value="AdvTopicsFldr/AdvToolTopics.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Automatically Matching a Given Object">
+        <param name="Local" value="AdvTopicsFldr/AdvToolFldr/AutoMatchGiven.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Generating Specific Labels">
+        <param name="Local" value="AdvTopicsFldr/AdvToolFldr/SpecificLabels.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Alternate Tool Folders">
+        <param name="Local" value="AdvTopicsFldr/AdvToolFldr/AlternateToolFolders.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Advanced Text Topics">
+      <param name="Local" value="AdvTopicsFldr/AdvText.htm">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Advanced Text Topics">
+        <param name="Local" value="AdvTopicsFldr/AdvText.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Merging Text with a Custom Template">
+        <param name="Local" value="AdvTopicsFldr/AdvTextFldr/MergeTxtCustTmplt.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Merging Text to a Point">
+        <param name="Local" value="AdvTopicsFldr/AdvTextFldr/MergeTxtToPt.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Labeling Objects with a Custom Sequence">
+        <param name="Local" value="AdvTopicsFldr/AdvTextFldr/CustomLabelSequence.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Advanced Graphics Export">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Advanced Graphics Export">
+        <param name="Local" value="AdvTopicsFldr/AdvGraphicsExprt.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Screen Captures">
+        <param name="Local" value="AdvTopicsFldr/AdvGraphicsFldr/ScreenCaptures.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Copying and Pasting Graphics">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Copying and Pasting Graphics">
+          <param name="Local" value="AdvTopicsFldr/AdvGraphicsFldr/CopyingGraphics.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Cropping">
+          <param name="Local" value="AdvTopicsFldr/AdvGraphicsFldr/CopyGraphicsFldr/Cropping.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Using Export Preferences">
+          <param name="Local" value="AdvTopicsFldr/AdvGraphicsFldr/CopyGraphicsFldr/UseExportPrefs.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Metafile Export">
+        <param name="Local" value="AdvTopicsFldr/AdvGraphicsFldr/Metafile_Export.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="PostScript and EPS Files">
+        <param name="Local" value="AdvTopicsFldr/AdvGraphicsFldr/PostScriptEPS.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="JavaSketchpad and Web-Based Dynamic Geometry">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="JavaSketchpad and Web-Based Dynamic Geometry">
+        <param name="Local" value="AdvTopicsFldr/JavaSketchpad.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Web Publishing Overview">
+        <param name="Local" value="AdvTopicsFldr/JavaFldr/WebOverview.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Essential JavaSketchpad Folder Structure">
+        <param name="Local" value="AdvTopicsFldr/JavaFldr/JavaFolder.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Creating a JavaSketchpad Web Page">
+        <param name="Local" value="AdvTopicsFldr/JavaFldr/CreateJava.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="What Can Go Wrong">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="What Can Go Wrong">
+          <param name="Local" value="AdvTopicsFldr/JavaFldr/WhatCanGoWrong.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Unsupported Objects">
+          <param name="Local" value="AdvTopicsFldr/JavaFldr/GoWrongFldr/UnsupportedObjects.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="No Preview Offered">
+          <param name="Local" value="AdvTopicsFldr/JavaFldr/GoWrongFldr/NoPreviewOffered.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Non-Java Browsers">
+          <param name="Local" value="AdvTopicsFldr/JavaFldr/GoWrongFldr/NonJavaBrowsers.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Java Exception or Error Occurs">
+          <param name="Local" value="AdvTopicsFldr/JavaFldr/GoWrongFldr/JavaException.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Appearance Discrepancies">
+          <param name="Local" value="AdvTopicsFldr/JavaFldr/GoWrongFldr/AppearDiscrepancies.htm">
+        </object>
+        </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Modifying and Publishing Your Pages">
+        <param name="Local" value="AdvTopicsFldr/JavaFldr/ModifyYourPages.htm">
+      </object>
+      </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Sketchpad's Internal Mathematics">
+      <param name="Local" value="AdvTopicsFldr/SketchPadMath.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Miscellaneous Topics">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Miscellaneous Topics">
+      <param name="Local" value="Miscellaneous_Topics.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Technical Support">
+      <param name="Local" value="MiscFldr/TechSupport.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="License">
+      <param name="Local" value="MiscFldr/License.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Credits">
+      <param name="Local" value="MiscFldr/Credits.htm">
+    </object>
+    </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="What's New">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="What's New">
+      <param name="Local" value="WhatNew.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Changes Since Release 4.00">
+      <param name="Local" value="WhatsNewFldr/Since4.00.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Changes Since Reference Manual Was Printed">
+      <param name="Local" value="WhatsNewFldr/ChangesAfterRefMan.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Sample Documents">
+      <param name="Local" value="WhatsNewFldr/SampleDocs.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="If You've Used Version 3">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="If You've Used Version 3">
+        <param name="Local" value="WhatsNewFldr/ForUsersOfV3.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="New Features in Version 4">
+        <param name="Local" value="WhatsNewFldr/V3UsersFldr/NewFeaturesV4.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reusing Your Version 3 Work">
+        <param name="Local" value="WhatsNewFldr/V3UsersFldr/ReusingV3Work.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Changes Since Version 3">
+        <param name="Local" value="WhatsNewFldr/V3UsersFldr/ChangesSinceV3.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Using Custom Tools for Custom Transformations">
+        <param name="Local" value="WhatsNewFldr/V3UsersFldr/CustomToolsTransform.htm">
+      </object>
+      </ul>
+    </ul>
+</ul>
+</html>
