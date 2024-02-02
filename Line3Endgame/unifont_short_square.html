@@ -19,12 +19,16 @@
             h1 {
                 font-weight: normal;
             }
+            .frame {
+                border: 1px solid blue;
+                width: 1440px;
+                height: 1440px;
+            }
             .box {
                 position: relative;
                 display: block;
                 width: 1440px;
                 height: 1440px;
-                border: 0 solid blue;
                 box-sizing: border-box;
             }
             .highlight {
@@ -49,19 +53,25 @@
 
             .title {
                 position: absolute;
+                display: block;
                 left: 0px;
                 right: 0px;
-                font-size: 72pt;
+                font-size: 48pt;
                 text-align: left;
             }
-            .comments{
+            .image {
                 position: absolute;
+                width: 1440px;
+                top:371px;
+            }
+            .comments{
                 display: block;
-                font-size: 36pt;
-                color: #009EDF;
+                font-size: 72pt;
+                color: white;
+                font-family: 'Broadway'
             }
             .comments > * {
-                font-size: 36pt;
+                font-size: 72pt;
             }
             * {
                 font-family: 'Unifont', 'Unifont Upper';
@@ -75,18 +85,75 @@
     </head>
     <body>
         <h1>Canvas</h1>
-            <div class="box">
-                <img src="TTC_Subway Map_2023-07-black.png" style="position:absolute" />
+            <div class="frame">
+                <div class="box">
+                    <div class="title" style="color:white; border-top:#009EDF 48pt solid"></div>
+                    <div class="title" style="color:white">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        &nbsp;Exactly one month after the fateful<br/>
+                        &nbsp;derailment, the TTC announced that <br/>
+                        &nbsp;the SRT could not go on any further.
+                        <br/><br/>
+                        &nbsp;The SRT has been in existence for<br/>
+                        &nbsp;38 years, already a decade beyond<br/>
+                        &nbsp;its expected lifespan.
+                        <br/><br/>
+                        &nbsp;Line 2 will replace the SRT in 2030.<br/><br/>
+                        &nbsp;Or maybe.
+                    </div>
+                    <!--
+                    <img class="image" src="TTC_Subway Map_2023-07-black.png" style="position:absolute" />
+                    <table style="position: absolute; top: 1150px;">
 
-
-                <div class="title" style="color:white; border-top:#009EDF 48pt solid"></div>
-                <div class="title" style="color:white">
-                    <br/>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This could be&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the end of Line 3&hellip;&nbsp;&nbsp;&nbsp;&nbsp;
-                </div>
-                <div class="title" style="color:white; top: 1069px; ">
-                    Default Text
+                                                &nbsp;On Monday July 24th of 2023, the rear<br/>
+                        &nbsp;car of an SRT train separated from the rest<br/>
+                        &nbsp;of the trains and derailed just after <br/>
+                        &nbsp;departing Ellesmere southbound.
+                        <br/><br/>
+                        &nbsp;There are just over four months (130 days)<br/>
+                        &nbsp;remaining until the announced closure.<br/>
+                        &nbsp;The daily weekday ridership numbered<br/>
+                        &nbsp;around 17600.
+                        <br/><br/>
+                        &nbsp;An investigation of three weeks was<br/>
+                        &nbsp;conducted to determine whether the SRT will<br/>
+                        &nbsp;resume during the last months of the line's<br/>
+                        &nbsp;existance. Shuttle busses will run between <br/>
+                        &nbsp;Kennedy and McCowan.<br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        &nbsp;There were just about four months<br/>
+                        &nbsp;remaining (130 days exactly) until the<br/>
+                        &nbsp;announced closure. The daily weekday <br/>
+                        &nbsp;ridership numbered around only 17600.
+                        <br/><br/>
+                        &nbsp;TTCRiders conducted a memorial just <br/>
+                        &nbsp;one day prior to this final decision.
+                        <tr>
+                            <td style="width: 300px"></td>
+                            <td style="width: 120px">
+                                <div class="comments" style="color:white;">*</div>
+                            </td>
+                            <td style="width: 1020px">
+                                <div class="comments" style="color:white;">22 Mar. 1985</div>
+                            </td>
+                        </tr>
+                        <tr >
+                            <td></td>
+                            <td>
+                                <div class="comments" style="color:white;">†</div>
+                            </td>
+                            <td>
+                                <div class="comments" style="color:white;">24 Jul. 2023</div>
+                            </td>
+                        </tr>
+                    </table>
+                    -->
                 </div>
             </div>
     </body>

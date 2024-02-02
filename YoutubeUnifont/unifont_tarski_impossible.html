@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Canvas</title>
+        <style>
+            @page {
+                size: 8.5in 11in;
+                margin-left: 0.75in;
+                margin-right: 0.75in;
+                margin-top: 0.5in;
+                margin-bottom: 0.0in;
+                marks: cross;
+            }
+            body {
+                margin: 0.25in;
+                background-color: black;
+            }
+            h1 {
+                font-weight: normal;
+            }
+            .box {
+                position: relative;
+                display: block;
+                width: 1080px;
+                height: 1080px;
+                border: 12px solid black;
+                box-sizing: border-box;
+            }
+            .highlight {
+                background: repeating-linear-gradient(
+                    45deg, 
+                    transparent,
+                    transparent 14px,
+                    #007 14px,
+                    #007 16px
+                ),
+                repeating-linear-gradient(
+                    -45deg, 
+                    transparent,
+                    transparent 14px,
+                    #007 14px,
+                    #007 16px
+                );
+            }
+            .bordered {
+                border: 1px solid red;
+            }
+
+            .title {
+                position: absolute;
+                left: 0px;
+                right: 0px;
+                font-size: 96pt;
+                text-align: center;
+            }
+            .comments{
+                position: absolute;
+                display: block;
+                font-size: 48pt;
+            }
+            .comments > * {
+                font-size: 48pt;
+            }
+            * {
+                font-family: 'Unifont', 'Unifont Upper';
+                font-size: 12pt;
+                color: white;
+                margin: 0in;
+                line-height: 1;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Canvas</h1>
+        <div style="border:1px solid white; width:1080px; height:1080px;">
+            <div class="box">
+                <div class="title" style="color:lime"><br /><br />You CAN square the circle!<br /></div>
+                <div class="comments" style="color:cyan; left: 0px; right: 0px; top: 7in; bottom: 0in;">
+                    &nbsp;&nbsp;&nbsp;&nbsp;｡￮﹌*⁅￫ д ￩⁆*﹌￭｡<br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;aka Tarski's<br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;circle squaring method
+                    <!--①　②　③-->
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

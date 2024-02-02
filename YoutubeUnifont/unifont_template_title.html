@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Canvas</title>
+        <style>
+            @page {
+                size: 8.5in 11in;
+                margin-left: 0.75in;
+                margin-right: 0.75in;
+                margin-top: 0.5in;
+                margin-bottom: 0.0in;
+                marks: cross;
+            }
+            body {
+                margin: 0.25in;
+                background-color: black;
+            }
+            h1 {
+                font-weight: normal;
+            }
+            .box {
+                position: relative;
+                display: block;
+                width: 1920px;
+                height: 1080px;
+                border: 12px solid black;
+                box-sizing: border-box;
+            }
+            .highlight {
+                background: repeating-linear-gradient(
+                    45deg, 
+                    transparent,
+                    transparent 14px,
+                    #007 14px,
+                    #007 16px
+                ),
+                repeating-linear-gradient(
+                    -45deg, 
+                    transparent,
+                    transparent 14px,
+                    #007 14px,
+                    #007 16px
+                );
+            }
+            .bordered {
+                border: 1px solid red;
+            }
+
+            .title {
+                position: absolute;
+                left: 0px;
+                right: 0px;
+                font-size: 96pt;
+                text-align: center;
+            }
+            .title > * {
+                font-size: 96pt;
+            }
+            .comments{
+                position: absolute;
+                display: block;
+                font-size: 36pt;
+            }
+            .comments > * {
+                font-size: 36pt;
+            }
+            * {
+                font-family: 'Unifont', 'Unifont Upper';
+                font-size: 12pt;
+                color: white;
+                margin: 0in;
+                line-height: 1;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Canvas</h1>
+        <div style="border:1px solid white; width:1920px; height:1080px;">
+            <div class="box">
+                <div class="title" style="color:lime; top: 40px">
+                    <span style="color:red">⬤ ⬤</span> It's now history… <span style="color:orange">⬤</span>
+                </div>
+                <div class="comments" style="color:white; left: 0px; right: 0px; top: 240px; bottom: 0in;">
+                    📽 Filmed using a smartphone camera; edited with Kdenlive and TikTok.<br />
+                    🕜︎ The final southbound train will arrive then depart Finch at 1:35 XM.<br />
+                    🕝︎ The final train will arrive at 2:16 XM, afterwards the station closes.<br />
+                    🛤 This train departed at 23:07 by the second. We might've reached the end of the road tonight…
+                    <br /><br /><br /><br /><br /><br /><br /><br /><br />
+                    Please remember to be safe and considerate at all times.<br />We don't want another bloody delay!<br />
+                    <span style="color:magenta;">Looking one day to get an actual camera&hellip;</span>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

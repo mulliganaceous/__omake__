@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Canvas</title>
+        <style>
+            @page {
+                size: 8.5in 11in;
+                margin-left: 0.75in;
+                margin-right: 0.75in;
+                margin-top: 0.5in;
+                margin-bottom: 0.0in;
+                marks: cross;
+            }
+            body {
+                margin: 0.25in;
+                background-color: black;
+            }
+            h1 {
+                font-weight: normal;
+            }
+            .box {
+                position: relative;
+                display: block;
+                width: 640px;
+                height: 518px;
+                border: 2px solid black;
+                box-sizing: border-box;
+            }
+            .highlight {
+                background: repeating-linear-gradient(
+                    45deg, 
+                    transparent,
+                    transparent 14px,
+                    #007 14px,
+                    #007 16px
+                ),
+                repeating-linear-gradient(
+                    -45deg, 
+                    transparent,
+                    transparent 14px,
+                    #007 14px,
+                    #007 16px
+                );
+            }
+            .bordered {
+                border: 1px solid red;
+            }
+
+            .title {
+                position: absolute;
+                left: 0px;
+                right: 0px;
+                font-size: 24pt;
+                text-align: left;
+            }
+            .comments{
+                position: absolute;
+                display: block;
+                font-size: 12pt;
+            }
+            .comments > span {
+                font-size: 12pt;
+                color:cyan;
+            }
+            * {
+                font-family: 'Unifont', 'Unifont Upper';
+                font-size: 12pt;
+                color: white;
+                margin: 0in;
+                line-height: 1;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Canvas</h1>
+        <div style="border:1px solid white; width:642px; height:518px;">
+            <div class="box">
+                <div class="title" style="color:lime; top: 40px">
+                    &nbsp;&nbsp;<span style="color:red; font-size: 24pt;">🖧</span> Something to revisit one day… <span style="color:red; font-size: 24pt;">&nbsp;📶&#xFE0E;</span>
+                </div>
+                <div class="comments" style="color:white; left: 0px; right: 0px; top: 240px; bottom: 0in;">
+                    &nbsp;&nbsp;&nbsp;&nbsp;🗒 Runs played on 2022 July 08. This footage is a replay.</span><br /><br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;📶&#xFE0E; On that date, Rogers Communications suffered a Canada-wide outage.<br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unable to surf the internet or even communicate on the phone, <br /> 
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I decided to revisit an old game. <br/> <br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<u>🖭 Tracks Used:<br/><br/></u><span style="color:lime">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gradius Gaiden — Boss Rush 2 [Stage 8 Part II] <br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battleships Forever [title and briefing]<br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Baten Kaitos — The True Mirror<br/><br/></span>z
+                    &nbsp;&nbsp;&nbsp;&nbsp;Pulos, Alexis, and S. Austin Lee. 
+                    <span style=color:lime>Transnational Contexts of Culture,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gender, Class, and Colonialism in Play : Video Games in East Asia.</span><br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edited by Alexis Pulos and S. Austin (Seungcheol Austin) Lee, <br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Palgrave Macmillan, 2016, pp. 29.<br/><br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;🗔 Recorded using OBE on a Linux, using Wine and WF's replay feature.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edited using KdenLive and Unifont.
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
