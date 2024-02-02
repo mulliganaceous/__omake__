@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Canvas</title>
+        <style>
+            @page {
+                size: 8.5in 11in;
+                margin-left: 0.75in;
+                margin-right: 0.75in;
+                margin-top: 0.5in;
+                margin-bottom: 0.0in;
+                marks: cross;
+            }
+            body {
+                margin: 0.25in;
+                background-color: black;
+            }
+            h1 {
+                font-weight: normal;
+            }
+            .box {
+                position: relative;
+                display: block;
+                width: 1920px;
+                height: 108px;
+                box-sizing: border-box;
+            }
+            .highlight {
+                background: repeating-linear-gradient(
+                    45deg, 
+                    transparent,
+                    transparent 14px,
+                    #007 14px,
+                    #007 16px
+                ),
+                repeating-linear-gradient(
+                    -45deg, 
+                    transparent,
+                    transparent 14px,
+                    #007 14px,
+                    #007 16px
+                );
+            }
+            .bordered {
+                border: 1px solid red;
+            }
+
+            .title {
+                position: absolute;
+                left: 0px;
+                right: 0px;
+                font-size: 72pt;
+                text-align: left;
+            }
+            .comments{
+                position: absolute;
+                display: block;
+                font-size: 36pt;
+            }
+            .comments > * {
+                font-size: 36pt;
+            }
+            * {
+                font-family: 'Unifont', 'Unifont Upper';
+                color: white;
+                margin: 0in;
+                line-height: 1;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Canvas</h1>
+        <div style="border:1px solid white; width:1920px; height:108px;">
+            <div class="box">
+                <div class="title" style="color:lime;"><!--🮘🮘🮘🮘🮘&nbsp;One&nbsp;night&nbsp;in&nbsp;Finch&nbsp;Station…&nbsp;&nbsp;🮘🮘🮘🮘🮘--></div>
+                <div class="comments" style="color:lime; left: 0px; right: 0px; top: 0in; bottom: 0in;">
+                    <span style="color:white">🗓</span> Another similar footage was filmed decades ago, this time inside the now-extinct M-1 train.
+                    What a rare footage!
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
