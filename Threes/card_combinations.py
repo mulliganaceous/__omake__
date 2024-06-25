@@ -1,55 +1,70 @@
 NUM_TILES = 4*4
 NUM_LOCK = 8
 MAX_RANK = 13
+MIN_TILES = 4
 
-def _cards(cards: list[int]):
-    return map(lambda x : 3*2**(x - 1), cards)
-
-def _value(cards: list[int]):
-    return map(lambda x : 3**x, cards)
-
-def _cardsmult(cards: list[int], mults: list[int]):
+def to_cards(cards: list[int], mults: list[int] = None):
+    if not mults:
+        return map(lambda x : 3*2**(x - 1), cards)
     return map(lambda x, m: (3*2**(x - 1), m), cards, mults)
 
-def possible_combinations(score: int, debug=True) -> list[int]:
+def to_value(cards: list[int]):
+    return map(lambda x : 3**x, cards)
+
+def possible_combinations(score: int, debug=False) -> tuple[list[int], int]:
     '''
     Iterative stack method of obtaining the possible combinations of cards in a game of Threes.
     '''
     if score < 3:
-        raise Exception("Score is not possible")
+        raise Exception("Score is too low")
+    
     answer = []
     cards = []
     mults  = []
     rem = score
     rank = MAX_RANK
     mult = 1
+    
     while score < 3**rank:
         rank -= 1
-    print("Maximum rank: {0:d}".format(3*2**(rank - 1)))
-    while NUM_LOCK*3**rank > score:
+    
+    highest = rank
+    while 4*NUM_LOCK*3**(rank - 1) >= score: # From double lock
+        mult = 1
         cards.append(rank)
         mults.append(mult)
         rem -= 3**rank
         while len(cards):
             if debug:
-                print("[{0:2d}]\t{1:d}\t{2:s}".format(len(cards),sum(_value(cards)),str(list(_cards(cards)))))
-            if rem == 0:
+                print("[{0:2d}]\t{1:d}\t{2:s}".format(len(cards),sum(to_value(cards)),str(list(to_cards(cards, mults))),rem).replace(" ",""))
+
+            if rem == 0 and len(cards) >= MIN_TILES:
                 answer.append(1*cards) # clone cards
             while rank > 0 and 3**rank > rem:
                 rank -= 1
                 mult = 0
-            if rank == 0 or len(cards) == NUM_TILES or mult == NUM_LOCK or NUM_LOCK*3**rank < rem:
+                
+            if rank == 0 or len(cards) == NUM_TILES or rank == 1 and mult == NUM_LOCK or 4*NUM_LOCK*3**(rank - 1) < rem:
+                # Finish recursive call
                 rank = cards.pop()
                 mults.pop()
                 rem += 3**rank
                 rank -= 1
                 mult = 0
+            elif mult == NUM_LOCK:
+                # Move on to next card
+                rank -= 1
+                mult = 1
+                cards.append(rank)
+                mults.append(mult)
+                rem -= 3**rank
             else:
+                # Add next copy
                 mult += 1
                 cards.append(rank)
                 mults.append(mult)
                 rem -= 3**rank
-    return answer
+    return answer, highest
 
 if __name__ == "__main__":
     import numpy as np
@@ -60,8 +75,8 @@ if __name__ == "__main__":
     while True:
         try:
             score = int(input("Enter a score: "))
-            answer = possible_combinations(score)
-            answer = map(lambda x : list(_cards(x)) + [0]*(NUM_TILES - len(x)), answer)
+            answer = possible_combinations(score, True)
+            answer = map(lambda x : list(to_cards(x)) + [0]*(NUM_TILES - len(x)), answer)
             answer = np.array(list(answer))
             highest = None
             if len(answer) > 0:
