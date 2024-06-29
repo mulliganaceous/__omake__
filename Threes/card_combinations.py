@@ -74,13 +74,21 @@ if __name__ == "__main__":
     np.set_printoptions(threshold=sys.maxsize, linewidth=sys.maxsize)
     while True:
         try:
-            score = int(input("Enter a score: "))
+            score = input("Enter a score: ")
+            if score == "exit()":
+                exit(0)
+            score = int(score)
             answer = possible_combinations(score, True)
+            highest = 3*2**(answer[1] - 1)
+            answer = answer[0]
             answer = map(lambda x : list(to_cards(x)) + [0]*(NUM_TILES - len(x)), answer)
             answer = np.array(list(answer))
-            highest = None
-            if len(answer) > 0:
-                highest = answer[0][0]
-            print("\x1b[1;33;40m{0:s}".format(str(answer)).replace(' 0', '\x1b[1;36;40m -\x1b[1;33;40m').replace('%s' % highest, '\x1b[1;31;40m%s\x1b[1;33;40m' % highest))
+            str1 = "{0:s}".format(str(answer))
+            str1 = str1.replace('%s' % highest, '\x1b[1;31;40m%s\x1b[1;33;40m' % highest).replace(' 0', '\x1b[1;36;40m -\x1b[1;33;40m')
+            str2 = "There are {0:d} possible card combinations for scoring exactly {1:d}. It corresponds to the {2:d} card.\n".format(len(answer),score,highest)
+            print("\x1b[1;33;40m" + str1)
+            print(str2)
         except ValueError:
             pass
+        except Exception:
+            print("Score is too low.")
