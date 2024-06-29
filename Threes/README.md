@@ -1,6 +1,6 @@
 # Threes Analyzer
 
-This is a work in progress. All Three-related research goes there. The first project is to examine which scores are uncommon, and which scores are impossible.
+This is really just a demonstration of basic algorithms implemented in Python. All Three-related research goes there. The first project is to examine which scores are uncommon, and which scores are impossible.
 
 The smallest impossible score is __39,363__. It is also the first number whose sum of ternary digits exceed 16. The list of all impossible scores is listed in impossible_scores.txt.
 
